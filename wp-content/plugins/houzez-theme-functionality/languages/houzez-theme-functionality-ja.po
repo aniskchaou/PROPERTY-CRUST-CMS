@@ -1,0 +1,858 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Functionality Plugin\n"
+"Language: ja\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: classes/class-settings.php:53
+msgid "Portfolio Settings"
+msgstr "ポートフォリオ設定"
+
+#: classes/class-settings.php:54
+msgid "Settings"
+msgstr "設定"
+
+#: classes/class-settings.php:83
+msgid "Permalinks"
+msgstr "パーマリンク"
+
+#: classes/class-settings.php:86
+msgid "Property Slug"
+msgstr "プロパティスラグ"
+
+#: classes/class-settings.php:87
+msgid "Property Type Slug"
+msgstr "プロパティの種類スラグ"
+
+#: classes/class-settings.php:88
+msgid "Property Feature Slug"
+msgstr "プロパティの特徴スラグ"
+
+#: classes/class-settings.php:89
+msgid "Property Status Slug"
+msgstr "プロパティステータススラグ"
+
+#: classes/class-settings.php:90
+msgid "Property Area Slug"
+msgstr "プロパティエリアスラグ"
+
+#: classes/class-settings.php:91
+msgid "Property City Slug"
+msgstr "プロパティシティスラグ"
+
+#: classes/class-settings.php:92
+msgid "Property State Slug"
+msgstr "プロパティ状態スラグ"
+
+#: classes/class-settings.php:105
+msgid "Set up custom permalinks for the property section on your site."
+msgstr "サイトのプロパティセクションのカスタムパーマリンクを設定します。"
+
+#: classes/class-settings.php:236
+msgid "Properties Settings"
+msgstr "プロパティ設定"
+
+#: classes/class-settings.php:243
+msgid "Update Settings"
+msgstr "設定を更新"
+
+#: functions.php:30
+msgid "Activated Successfully, reload page!"
+msgstr "有効になったら、ページを再読み込みしてください！"
+
+#: functions.php:32
+msgid "Invalid license key"
+msgstr "ライセンスキーが無効です"
+
+#: post-types/agency-post-type.php:36 post-types/agency-post-type.php:42
+#: post-types/agency-post-type.php:48 statistics/houzez-statistics.php:62
+msgid "Agencies"
+msgstr "代理店"
+
+#: post-types/agency-post-type.php:37
+msgid "Agency"
+msgstr "代理店"
+
+#: post-types/agency-post-type.php:38 post-types/agency-post-type.php:39
+msgid "Add New Agency"
+msgstr "新しい代理店を追加"
+
+#: post-types/agency-post-type.php:40
+msgid "Edit Agency"
+msgstr "代理店の編集"
+
+#: post-types/agency-post-type.php:41
+msgid "New Agency"
+msgstr "新しい代理店"
+
+#: post-types/agency-post-type.php:43
+msgid "View Agency"
+msgstr "代理店を表示"
+
+#: post-types/agency-post-type.php:44
+msgid "Search Agency"
+msgstr "検索機関"
+
+#: post-types/agency-post-type.php:45
+msgid "No agencies found"
+msgstr "代理店が見つかりません"
+
+#: post-types/agency-post-type.php:46
+msgid "No agencies found in Trash"
+msgstr "ゴミ箱に代理店が見つかりません"
+
+#: post-types/agency-post-type.php:79
+msgid "Agency ID"
+msgstr "代理店ID"
+
+#: post-types/agency-post-type.php:80 post-types/user-packages-post-type.php:61
+msgid "Title"
+msgstr "タイトル"
+
+#: post-types/agency-post-type.php:81
+msgid "License"
+msgstr "ライセンス"
+
+#: post-types/agency-post-type.php:82 post-types/property-post-type.php:254
+#: statistics/houzez-statistics.php:115 statistics/houzez-statistics.php:192
+#: statistics/houzez-statistics.php:240 statistics/houzez-statistics.php:320
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: post-types/agency-post-type.php:83 post-types/agent-post-type.php:115
+msgid "E-mail"
+msgstr "Eメール"
+
+#: post-types/agency-post-type.php:84 post-types/agent-post-type.php:116
+msgid "Web"
+msgstr "ウェブ"
+
+#: post-types/agency-post-type.php:85
+msgid "Phone"
+msgstr "電話"
+
+#: post-types/agency-post-type.php:86 post-types/agent-post-type.php:30
+#: statistics/houzez-statistics.php:56
+msgid "Agents"
+msgstr "エージェント"
+
+#: post-types/agency-post-type.php:87
+msgid "Author"
+msgstr "著者"
+
+#: post-types/agent-post-type.php:31
+msgid "Agent"
+msgstr "エージェント"
+
+#: post-types/agent-post-type.php:32 post-types/invoice-post-type.php:14
+#: post-types/partners-post-type.php:13 post-types/payments-post-type.php:13
+#: post-types/payments-post-type.php:14 post-types/property-post-type.php:53
+#: post-types/testimonials-post-type.php:45
+#: post-types/user-packages-post-type.php:33
+#: post-types/user-packages-post-type.php:34
+msgid "Add New"
+msgstr "新しく追加する"
+
+#: post-types/agent-post-type.php:33
+msgid "Add New Agent"
+msgstr "新しいエージェントを追加する"
+
+#: post-types/agent-post-type.php:34
+msgid "Edit Agent"
+msgstr "エージェントの編集"
+
+#: post-types/agent-post-type.php:35
+msgid "New Agent"
+msgstr "新エージェント"
+
+#: post-types/agent-post-type.php:36
+msgid "View Agent"
+msgstr "View Agent"
+
+#: post-types/agent-post-type.php:37 post-types/testimonials-post-type.php:50
+msgid "Search Agent"
+msgstr "検索エージェント"
+
+#: post-types/agent-post-type.php:38
+msgid "No Agent found"
+msgstr "エージェントが見つかりません"
+
+#: post-types/agent-post-type.php:39
+msgid "No Agent found in Trash"
+msgstr "ごみ箱にエージェントが見つかりません"
+
+#: post-types/agent-post-type.php:70
+msgid "Categories"
+msgstr "カテゴリー"
+
+#: post-types/agent-post-type.php:71
+msgid "Add New Category"
+msgstr "新しいカテゴリを追加"
+
+#: post-types/agent-post-type.php:72
+msgid "New Category"
+msgstr "新たなカテゴリー"
+
+#: post-types/agent-post-type.php:88
+msgid "Cities"
+msgstr "都市"
+
+#: post-types/agent-post-type.php:89 post-types/property-post-type.php:168
+msgid "Add New City"
+msgstr "新しい都市を追加"
+
+#: post-types/agent-post-type.php:90 post-types/property-post-type.php:169
+msgid "New City"
+msgstr "あたらしいまち"
+
+#: post-types/agent-post-type.php:111
+msgid "Agent ID"
+msgstr "エージェントID"
+
+#: post-types/agent-post-type.php:112
+msgid "Agent Name"
+msgstr "エージェント名"
+
+#: post-types/agent-post-type.php:113
+msgid "Picture"
+msgstr "画像"
+
+#: post-types/agent-post-type.php:114
+msgid "Category"
+msgstr "カテゴリー"
+
+#: post-types/agent-post-type.php:117
+msgid "Mobile"
+msgstr "モバイル"
+
+#: post-types/invoice-post-type.php:12
+msgid "Houzez Invoices"
+msgstr "Houzez請求書"
+
+#: post-types/invoice-post-type.php:13
+msgid "Houzez Invoice"
+msgstr "Houzez請求書"
+
+#: post-types/invoice-post-type.php:15
+msgid "Add New Invoice"
+msgstr "新しい請求書の追加"
+
+#: post-types/invoice-post-type.php:16
+msgid "Edit Invoice"
+msgstr "請求書の編集"
+
+#: post-types/invoice-post-type.php:17
+msgid "New Invoice"
+msgstr "新しい請求書"
+
+#: post-types/invoice-post-type.php:18
+msgid "View Invoice"
+msgstr "請求書を見る"
+
+#: post-types/invoice-post-type.php:19
+msgid "Search Invoice"
+msgstr "請求書の検索"
+
+#: post-types/invoice-post-type.php:20
+msgid "No Invoice found"
+msgstr "請求書が見つかりませんでした"
+
+#: post-types/invoice-post-type.php:21
+msgid "No Invoice found in Trash"
+msgstr "ゴミ箱に請求書が見つかりません"
+
+#: post-types/invoice-post-type.php:57
+msgid "Invoice Title"
+msgstr "請求書のタイトル"
+
+#: post-types/invoice-post-type.php:58 post-types/payments-post-type.php:50
+#: post-types/property-post-type.php:258 statistics/houzez-statistics.php:119
+#: statistics/houzez-statistics.php:196 statistics/houzez-statistics.php:244
+#: statistics/houzez-statistics.php:324 statistics/houzez-statistics.php:506
+#: statistics/houzez-statistics.php:509
+msgid "Price"
+msgstr "価格"
+
+#: post-types/invoice-post-type.php:59
+msgid "Payment Method"
+msgstr "支払方法"
+
+#: post-types/invoice-post-type.php:60 post-types/payments-post-type.php:53
+msgid "Buyer"
+msgstr "買い手"
+
+#: post-types/invoice-post-type.php:61
+msgid "Buyer Email"
+msgstr "購入者のメール"
+
+#: post-types/invoice-post-type.php:62
+msgid "Invoice Type"
+msgstr "請求書タイプ"
+
+#: post-types/invoice-post-type.php:63
+msgid "Billion For"
+msgstr "億"
+
+#: post-types/invoice-post-type.php:64 post-types/payments-post-type.php:54
+#: post-types/property-post-type.php:148 post-types/property-post-type.php:257
+#: statistics/houzez-statistics.php:118 statistics/houzez-statistics.php:195
+#: statistics/houzez-statistics.php:243 statistics/houzez-statistics.php:323
+#: statistics/houzez-statistics.php:418 statistics/houzez-statistics.php:580
+msgid "Status"
+msgstr "状態"
+
+#: post-types/invoice-post-type.php:65 post-types/payments-post-type.php:55
+msgid "Date"
+msgstr "日付"
+
+#: post-types/invoice-post-type.php:87
+msgid "Direct Bank Transfer"
+msgstr "直接銀行振込"
+
+#: post-types/invoice-post-type.php:114 post-types/payments-post-type.php:91
+msgid "Not Paid"
+msgstr "未払い"
+
+#: post-types/invoice-post-type.php:116 post-types/payments-post-type.php:93
+msgid "Paid"
+msgstr "有料"
+
+#: post-types/membership-post-type.php:17
+msgid "Houzez Packages"
+msgstr "Houzezパッケージ"
+
+#: post-types/membership-post-type.php:18
+#: post-types/user-packages-post-type.php:32
+msgid "Packages"
+msgstr "パッケージ"
+
+#: post-types/membership-post-type.php:19
+msgid "Add New Package"
+msgstr "新しいパッケージを追加する"
+
+#: post-types/membership-post-type.php:20
+msgid "Add Packages"
+msgstr "パッケージを追加"
+
+#: post-types/membership-post-type.php:21
+msgid "Edit Packages"
+msgstr "パッケージの編集"
+
+#: post-types/membership-post-type.php:22
+msgid "Edit Package"
+msgstr "パッケージの編集"
+
+#: post-types/membership-post-type.php:23
+msgid "New Packages"
+msgstr "新しいパッケージ"
+
+#: post-types/membership-post-type.php:24
+#: post-types/membership-post-type.php:25
+msgid "View Packages"
+msgstr "パッケージの表示"
+
+#: post-types/membership-post-type.php:26
+msgid "Search Packages"
+msgstr "検索パッケージ"
+
+#: post-types/membership-post-type.php:27
+#: post-types/membership-post-type.php:28
+msgid "No Packages found"
+msgstr "パッケージが見つかりません"
+
+#: post-types/membership-post-type.php:29
+msgid "Parent Package"
+msgstr "親パッケージ"
+
+#: post-types/partners-post-type.php:11
+msgid "Partners"
+msgstr "パートナー"
+
+#: post-types/partners-post-type.php:12
+msgid "Partner"
+msgstr "パートナー"
+
+#: post-types/partners-post-type.php:14
+msgid "Add New Partner"
+msgstr "新しいパートナーを追加"
+
+#: post-types/partners-post-type.php:15
+msgid "Edit Partner"
+msgstr "パートナーの編集"
+
+#: post-types/partners-post-type.php:16
+msgid "New Partner"
+msgstr "新しいパートナー"
+
+#: post-types/partners-post-type.php:17
+msgid "View Partner"
+msgstr "パートナーを表示"
+
+#: post-types/partners-post-type.php:18
+msgid "Search Partner"
+msgstr "検索パートナー"
+
+#: post-types/partners-post-type.php:19
+msgid "No Partner found"
+msgstr "パートナーが見つかりません"
+
+#: post-types/partners-post-type.php:20
+msgid "No Partner found in Trash"
+msgstr "ごみ箱にパートナーが見つかりません"
+
+#: post-types/payments-post-type.php:11
+msgid "Houzez Payments"
+msgstr "Houzez支払い"
+
+#: post-types/payments-post-type.php:12
+msgid "Payment"
+msgstr "支払い"
+
+#: post-types/payments-post-type.php:49
+msgid "Payment Title"
+msgstr "お支払いのタイトル"
+
+#: post-types/payments-post-type.php:51
+msgid "Payment Type"
+msgstr "払いの種類"
+
+#: post-types/payments-post-type.php:52
+msgid "Payment For"
+msgstr "支払い"
+
+#: post-types/payments-post-type.php:133
+msgid "Recurring"
+msgstr "繰り返し"
+
+#: post-types/payments-post-type.php:135
+msgid "One Time"
+msgstr "一度"
+
+#: post-types/property-post-type.php:50
+msgid "Properties"
+msgstr "プロパティ"
+
+#: post-types/property-post-type.php:51
+msgid "Property"
+msgstr "プロパティ"
+
+#: post-types/property-post-type.php:52
+msgid "Add New Property"
+msgstr "新しいプロパティを追加"
+
+#: post-types/property-post-type.php:54
+msgid "Edit Property"
+msgstr "プロパティの編集"
+
+#: post-types/property-post-type.php:55
+msgid "New Property"
+msgstr "新しいプロパティ"
+
+#: post-types/property-post-type.php:56
+msgid "View Property"
+msgstr "ビュープロパティ"
+
+#: post-types/property-post-type.php:57
+msgid "Search Property"
+msgstr "検索プロパティ"
+
+#: post-types/property-post-type.php:58 statistics/houzez-statistics.php:183
+#: statistics/houzez-statistics.php:311
+msgid "No Property found"
+msgstr "プロパティが見つかりません"
+
+#: post-types/property-post-type.php:59
+msgid "No Property found in Trash"
+msgstr "ごみ箱にプロパティが見つかりません"
+
+#: post-types/property-post-type.php:111 post-types/property-post-type.php:256
+#: statistics/houzez-statistics.php:117 statistics/houzez-statistics.php:194
+#: statistics/houzez-statistics.php:242 statistics/houzez-statistics.php:322
+#: statistics/houzez-statistics.php:410 statistics/houzez-statistics.php:581
+msgid "Type"
+msgstr "タイプ"
+
+#: post-types/property-post-type.php:112
+msgid "Add New Type"
+msgstr "新しいタイプを追加"
+
+#: post-types/property-post-type.php:113
+msgid "New Type"
+msgstr "新しいタイプ"
+
+#: post-types/property-post-type.php:130
+msgid "Features"
+msgstr "特徴"
+
+#: post-types/property-post-type.php:131
+msgid "Add New Feature"
+msgstr "新しい機能を追加する"
+
+#: post-types/property-post-type.php:132
+msgid "New Feature"
+msgstr "新機能"
+
+#: post-types/property-post-type.php:149
+msgid "Add New Status"
+msgstr "新しいステータスを追加"
+
+#: post-types/property-post-type.php:150
+msgid "New Status"
+msgstr "新しいステータス"
+
+#: post-types/property-post-type.php:167 post-types/property-post-type.php:255
+#: post-types/property-post-type.php:504 statistics/houzez-statistics.php:116
+#: statistics/houzez-statistics.php:193 statistics/houzez-statistics.php:241
+#: statistics/houzez-statistics.php:321
+msgid "City"
+msgstr "シティ"
+
+#: post-types/property-post-type.php:186 statistics/houzez-statistics.php:426
+msgid "Neighborhood"
+msgstr "ご近所"
+
+#: post-types/property-post-type.php:187
+msgid "Add Property Neighborhood"
+msgstr "プロパティの追加"
+
+#: post-types/property-post-type.php:188
+msgid "New Property Neighborhood"
+msgstr "新しいプロパティの近所"
+
+#: post-types/property-post-type.php:204
+msgid "County / State"
+msgstr "郡/州"
+
+#: post-types/property-post-type.php:205
+msgid "Add Property County / State"
+msgstr "プロパティ郡/州を追加"
+
+#: post-types/property-post-type.php:206
+msgid "New Property County / State"
+msgstr "新しい物件郡/州"
+
+#: post-types/property-post-type.php:222
+msgid "Labels"
+msgstr "ラベル"
+
+#: post-types/property-post-type.php:223
+msgid "Add New Label"
+msgstr "新しいラベルを追加"
+
+#: post-types/property-post-type.php:224
+msgid "New Label"
+msgstr "新しいラベル"
+
+#: post-types/property-post-type.php:253 statistics/houzez-statistics.php:113
+#: statistics/houzez-statistics.php:190 statistics/houzez-statistics.php:238
+#: statistics/houzez-statistics.php:318
+msgid "Property Title"
+msgstr "プロパティタイトル"
+
+#: post-types/property-post-type.php:259 statistics/houzez-statistics.php:120
+#: statistics/houzez-statistics.php:197 statistics/houzez-statistics.php:245
+#: statistics/houzez-statistics.php:325
+msgid "Property ID"
+msgstr "プロパティID"
+
+#: post-types/property-post-type.php:260
+msgid "Featured"
+msgstr "注目"
+
+#: post-types/property-post-type.php:261
+msgid "Posted"
+msgstr "掲示される"
+
+#: post-types/property-post-type.php:262
+msgid "Expires"
+msgstr "期限切れ"
+
+#: post-types/property-post-type.php:263 statistics/houzez-statistics.php:122
+#: statistics/houzez-statistics.php:199 statistics/houzez-statistics.php:247
+#: statistics/houzez-statistics.php:327 statistics/houzez-statistics.php:355
+#: statistics/houzez-statistics.php:558
+msgid "Actions"
+msgstr "行動"
+
+#: post-types/property-post-type.php:294 post-types/property-post-type.php:332
+#: post-types/property-post-type.php:341 post-types/property-post-type.php:350
+#: statistics/houzez-statistics.php:169 statistics/houzez-statistics.php:296
+msgid "NA"
+msgstr "NA"
+
+#: post-types/property-post-type.php:300
+msgid "No"
+msgstr "いいえ"
+
+#: post-types/property-post-type.php:302
+msgid "Yes"
+msgstr "はい"
+
+#: post-types/property-post-type.php:314
+msgid "No Address Provided!"
+msgstr "アドレスは入力されていません！"
+
+#: post-types/property-post-type.php:365
+msgid "Approve"
+msgstr "承認する"
+
+#: post-types/property-post-type.php:372
+msgid "Expire"
+msgstr "失効"
+
+#: post-types/property-post-type.php:415
+msgid "by a guest"
+msgstr "ゲストで"
+
+#: post-types/property-post-type.php:415
+msgid "by %s"
+msgstr "％s"
+
+#: post-types/property-post-type.php:503 post-types/property-post-type.php:540
+#: post-types/property-post-type.php:578
+msgid "Name"
+msgstr "名"
+
+#: post-types/property-post-type.php:506 post-types/property-post-type.php:543
+#: post-types/property-post-type.php:581
+msgid "Slug"
+msgstr "スラグ"
+
+#: post-types/property-post-type.php:507 post-types/property-post-type.php:544
+#: post-types/property-post-type.php:582
+msgid "Posts"
+msgstr "投稿"
+
+#: post-types/property-post-type.php:541
+msgid "County/State"
+msgstr "郡/州"
+
+#: post-types/property-post-type.php:579 statistics/houzez-statistics.php:584
+msgid "Country"
+msgstr "国"
+
+#: post-types/property-post-type.php:751
+msgid "All Types"
+msgstr "いろんなタイプ"
+
+#: post-types/property-post-type.php:786
+msgid "All Status"
+msgstr "すべてのステータス"
+
+#: post-types/property-post-type.php:821
+msgid "All Labels"
+msgstr "すべてのラベル"
+
+#: post-types/property-post-type.php:856
+msgid "All Cities"
+msgstr "すべての都市"
+
+#: post-types/testimonials-post-type.php:43
+msgid "Testimonials"
+msgstr "お客様の声"
+
+#: post-types/testimonials-post-type.php:44
+msgid "Testimonial"
+msgstr "お客様の声"
+
+#: post-types/testimonials-post-type.php:46
+msgid "Add New Testimonial"
+msgstr "新しい評価を加える"
+
+#: post-types/testimonials-post-type.php:47
+msgid "Edit Testimonial"
+msgstr "体験談を編集"
+
+#: post-types/testimonials-post-type.php:48
+msgid "New Testimonial"
+msgstr "新しい評価"
+
+#: post-types/testimonials-post-type.php:49
+msgid "View Testimonial"
+msgstr "評価を見る"
+
+#: post-types/testimonials-post-type.php:51
+msgid "No Testimonial found"
+msgstr "お客様の声が見つかりません"
+
+#: post-types/testimonials-post-type.php:52
+msgid "No Testimonial found in Trash"
+msgstr "ゴミ箱には何の証言もありません"
+
+#: post-types/user-packages-post-type.php:31
+msgid "Users Package Info"
+msgstr "ユーザーパッケージ情報"
+
+#: post-types/user-packages-post-type.php:62
+msgid "Package Holder"
+msgstr "パッケージホルダー"
+
+#: post-types/user-packages-post-type.php:63
+msgid "Package"
+msgstr "パッケージ"
+
+#: post-types/user-packages-post-type.php:64
+msgid "Available Listings"
+msgstr "利用可能なリスト"
+
+#: post-types/user-packages-post-type.php:65
+msgid "Featured Available"
+msgstr "特集記事"
+
+#: post-types/user-packages-post-type.php:66
+msgid "Activation"
+msgstr "アクティベーション"
+
+#: post-types/user-packages-post-type.php:67
+msgid "Expiry"
+msgstr "満了"
+
+#: statistics/houzez-statistics.php:9
+msgid "Houzez Statistics"
+msgstr "Houzez統計"
+
+#: statistics/houzez-statistics.php:10 statistics/houzez-statistics.php:108
+msgid "Most Viewed Properties"
+msgstr "最もよく見られるプロパティ"
+
+#: statistics/houzez-statistics.php:10
+msgid "Most Viewed"
+msgstr "最も見られました"
+
+#: statistics/houzez-statistics.php:11 statistics/houzez-statistics.php:233
+msgid "Most Favourite Properties"
+msgstr "最もお気に入りのプロパティ"
+
+#: statistics/houzez-statistics.php:11
+msgid "Most Favourite"
+msgstr "最も好きなもの"
+
+#: statistics/houzez-statistics.php:12 statistics/houzez-statistics.php:348
+msgid "Saved Searches"
+msgstr "保存された検索"
+
+#: statistics/houzez-statistics.php:40 statistics/houzez-statistics.php:95
+#: statistics/houzez-statistics.php:215 statistics/houzez-statistics.php:343
+#: statistics/houzez-statistics.php:574
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページにアクセスするための十分な権限がありません。"
+
+#: statistics/houzez-statistics.php:48
+msgid "Houzez Statistic"
+msgstr "Houzez統計"
+
+#: statistics/houzez-statistics.php:52 statistics/houzez-statistics.php:78
+msgid "Total Views Today"
+msgstr "今日の総視聴数"
+
+#: statistics/houzez-statistics.php:54
+msgid "Users"
+msgstr "ユーザー"
+
+#: statistics/houzez-statistics.php:59
+msgid "Buyers"
+msgstr "バイヤー"
+
+#: statistics/houzez-statistics.php:65
+msgid "Sellers"
+msgstr "売り手"
+
+#: statistics/houzez-statistics.php:68
+msgid "Owners"
+msgstr "所有者"
+
+#: statistics/houzez-statistics.php:71
+msgid "Managers"
+msgstr "マネージャー"
+
+#: statistics/houzez-statistics.php:121 statistics/houzez-statistics.php:198
+msgid "Views Count"
+msgstr "ビュー数"
+
+#: statistics/houzez-statistics.php:177 statistics/houzez-statistics.php:304
+#: statistics/houzez-statistics.php:541
+msgid "View"
+msgstr "ビュー"
+
+#: statistics/houzez-statistics.php:246
+msgid "Favourite Count "
+msgstr "好きな数"
+
+#: statistics/houzez-statistics.php:326
+msgid "Favourite Count"
+msgstr "好きな数"
+
+#: statistics/houzez-statistics.php:353 statistics/houzez-statistics.php:556
+msgid "Search Query"
+msgstr "検索クエリ"
+
+#: statistics/houzez-statistics.php:402 statistics/houzez-statistics.php:582
+msgid "Location"
+msgstr "ロケーション"
+
+#: statistics/houzez-statistics.php:434 statistics/houzez-statistics.php:583
+msgid "State"
+msgstr "状態"
+
+#: statistics/houzez-statistics.php:494
+msgid "Bedrooms"
+msgstr "ベッドルーム"
+
+#: statistics/houzez-statistics.php:499
+msgid "Bathrooms"
+msgstr "バスルーム"
+
+#: statistics/houzez-statistics.php:517 statistics/houzez-statistics.php:520
+msgid "Size"
+msgstr "サイズ"
+
+#: statistics/houzez-statistics.php:548
+msgid "No Search found"
+msgstr "検索が見つかりません"
+
+#: statistics/houzez-statistics.php:578
+msgid "Min Price"
+msgstr "最小価格"
+
+#: statistics/houzez-statistics.php:579
+msgid "Max Price"
+msgstr "最大価格"
+
+#: statistics/houzez-statistics.php:585
+msgid "Area"
+msgstr "エリア"
+
+#: statistics/houzez-statistics.php:586
+msgid "Feature"
+msgstr "特徴"
+
+#: statistics/houzez-statistics.php:587 statistics/houzez-statistics.php:588
+msgid "Max Size"
+msgstr "最大サイズ"
+
+#: statistics/houzez-statistics.php:589
+msgid "Bedroom"
+msgstr "ベッドルーム"
+
+#: statistics/houzez-statistics.php:590
+msgid "Bathroom"
+msgstr "バスルーム"
+
+#: statistics/houzez-statistics.php:596
+msgid "Houzez Searches"
+msgstr "Houzez検索"
+
+#: statistics/houzez-statistics.php:601
+msgid "Search Keyworks"
+msgstr "Keyworksの検索"
+
+#: vc_shortcodes/properties.php:93
+msgid "Load More"
+msgstr "もっと読み込む"

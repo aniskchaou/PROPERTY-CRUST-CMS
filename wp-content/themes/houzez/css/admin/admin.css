@@ -1,0 +1,645 @@
+.mb-5 {
+    margin-bottom: 5px !important;
+}
+.mb-10 {
+    margin-bottom: 10px !important;
+}
+ul.rwmb-tab-nav {
+    max-width: 200px;
+}
+.houzez_theme_registration p {
+    font-size: 15px;
+}
+
+.houzez_theme_registration .regular-text {
+    font-size: 16px;
+    padding: 6px 12px;
+    height: 42px;
+}
+.houzez_theme_registration .button {
+    font-size: 17px;
+    padding: 0px 30px;
+    height: 42px;
+}
+
+input[type=color], input[type=date], input[type=datetime-local], input[type=datetime], input[type=email], input[type=month], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=time], input[type=url], input[type=week], select, textarea {
+    border: 1px solid #ccd0d4;
+}
+#toplevel_page_houzez_dashboard .wp-menu-image img, #toplevel_page_houzez-real-estate .wp-menu-image img {
+    width: 20px; 
+    padding: 5px 0 0; 
+    opacity: 1;
+}
+
+.attachment-thumbnail-small {
+    height: 75px;
+    width: 75px;
+}
+#addtag .houzez_full_width .rwmb-label {
+    width: 100%;
+}
+span.label {
+    color: #fff;
+    padding: 2px 4px;
+    font-size: 10px;
+    border-radius: .25em;
+}
+.label-danger {
+    background-color: #c31b1b;
+}
+.label-grey {
+    background-color: #4f5962;
+}
+.label-success {
+    background-color: #85c341;
+}
+.label-secondary {
+    background-color: #54c4d9;
+}
+
+.label-green {
+    background-color: green;
+    color: #fff;
+}
+.fave_admin_label {
+    padding: 3px 25px;
+    float: right;
+    border-radius: 4px;
+    text-transform: uppercase;
+}
+.float-none {
+    float: none;
+}
+
+.rwmb-row {
+    margin-bottom: 15px;
+}
+.rwmb-tabs-left .rwmb-tab-panel {
+    padding: 20px 25px;
+}
+
+.rwmb-column .rwmb-label {
+    margin-bottom: 5px;
+}
+.rwmb-column .rwmb-label label {
+    font-weight: bold;
+}
+
+.rwmb-column .rwmb-input input[type="text"], .rwmb-column .rwmb-input input[type="password"], .rwmb-column .rwmb-input input[type="email"], .rwmb-column .rwmb-input input[type="number"], .rwmb-column .rwmb-input input[type="search"], .rwmb-column .rwmb-input input[type="tel"], .rwmb-column .rwmb-input input[type="time"], .rwmb-column .rwmb-input input[type="url"], .rwmb-column .rwmb-input select, .rwmb-column .rwmb-input textarea {
+    width: 100%;
+    max-width: 100%;
+}
+
+.rwmb-column .rwmb-input #fave_property_address {
+    width: 95%;
+}
+.rwmb-column .rwmb-input .rwmb-map-goto-address-button {
+    margin-top: 10px;
+}
+
+.rwmb-tabs-left .rwmb-tab-nav li {
+    border-bottom: 1px solid #eee;
+}
+
+.rwmb-tabs-left .rwmb-tab-nav a {
+    padding: 10px 20px 13px 10px;
+}
+.rwmb-field.rwmb-radio-wrapper .rwmb-input label {
+    display: block;
+    margin: 5px 0;
+}
+.rwmb-clone-icon {
+    position: absolute;
+    margin-left: -10px !important;
+    top: 28px;
+}
+.rwmb-button.remove-clone {
+    top: 9px;
+    right: -6px;
+}
+.rwmb-group-wrapper .rwmb-clone {
+    /*padding: 0 0 10px !important;*/
+    margin: 0 0 10px !important;
+}
+.rwmb-sort-clone {
+    padding-left: 25px !important;
+}
+
+div#additional-features .rwmb-clone .rwmb-label {
+    display: none;
+}
+div#additional-features .rwmb-clone:first-child .rwmb-label {
+    display: block;
+}
+
+div#additional-features .rwmb-group-wrapper .rwmb-clone:after {
+    padding-bottom: 0; 
+    margin-bottom: 0;
+    border: none;
+}
+
+/***************************************************************************************
+*   Page/Post Meta CSS
+****************************************************************************************/
+.fave-img-select-wrap li span{
+    font-size: 11px;
+    display: block;
+    text-align: center;
+    max-width: 60px;
+    line-height: 13px;
+}
+.favethemes_meta_control {
+    margin: 10px 0px;
+}
+.fave-inline-title-wrap {
+    display: inline-block;
+    vertical-align: top;
+}
+.fave-inline-block-wrap {
+    display: inline-block;
+}
+.fave_meta_title {
+    vertical-align: top;
+    width: 200px;
+    display: inline-block;
+}
+.fave-meta-des {
+    font-size: 11px;
+    font-style: italic;
+}
+.favethemes_meta_control .fave-dropdown {
+    width: 220px;
+}
+.favethemes_meta_control .fave-input-text-backend-small {
+    width: 220px !important;
+}
+.favethemes_meta_control .fave-input-text-backend-large {
+    width: 100% !important;
+}
+.fave_admin_label {
+    padding: 3px 25px;
+    float: right;
+    border-radius: 4px;
+    text-transform: uppercase;
+}
+.label-green {
+    background-color: green;
+    color: #fff;
+}
+.label-red {
+    background-color: red;
+    color: #fff;
+}
+.float-none {
+    float: none;
+}
+.font24 {
+    font-size: 24px;
+}
+.homey_hidden {
+    display: none;
+}
+
+.homey_activate_listing {
+    float: right;
+    background: rgba(0, 174, 239, 1);
+    color: #fff;
+    padding: 13px;
+    text-transform: capitalize;
+    border-radius: 13px;
+    cursor: pointer;
+}
+.homey_activate_listing:hover {
+    background: rgba(0, 174, 239, .9);
+}
+
+/***************************************************************************************
+*   Categories Meta CSS
+****************************************************************************************/
+input.fave-hidden {display: none;}
+img.fave-img-select { border: 2px solid #eee; cursor: pointer; border-radius: 4px; background: #fff;}
+img.fave-img-select.selected {border: 2px solid #0074a2;}
+ul.fave-img-select-wrap {float: left; width: 100%; display: block; margin: 5px 0;}
+ul.fave-img-select-wrap li {float: left; margin-right: 1px;}
+.attachment-thumbnail-small {
+    height: 75px;
+    width: 75px;
+}
+
+/***************************************************************************************
+*   Page/Post Meta CSS
+****************************************************************************************/
+.fave-img-select-wrap li span{
+    font-size: 11px;
+    display: block;
+    text-align: center;
+    max-width: 60px;
+    line-height: 13px;
+}
+.favethemes_meta_control {
+    margin: 10px 0;
+}
+.fave-inline-title-wrap {
+    display: inline-block;
+    vertical-align: top;
+}
+.fave-inline-block-wrap {
+    display: inline-block;
+    width: 20%
+}
+.fave-inline-block-wrap + .fave-inline-block-wrap {
+    width: 75%;
+}
+.fave_meta_title {
+    vertical-align: top;
+    width: 140px;
+    display: inline-block;
+}
+.fave-meta-des {
+    font-size: 11px;
+    font-style: italic;
+}
+.favethemes_meta_control .fave-dropdown {
+    width: 220px;
+}
+.favethemes_meta_control .fave-input-text-backend-small {
+    width: 220px !important;
+}
+.redux-container-sorter ul {
+    width: 240px !important;
+}
+/***************************************************************************************
+*   Code activation
+****************************************************************************************/
+#api_key {
+    max-width: 25rem;
+    /*display: block;
+    width: 300px;
+    height: 40px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 34px;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.075);*/
+}
+#api_key_prompt_text {
+    position: relative;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+#title-wrap ~ input[type="submit"] {
+    margin: 10px 0 20px 0;
+}
+/* fields builder
+/* ------------------------------------------------------ */
+.field-column-1 {
+    width: 86%;
+}
+.field-column-2,
+.field-column-3 {
+    width: 7%;
+}
+.form-wrap {
+
+}
+.form-wrap label {
+
+}
+.form-wrap select{
+    display: block;
+    width: 100%;
+}
+.form-wrap .button {
+
+}
+
+.cloneya-wrap a {
+    text-decoration: none;
+    float: right;
+    margin-left: 10px;
+}
+.clone {
+    margin-top: 5px;
+}
+.delete {
+    margin-top: 3px;
+}
+.cloneya {
+    clear: both;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    min-height: 25px;
+}
+.cloneya-wrap input {
+    width: 85%;
+    float: left;
+}
+.cloneya-wrap input,
+.cloneya-wrap a {
+    display: inline-block;
+    
+}
+img.img-circle.media-object.avatar {
+    border-radius: 100%;
+}
+.btn-loader {
+    top: 2px;
+    width: 16px;
+    height: 16px;
+    margin-right: 15px;
+    display: none;
+    position: relative;
+}
+.loader-show {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.btn-loader:after {
+    content: " ";
+    display: block;
+    width: 16px;
+    height: 16px;
+    margin: 1px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    border-color: #fff #fff #fff #fff;
+    -webkit-animation: btn-loader 1.2s linear infinite;
+    animation: btn-loader 1.2s linear infinite;
+}
+.houzez_hidden {
+    display: none !important;
+}
+#section-table-sp_sections_section-start tr,
+#section-table-cl_location_section-start tr,
+#section-table-srh_labels_section-start tr,
+#section-table-cl_common_section-start tr,
+#section-table-cl_glcp_section-start tr,
+#section-table-cl_sections_section-start tr,
+#section-table-dsh_labels_section-start tr,
+#section-table-sp_energy_labels_section-start tr,
+#section-table-sp_agent_forms_section-start tr,
+#section-table-sp_mortgage_cal_labels_section-start tr,
+#section-table-sp_labels_section-start tr {
+    border: none !important;
+}
+#section-table-sp_sections_section-start .redux-field-container,
+#section-table-cl_location_section-start .redux-field-container,
+#section-table-srh_labels_section-start .redux-field-container,
+#section-table-cl_common_section-start .redux-field-container,
+#section-table-cl_glcp_section-start .redux-field-container,
+#section-table-cl_sections_section-start .redux-field-container,
+#section-table-dsh_labels_section-start .redux-field-container,
+#section-table-sp_energy_labels_section-start .redux-field-container,
+#section-table-sp_agent_forms_section-start .redux-field-container,
+#section-table-sp_mortgage_cal_labels_section-start .redux-field-container,
+#section-table-sp_labels_section-start .redux-field-container {
+    padding: 0px 0 !important;
+}
+
+#section-table-sp_sections_section-start .redux_field_th,
+#section-table-cl_location_section-start .redux_field_th,
+#section-table-sp_mortgage_cal_labels_section-start .redux_field_th,
+#section-table-srh_labels_section-start .redux_field_th,
+#section-table-cl_common_section-start .redux_field_th,
+#section-table-cl_glcp_section-start .redux_field_th,
+#section-table-cl_sections_section-start .redux_field_th,
+#section-table-dsh_labels_section-start .redux_field_th,
+#section-table-sp_energy_labels_section-start .redux_field_th,
+#section-table-sp_agent_forms_section-start .redux_field_th,
+#section-table-sp_labels_section-start .redux_field_th {
+    padding: 15px 10px 15px 0px !important;
+}
+/* welcome page
+/* ------------------------------------------------------ */
+.welcome-wrap h1 {
+    font-size: 32px;
+    font-weight: 400;
+}
+.welcome-wrap p {
+    font-size: 18px;
+    color: #555;
+}
+.resources-wrap {
+    clear: both;
+}
+.resources-wrap-left,
+.resources-wrap-right {
+    width: 50%;
+    float: left;    
+}
+/* admin houzez header
+/* ------------------------------------------------------ */
+.houzez-heading-inline {
+    display: inline-block;
+    margin-right: 5px !important;
+}
+
+.houzez-admin-wrapper {
+    margin: 10px 20px 0 2px;
+}
+.admin-houzez-header {
+    margin-top: 20px; 
+    border-left: 1px solid #ddd;    
+    border-right: 1px solid #ddd;    
+    border-top: 1px solid #ddd;    
+}
+.admin-houzez-content,
+.admin-houzez-nav-tab-wrapper {
+    border-left: 1px solid #ddd;    
+    border-right: 1px solid #ddd;    
+    border-bottom: 1px solid #ddd;    
+}
+.admin-houzez-content h2 {
+    margin: 30px 0;
+    font-size: 20px;
+}
+.admin-houzez-header {
+    padding: 20px 30px;
+}
+.admin-houzez-content {
+    width: 100%;
+    padding-top: 1px;
+    padding-right: 36px;
+    padding-left: 35px;
+    padding-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    box-sizing: border-box;
+}
+.admin-houzez-content a {
+    text-decoration: none;
+}
+.admin-houzez-content .dashicons {
+    vertical-align: baseline;
+    font-size: inherit;
+    width: auto;
+    height: auto;
+}
+.admin-houzez-header .admin-houzez-logo {
+    background-image: url(../../img/logo-houzez-white.png);
+    background-repeat: no-repeat;
+    text-indent: -10000px;
+    display: inline-block;
+    height: 27px;
+    width: 127px;
+}
+.admin-houzez-tag {
+    display: inline-block;
+    color: #fff;
+    background-color: rgba(255,255,255,.2);
+    padding: 3px 7px;
+    border-radius: 4px;
+    position: relative;
+    top: 5px;
+    left: 10px;
+}
+.admin-houzez-nav-tab-wrapper {
+    padding: 10px 15px 0 22px;
+    border-bottom: 1px solid #004274;
+}
+.admin-houzez-nav-tab-wrapper .nav-tab  {
+    padding: 10px 15px;
+    background-color: rgba(255,255,255,.2);
+    border: 1px solid #004274;
+    border-bottom: none;
+    margin-left: -1px;
+    color: #fff;
+}
+.admin-houzez-nav-tab-wrapper .nav-tab:not(.nav-tab-active):hover {
+    background-color: rgba(255,255,255,.4);
+}
+.admin-houzez-nav-tab-wrapper .nav-tab-active {
+    border-bottom: 1px solid #fff;
+    color: #004274;
+}   
+.admin-houzez-header,
+.admin-houzez-nav-tab-wrapper {
+    background-color: #004274
+}
+.admin-houzez-content,
+.admin-houzez-nav-tab-wrapper .nav-tab-active {
+    background: #fff;
+}   
+.admin-houzez-row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
+.admin-houzez-row:after, 
+.admin-houzez-row:before {
+    content: " ";
+    display: table;
+}
+.admin-houzez-row:after {
+    clear: both;
+}
+.admin-houzez-box-wrap {
+    position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    box-sizing: border-box;
+}
+.admin-houzez-box-wrap-half {
+    width: 50%;
+    float: left;
+}
+.admin-houzez-box {
+    border: 1px solid #ddd; 
+    border-radius: 4px;
+    margin-bottom: 30px;
+}
+.admin-houzez-box-header {
+    /*border-bottom: 1px solid #ddd;    
+    background-color: rgba(0, 0, 0, 0.05); */
+    padding: 20px 20px 0;
+}
+.admin-houzez-box-header .dashicons-before {
+    float: left;
+    margin: 0 10px 0 0;
+    text-align: center;
+}
+.admin-houzez-box-header h3 {
+    margin: 0;
+}
+.admin-houzez-box-content {
+    padding: 10px 20px 0;
+    position: relative;
+}
+.admin-houzez-required-label,
+.admin-houzez-recommended-label {
+    display: inline-block;
+    padding: 3px 7px;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+.admin-houzez-required-label {
+    color: #0c5460;
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+}
+.admin-houzez-recommended-label {
+    color: #0c5460;
+    background-color: #d1ecf1;
+    border-color: #bee5eb;
+}
+.admin-houzez-box-content .actions {
+    position: absolute;
+    right: 20px;
+    top: -18px;
+}
+.admin-houzez-box-plugins {
+    width: calc(50% - 22px);
+    float: left;
+    margin: 0 10px 20px;
+}
+.admin-houzez-box-wrap-plugins {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.admin-houzez-content .wp-list-table {
+    margin-bottom: 25px;
+}
+.admin-houzez-box-image {
+    float: left;
+    margin: 20px 20px 17px 20px;
+}
+.admin-houzez-box-footer {
+    border-top: 1px solid #ddd; 
+    padding: 10px 20px;
+    clear: both;
+}
+.admin-houzez-form {
+    max-width: 500px;
+}
+.admin-houzez-form label {
+    font-weight: bold;
+    display: block;
+    margin: 10px 0;
+}
+.admin-houzez-form .submit {
+    padding: 10px 0;
+}
+.admin-houzez-form .form-field {
+    margin-bottom: 15px;
+}
+.admin-houzez-form .form-field input, .admin-houzez-form .form-field select {
+   min-height: 45px;
+}
+.admin-houzez-form .form-field select {
+    width: 95%;
+}
+#form-messages .error, .error, .houzez-blocked-user {
+    color: red;
+}
+#form-messages .success, .success, .houzez-approved-user {
+    color: green;
+}
+.houzez-pending-user {
+    color: #ffc107;
+}

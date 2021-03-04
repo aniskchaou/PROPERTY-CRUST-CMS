@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Login Register\n"
+"Language: zh_CN\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: functions/login_register.php:39 functions/login_register.php:115
+#: functions/login_register.php:229
+msgid "The username field is empty."
+msgstr "用户名字段为空。"
+
+#: functions/login_register.php:43
+msgid "The password field is empty."
+msgstr "密码字段为空。"
+
+#: functions/login_register.php:47 functions/login_register.php:426
+msgid "Invalid username"
+msgstr "无效的用户名"
+
+#: functions/login_register.php:66
+msgid "The password you entered for the username <strong>%s</strong> is incorrect."
+msgstr "您为用户名<strong>％s </ strong>输入的密码不正确。"
+
+#: functions/login_register.php:77
+msgid "Login successful, redirecting..."
+msgstr "登录成功，重定向..."
+
+#: functions/login_register.php:110
+msgid "You need to agree with terms & conditions."
+msgstr "您需要同意条款和条件。"
+
+#: functions/login_register.php:119 functions/login_register.php:237
+msgid "Minimum 3 characters required"
+msgstr "至少需要3个字符"
+
+#: functions/login_register.php:123 functions/login_register.php:241
+msgid "Invalid username (do not use special characters or spaces)!"
+msgstr "无效的用户名（不要使用特殊字符或空格）！"
+
+#: functions/login_register.php:127 functions/login_register.php:233
+msgid "This username is already registered."
+msgstr "此用户名已被注册。"
+
+#: functions/login_register.php:131 functions/login_register.php:245
+msgid "The email field is empty."
+msgstr "电子邮件字段为空。"
+
+#: functions/login_register.php:136 functions/login_register.php:250
+msgid "This email address is already registered."
+msgstr "该邮箱地址已被注册。"
+
+#: functions/login_register.php:141 functions/login_register.php:255
+msgid "Invalid email address."
+msgstr "无效的邮件地址。"
+
+#: functions/login_register.php:150
+msgid "One of the password field is empty!"
+msgstr "其中一个密码字段为空！"
+
+#: functions/login_register.php:155
+msgid "Passwords do not match"
+msgstr "密码不匹配"
+
+#: functions/login_register.php:177
+msgid "Your account was created and you can login now!"
+msgstr "您的帐户已创建，您现在可以登录！"
+
+#: functions/login_register.php:179
+msgid "An email with the generated password was sent!"
+msgstr "包含生成密码的电子邮件已发送！"
+
+#: functions/login_register.php:260
+msgid "The passowrd field is empty."
+msgstr "密码字段为空。"
+
+#: functions/login_register.php:282
+msgid "Agent account created!"
+msgstr "代理账户已创建！"
+
+#: functions/login_register.php:337
+msgid "The Email you entered is not valid. Please try again."
+msgstr "您输入的电子邮件无效。请再试一次。"
+
+#: functions/login_register.php:343
+msgid "This Email is already used by another user. Please try a different one."
+msgstr "此电子邮件已被其他用户使用。请尝试不同的。"
+
+#: functions/login_register.php:359
+msgid "Profile updated"
+msgstr "资料已更新"
+
+#: functions/login_register.php:411
+msgid "Enter a username or email address."
+msgstr "输入用户名或电子邮件地址。"
+
+#: functions/login_register.php:418
+msgid "There is no user registered with that email address."
+msgstr "没有用户使用该电子邮件地址注册。"
+
+#: functions/login_register.php:442
+msgid "Someone has requested a password reset for the following account:"
+msgstr "有人要求为以下帐户重置密码："
+
+#: functions/login_register.php:444
+msgid "Username: %s"
+msgstr "用户名：％s"
+
+#: functions/login_register.php:445
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "如果这是一个错误，请忽略此电子邮件，并且不会发生任何事情。"
+
+#: functions/login_register.php:446
+msgid "To reset your password, visit the following address:"
+msgstr "要重置密码，请访问以下地址："
+
+#: functions/login_register.php:458
+msgid "[%s] Password Reset"
+msgstr "[％s]密码重置"
+
+#: functions/login_register.php:487
+msgid "The email could not be sent."
+msgstr "该电子邮件无法发送。"
+
+#: functions/login_register.php:487
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr "可能的原因：您的主机可能禁用了mail（）函数。"
+
+#: functions/login_register.php:490
+msgid "Check your email"
+msgstr "查看你的电子邮件"
+
+#: functions/login_register.php:648
+msgid "Follow us on"
+msgstr "跟着我们"
+
+#: functions/roles.php:25
+msgid "Buyer"
+msgstr "买方"
+
+#: functions/roles.php:35
+msgid "Agency"
+msgstr "机构"
+
+#: functions/roles.php:62
+msgid "Agent"
+msgstr "代理人"
+
+#: functions/roles.php:89
+msgid "Seller"
+msgstr "卖家"
+
+#: functions/roles.php:106
+msgid "Owner"
+msgstr "所有者"
+
+#: functions/roles.php:125
+msgid "Manager"
+msgstr "经理"

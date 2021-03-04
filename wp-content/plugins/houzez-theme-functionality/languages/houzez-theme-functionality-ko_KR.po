@@ -1,0 +1,858 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Functionality Plugin\n"
+"Language: ko\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: classes/class-settings.php:53
+msgid "Portfolio Settings"
+msgstr "포트폴리오 설정"
+
+#: classes/class-settings.php:54
+msgid "Settings"
+msgstr "설정"
+
+#: classes/class-settings.php:83
+msgid "Permalinks"
+msgstr "퍼머 링크"
+
+#: classes/class-settings.php:86
+msgid "Property Slug"
+msgstr "재산 민달팽이"
+
+#: classes/class-settings.php:87
+msgid "Property Type Slug"
+msgstr "속성 유형 민달팽이"
+
+#: classes/class-settings.php:88
+msgid "Property Feature Slug"
+msgstr "속성 특징 슬러그"
+
+#: classes/class-settings.php:89
+msgid "Property Status Slug"
+msgstr "속성 상태 슬러그"
+
+#: classes/class-settings.php:90
+msgid "Property Area Slug"
+msgstr "속성 구역 슬러그"
+
+#: classes/class-settings.php:91
+msgid "Property City Slug"
+msgstr "재산 도시 민달팽이"
+
+#: classes/class-settings.php:92
+msgid "Property State Slug"
+msgstr "재산 상태 슬러그"
+
+#: classes/class-settings.php:105
+msgid "Set up custom permalinks for the property section on your site."
+msgstr "사이트의 속성 섹션에 대한 맞춤 퍼 뮤 링크를 설정하십시오."
+
+#: classes/class-settings.php:236
+msgid "Properties Settings"
+msgstr "속성 설정"
+
+#: classes/class-settings.php:243
+msgid "Update Settings"
+msgstr "설정 업데이트"
+
+#: functions.php:30
+msgid "Activated Successfully, reload page!"
+msgstr "성공적으로 활성화되었습니다. 페이지를 새로 고침하십시오!"
+
+#: functions.php:32
+msgid "Invalid license key"
+msgstr "잘못된 라이센스 키"
+
+#: post-types/agency-post-type.php:36 post-types/agency-post-type.php:42
+#: post-types/agency-post-type.php:48 statistics/houzez-statistics.php:62
+msgid "Agencies"
+msgstr "대행사"
+
+#: post-types/agency-post-type.php:37
+msgid "Agency"
+msgstr "대리점"
+
+#: post-types/agency-post-type.php:38 post-types/agency-post-type.php:39
+msgid "Add New Agency"
+msgstr "새 대행사 추가"
+
+#: post-types/agency-post-type.php:40
+msgid "Edit Agency"
+msgstr "대행사 편집"
+
+#: post-types/agency-post-type.php:41
+msgid "New Agency"
+msgstr "새로운 대행사"
+
+#: post-types/agency-post-type.php:43
+msgid "View Agency"
+msgstr "대행사보기"
+
+#: post-types/agency-post-type.php:44
+msgid "Search Agency"
+msgstr "검색 대행사"
+
+#: post-types/agency-post-type.php:45
+msgid "No agencies found"
+msgstr "대행사가 없습니다."
+
+#: post-types/agency-post-type.php:46
+msgid "No agencies found in Trash"
+msgstr "휴지통에 대행사가 없습니다."
+
+#: post-types/agency-post-type.php:79
+msgid "Agency ID"
+msgstr "대행사 ID"
+
+#: post-types/agency-post-type.php:80 post-types/user-packages-post-type.php:61
+msgid "Title"
+msgstr "표제"
+
+#: post-types/agency-post-type.php:81
+msgid "License"
+msgstr "특허"
+
+#: post-types/agency-post-type.php:82 post-types/property-post-type.php:254
+#: statistics/houzez-statistics.php:115 statistics/houzez-statistics.php:192
+#: statistics/houzez-statistics.php:240 statistics/houzez-statistics.php:320
+msgid "Thumbnail"
+msgstr "미리보기 이미지"
+
+#: post-types/agency-post-type.php:83 post-types/agent-post-type.php:115
+msgid "E-mail"
+msgstr "이메일"
+
+#: post-types/agency-post-type.php:84 post-types/agent-post-type.php:116
+msgid "Web"
+msgstr "편물"
+
+#: post-types/agency-post-type.php:85
+msgid "Phone"
+msgstr "전화"
+
+#: post-types/agency-post-type.php:86 post-types/agent-post-type.php:30
+#: statistics/houzez-statistics.php:56
+msgid "Agents"
+msgstr "자치령 대표"
+
+#: post-types/agency-post-type.php:87
+msgid "Author"
+msgstr "저자"
+
+#: post-types/agent-post-type.php:31
+msgid "Agent"
+msgstr "에이전트"
+
+#: post-types/agent-post-type.php:32 post-types/invoice-post-type.php:14
+#: post-types/partners-post-type.php:13 post-types/payments-post-type.php:13
+#: post-types/payments-post-type.php:14 post-types/property-post-type.php:53
+#: post-types/testimonials-post-type.php:45
+#: post-types/user-packages-post-type.php:33
+#: post-types/user-packages-post-type.php:34
+msgid "Add New"
+msgstr "새로운 걸 더하다"
+
+#: post-types/agent-post-type.php:33
+msgid "Add New Agent"
+msgstr "새 에이전트 추가"
+
+#: post-types/agent-post-type.php:34
+msgid "Edit Agent"
+msgstr "에이전트 편집"
+
+#: post-types/agent-post-type.php:35
+msgid "New Agent"
+msgstr "새로운 에이전트"
+
+#: post-types/agent-post-type.php:36
+msgid "View Agent"
+msgstr "에이전트보기"
+
+#: post-types/agent-post-type.php:37 post-types/testimonials-post-type.php:50
+msgid "Search Agent"
+msgstr "검색 에이전트"
+
+#: post-types/agent-post-type.php:38
+msgid "No Agent found"
+msgstr "에이전트 없음"
+
+#: post-types/agent-post-type.php:39
+msgid "No Agent found in Trash"
+msgstr "휴지통에 에이전트가 없습니다."
+
+#: post-types/agent-post-type.php:70
+msgid "Categories"
+msgstr "카테고리"
+
+#: post-types/agent-post-type.php:71
+msgid "Add New Category"
+msgstr "새 카테고리 추가"
+
+#: post-types/agent-post-type.php:72
+msgid "New Category"
+msgstr "새 분류"
+
+#: post-types/agent-post-type.php:88
+msgid "Cities"
+msgstr "도시"
+
+#: post-types/agent-post-type.php:89 post-types/property-post-type.php:168
+msgid "Add New City"
+msgstr "새로운 도시 추가"
+
+#: post-types/agent-post-type.php:90 post-types/property-post-type.php:169
+msgid "New City"
+msgstr "새로운 도시"
+
+#: post-types/agent-post-type.php:111
+msgid "Agent ID"
+msgstr "에이전트 ID"
+
+#: post-types/agent-post-type.php:112
+msgid "Agent Name"
+msgstr "대행사 이름"
+
+#: post-types/agent-post-type.php:113
+msgid "Picture"
+msgstr "그림"
+
+#: post-types/agent-post-type.php:114
+msgid "Category"
+msgstr "범주"
+
+#: post-types/agent-post-type.php:117
+msgid "Mobile"
+msgstr "변하기 쉬운"
+
+#: post-types/invoice-post-type.php:12
+msgid "Houzez Invoices"
+msgstr "Houzez 청구서"
+
+#: post-types/invoice-post-type.php:13
+msgid "Houzez Invoice"
+msgstr "Houzez 인보이스"
+
+#: post-types/invoice-post-type.php:15
+msgid "Add New Invoice"
+msgstr "새 송장 추가"
+
+#: post-types/invoice-post-type.php:16
+msgid "Edit Invoice"
+msgstr "송장 편집"
+
+#: post-types/invoice-post-type.php:17
+msgid "New Invoice"
+msgstr "새로운 인보이스"
+
+#: post-types/invoice-post-type.php:18
+msgid "View Invoice"
+msgstr "인보이스보기"
+
+#: post-types/invoice-post-type.php:19
+msgid "Search Invoice"
+msgstr "인보이스 검색"
+
+#: post-types/invoice-post-type.php:20
+msgid "No Invoice found"
+msgstr "인보이스를 찾을 수 없음"
+
+#: post-types/invoice-post-type.php:21
+msgid "No Invoice found in Trash"
+msgstr "휴지통에 인보이스가 없습니다."
+
+#: post-types/invoice-post-type.php:57
+msgid "Invoice Title"
+msgstr "송장 제목"
+
+#: post-types/invoice-post-type.php:58 post-types/payments-post-type.php:50
+#: post-types/property-post-type.php:258 statistics/houzez-statistics.php:119
+#: statistics/houzez-statistics.php:196 statistics/houzez-statistics.php:244
+#: statistics/houzez-statistics.php:324 statistics/houzez-statistics.php:506
+#: statistics/houzez-statistics.php:509
+msgid "Price"
+msgstr "가격"
+
+#: post-types/invoice-post-type.php:59
+msgid "Payment Method"
+msgstr "지불 방법"
+
+#: post-types/invoice-post-type.php:60 post-types/payments-post-type.php:53
+msgid "Buyer"
+msgstr "사는 사람"
+
+#: post-types/invoice-post-type.php:61
+msgid "Buyer Email"
+msgstr "구매자 이메일"
+
+#: post-types/invoice-post-type.php:62
+msgid "Invoice Type"
+msgstr "송장 유형"
+
+#: post-types/invoice-post-type.php:63
+msgid "Billion For"
+msgstr "10 억을위한"
+
+#: post-types/invoice-post-type.php:64 post-types/payments-post-type.php:54
+#: post-types/property-post-type.php:148 post-types/property-post-type.php:257
+#: statistics/houzez-statistics.php:118 statistics/houzez-statistics.php:195
+#: statistics/houzez-statistics.php:243 statistics/houzez-statistics.php:323
+#: statistics/houzez-statistics.php:418 statistics/houzez-statistics.php:580
+msgid "Status"
+msgstr "지위"
+
+#: post-types/invoice-post-type.php:65 post-types/payments-post-type.php:55
+msgid "Date"
+msgstr "날짜"
+
+#: post-types/invoice-post-type.php:87
+msgid "Direct Bank Transfer"
+msgstr "직접 은행 송금"
+
+#: post-types/invoice-post-type.php:114 post-types/payments-post-type.php:91
+msgid "Not Paid"
+msgstr "미 지불 상태의"
+
+#: post-types/invoice-post-type.php:116 post-types/payments-post-type.php:93
+msgid "Paid"
+msgstr "유료"
+
+#: post-types/membership-post-type.php:17
+msgid "Houzez Packages"
+msgstr "Houzez 패키지"
+
+#: post-types/membership-post-type.php:18
+#: post-types/user-packages-post-type.php:32
+msgid "Packages"
+msgstr "패키지"
+
+#: post-types/membership-post-type.php:19
+msgid "Add New Package"
+msgstr "새 패키지 추가"
+
+#: post-types/membership-post-type.php:20
+msgid "Add Packages"
+msgstr "패키지 추가"
+
+#: post-types/membership-post-type.php:21
+msgid "Edit Packages"
+msgstr "패키지 편집"
+
+#: post-types/membership-post-type.php:22
+msgid "Edit Package"
+msgstr "패키지 편집"
+
+#: post-types/membership-post-type.php:23
+msgid "New Packages"
+msgstr "새 패키지"
+
+#: post-types/membership-post-type.php:24
+#: post-types/membership-post-type.php:25
+msgid "View Packages"
+msgstr "패키지보기"
+
+#: post-types/membership-post-type.php:26
+msgid "Search Packages"
+msgstr "패키지 검색"
+
+#: post-types/membership-post-type.php:27
+#: post-types/membership-post-type.php:28
+msgid "No Packages found"
+msgstr "패키지 없음"
+
+#: post-types/membership-post-type.php:29
+msgid "Parent Package"
+msgstr "학부모 패키지"
+
+#: post-types/partners-post-type.php:11
+msgid "Partners"
+msgstr "파트너"
+
+#: post-types/partners-post-type.php:12
+msgid "Partner"
+msgstr "파트너"
+
+#: post-types/partners-post-type.php:14
+msgid "Add New Partner"
+msgstr "새 파트너 추가"
+
+#: post-types/partners-post-type.php:15
+msgid "Edit Partner"
+msgstr "파트너 편집"
+
+#: post-types/partners-post-type.php:16
+msgid "New Partner"
+msgstr "새로운 파트너"
+
+#: post-types/partners-post-type.php:17
+msgid "View Partner"
+msgstr "파트너보기"
+
+#: post-types/partners-post-type.php:18
+msgid "Search Partner"
+msgstr "검색 파트너"
+
+#: post-types/partners-post-type.php:19
+msgid "No Partner found"
+msgstr "파트너 없음"
+
+#: post-types/partners-post-type.php:20
+msgid "No Partner found in Trash"
+msgstr "휴지통에 파트너가 없습니다."
+
+#: post-types/payments-post-type.php:11
+msgid "Houzez Payments"
+msgstr "Houzez 지불"
+
+#: post-types/payments-post-type.php:12
+msgid "Payment"
+msgstr "지불"
+
+#: post-types/payments-post-type.php:49
+msgid "Payment Title"
+msgstr "지불 제목"
+
+#: post-types/payments-post-type.php:51
+msgid "Payment Type"
+msgstr "지불 유형"
+
+#: post-types/payments-post-type.php:52
+msgid "Payment For"
+msgstr "지불 대상"
+
+#: post-types/payments-post-type.php:133
+msgid "Recurring"
+msgstr "되풀이"
+
+#: post-types/payments-post-type.php:135
+msgid "One Time"
+msgstr "한 번"
+
+#: post-types/property-post-type.php:50
+msgid "Properties"
+msgstr "속성"
+
+#: post-types/property-post-type.php:51
+msgid "Property"
+msgstr "재산"
+
+#: post-types/property-post-type.php:52
+msgid "Add New Property"
+msgstr "새 속성 추가"
+
+#: post-types/property-post-type.php:54
+msgid "Edit Property"
+msgstr "속성 편집"
+
+#: post-types/property-post-type.php:55
+msgid "New Property"
+msgstr "새 속성"
+
+#: post-types/property-post-type.php:56
+msgid "View Property"
+msgstr "속성보기"
+
+#: post-types/property-post-type.php:57
+msgid "Search Property"
+msgstr "검색 속성"
+
+#: post-types/property-post-type.php:58 statistics/houzez-statistics.php:183
+#: statistics/houzez-statistics.php:311
+msgid "No Property found"
+msgstr "부동산 발견"
+
+#: post-types/property-post-type.php:59
+msgid "No Property found in Trash"
+msgstr "휴지통에 속성이 없습니다."
+
+#: post-types/property-post-type.php:111 post-types/property-post-type.php:256
+#: statistics/houzez-statistics.php:117 statistics/houzez-statistics.php:194
+#: statistics/houzez-statistics.php:242 statistics/houzez-statistics.php:322
+#: statistics/houzez-statistics.php:410 statistics/houzez-statistics.php:581
+msgid "Type"
+msgstr "유형"
+
+#: post-types/property-post-type.php:112
+msgid "Add New Type"
+msgstr "새 유형 추가"
+
+#: post-types/property-post-type.php:113
+msgid "New Type"
+msgstr "새로운 유형"
+
+#: post-types/property-post-type.php:130
+msgid "Features"
+msgstr "풍모"
+
+#: post-types/property-post-type.php:131
+msgid "Add New Feature"
+msgstr "새 기능 추가"
+
+#: post-types/property-post-type.php:132
+msgid "New Feature"
+msgstr "새로운 기능"
+
+#: post-types/property-post-type.php:149
+msgid "Add New Status"
+msgstr "새 상태 추가"
+
+#: post-types/property-post-type.php:150
+msgid "New Status"
+msgstr "새로운 상태"
+
+#: post-types/property-post-type.php:167 post-types/property-post-type.php:255
+#: post-types/property-post-type.php:504 statistics/houzez-statistics.php:116
+#: statistics/houzez-statistics.php:193 statistics/houzez-statistics.php:241
+#: statistics/houzez-statistics.php:321
+msgid "City"
+msgstr "시티"
+
+#: post-types/property-post-type.php:186 statistics/houzez-statistics.php:426
+msgid "Neighborhood"
+msgstr "이웃"
+
+#: post-types/property-post-type.php:187
+msgid "Add Property Neighborhood"
+msgstr "속성 환경 추가"
+
+#: post-types/property-post-type.php:188
+msgid "New Property Neighborhood"
+msgstr "새 속성 동네"
+
+#: post-types/property-post-type.php:204
+msgid "County / State"
+msgstr "카운티 / 주"
+
+#: post-types/property-post-type.php:205
+msgid "Add Property County / State"
+msgstr "부동산 카운티 / 주 추가"
+
+#: post-types/property-post-type.php:206
+msgid "New Property County / State"
+msgstr "새로운 부동산 카운티 / 주"
+
+#: post-types/property-post-type.php:222
+msgid "Labels"
+msgstr "레이블"
+
+#: post-types/property-post-type.php:223
+msgid "Add New Label"
+msgstr "새 레이블 추가"
+
+#: post-types/property-post-type.php:224
+msgid "New Label"
+msgstr "새 레이블"
+
+#: post-types/property-post-type.php:253 statistics/houzez-statistics.php:113
+#: statistics/houzez-statistics.php:190 statistics/houzez-statistics.php:238
+#: statistics/houzez-statistics.php:318
+msgid "Property Title"
+msgstr "부동산 소유권"
+
+#: post-types/property-post-type.php:259 statistics/houzez-statistics.php:120
+#: statistics/houzez-statistics.php:197 statistics/houzez-statistics.php:245
+#: statistics/houzez-statistics.php:325
+msgid "Property ID"
+msgstr "부동산 ID"
+
+#: post-types/property-post-type.php:260
+msgid "Featured"
+msgstr "추천"
+
+#: post-types/property-post-type.php:261
+msgid "Posted"
+msgstr "게시 됨"
+
+#: post-types/property-post-type.php:262
+msgid "Expires"
+msgstr "만료"
+
+#: post-types/property-post-type.php:263 statistics/houzez-statistics.php:122
+#: statistics/houzez-statistics.php:199 statistics/houzez-statistics.php:247
+#: statistics/houzez-statistics.php:327 statistics/houzez-statistics.php:355
+#: statistics/houzez-statistics.php:558
+msgid "Actions"
+msgstr "행위"
+
+#: post-types/property-post-type.php:294 post-types/property-post-type.php:332
+#: post-types/property-post-type.php:341 post-types/property-post-type.php:350
+#: statistics/houzez-statistics.php:169 statistics/houzez-statistics.php:296
+msgid "NA"
+msgstr "없음"
+
+#: post-types/property-post-type.php:300
+msgid "No"
+msgstr "아니"
+
+#: post-types/property-post-type.php:302
+msgid "Yes"
+msgstr "예"
+
+#: post-types/property-post-type.php:314
+msgid "No Address Provided!"
+msgstr "주소가 제공되지 않습니다!"
+
+#: post-types/property-post-type.php:365
+msgid "Approve"
+msgstr "승인하다"
+
+#: post-types/property-post-type.php:372
+msgid "Expire"
+msgstr "내쉬다"
+
+#: post-types/property-post-type.php:415
+msgid "by a guest"
+msgstr "손님으로"
+
+#: post-types/property-post-type.php:415
+msgid "by %s"
+msgstr "% s"
+
+#: post-types/property-post-type.php:503 post-types/property-post-type.php:540
+#: post-types/property-post-type.php:578
+msgid "Name"
+msgstr "이름"
+
+#: post-types/property-post-type.php:506 post-types/property-post-type.php:543
+#: post-types/property-post-type.php:581
+msgid "Slug"
+msgstr "강타"
+
+#: post-types/property-post-type.php:507 post-types/property-post-type.php:544
+#: post-types/property-post-type.php:582
+msgid "Posts"
+msgstr "게시물"
+
+#: post-types/property-post-type.php:541
+msgid "County/State"
+msgstr "카운티 / 주"
+
+#: post-types/property-post-type.php:579 statistics/houzez-statistics.php:584
+msgid "Country"
+msgstr "국가"
+
+#: post-types/property-post-type.php:751
+msgid "All Types"
+msgstr "모든 유형"
+
+#: post-types/property-post-type.php:786
+msgid "All Status"
+msgstr "모든 상태"
+
+#: post-types/property-post-type.php:821
+msgid "All Labels"
+msgstr "모든 레이블"
+
+#: post-types/property-post-type.php:856
+msgid "All Cities"
+msgstr "모든 도시"
+
+#: post-types/testimonials-post-type.php:43
+msgid "Testimonials"
+msgstr "회원 평가"
+
+#: post-types/testimonials-post-type.php:44
+msgid "Testimonial"
+msgstr "증명서"
+
+#: post-types/testimonials-post-type.php:46
+msgid "Add New Testimonial"
+msgstr "새로운 회원 평가 추가"
+
+#: post-types/testimonials-post-type.php:47
+msgid "Edit Testimonial"
+msgstr "회원 평가 수정"
+
+#: post-types/testimonials-post-type.php:48
+msgid "New Testimonial"
+msgstr "새로운 회원 평가"
+
+#: post-types/testimonials-post-type.php:49
+msgid "View Testimonial"
+msgstr "회원 평가보기"
+
+#: post-types/testimonials-post-type.php:51
+msgid "No Testimonial found"
+msgstr "회원 평가 없음"
+
+#: post-types/testimonials-post-type.php:52
+msgid "No Testimonial found in Trash"
+msgstr "휴지통에 대한 추천이 없습니다."
+
+#: post-types/user-packages-post-type.php:31
+msgid "Users Package Info"
+msgstr "사용자 패키지 정보"
+
+#: post-types/user-packages-post-type.php:62
+msgid "Package Holder"
+msgstr "패키지 홀더"
+
+#: post-types/user-packages-post-type.php:63
+msgid "Package"
+msgstr "꾸러미"
+
+#: post-types/user-packages-post-type.php:64
+msgid "Available Listings"
+msgstr "사용 가능한 목록"
+
+#: post-types/user-packages-post-type.php:65
+msgid "Featured Available"
+msgstr "추천 가능"
+
+#: post-types/user-packages-post-type.php:66
+msgid "Activation"
+msgstr "활성화"
+
+#: post-types/user-packages-post-type.php:67
+msgid "Expiry"
+msgstr "만료"
+
+#: statistics/houzez-statistics.php:9
+msgid "Houzez Statistics"
+msgstr "Houzez 통계"
+
+#: statistics/houzez-statistics.php:10 statistics/houzez-statistics.php:108
+msgid "Most Viewed Properties"
+msgstr "가장 많이 본 속성"
+
+#: statistics/houzez-statistics.php:10
+msgid "Most Viewed"
+msgstr "최다 조회"
+
+#: statistics/houzez-statistics.php:11 statistics/houzez-statistics.php:233
+msgid "Most Favourite Properties"
+msgstr "가장 좋아하는 속성"
+
+#: statistics/houzez-statistics.php:11
+msgid "Most Favourite"
+msgstr "가장 좋아하는 영화"
+
+#: statistics/houzez-statistics.php:12 statistics/houzez-statistics.php:348
+msgid "Saved Searches"
+msgstr "저장된 검색"
+
+#: statistics/houzez-statistics.php:40 statistics/houzez-statistics.php:95
+#: statistics/houzez-statistics.php:215 statistics/houzez-statistics.php:343
+#: statistics/houzez-statistics.php:574
+msgid "You do not have sufficient permissions to access this page."
+msgstr "이 페이지에 액세스 할 수있는 권한이 없습니다."
+
+#: statistics/houzez-statistics.php:48
+msgid "Houzez Statistic"
+msgstr "Houzez 통계"
+
+#: statistics/houzez-statistics.php:52 statistics/houzez-statistics.php:78
+msgid "Total Views Today"
+msgstr "총 조회수 오늘"
+
+#: statistics/houzez-statistics.php:54
+msgid "Users"
+msgstr "사용자"
+
+#: statistics/houzez-statistics.php:59
+msgid "Buyers"
+msgstr "바이어"
+
+#: statistics/houzez-statistics.php:65
+msgid "Sellers"
+msgstr "판매자"
+
+#: statistics/houzez-statistics.php:68
+msgid "Owners"
+msgstr "소유자"
+
+#: statistics/houzez-statistics.php:71
+msgid "Managers"
+msgstr "관리자"
+
+#: statistics/houzez-statistics.php:121 statistics/houzez-statistics.php:198
+msgid "Views Count"
+msgstr "조회수"
+
+#: statistics/houzez-statistics.php:177 statistics/houzez-statistics.php:304
+#: statistics/houzez-statistics.php:541
+msgid "View"
+msgstr "전망"
+
+#: statistics/houzez-statistics.php:246
+msgid "Favourite Count "
+msgstr "좋아하는 백작"
+
+#: statistics/houzez-statistics.php:326
+msgid "Favourite Count"
+msgstr "좋아하는 백작"
+
+#: statistics/houzez-statistics.php:353 statistics/houzez-statistics.php:556
+msgid "Search Query"
+msgstr "검색어"
+
+#: statistics/houzez-statistics.php:402 statistics/houzez-statistics.php:582
+msgid "Location"
+msgstr "위치"
+
+#: statistics/houzez-statistics.php:434 statistics/houzez-statistics.php:583
+msgid "State"
+msgstr "상태"
+
+#: statistics/houzez-statistics.php:494
+msgid "Bedrooms"
+msgstr "침실"
+
+#: statistics/houzez-statistics.php:499
+msgid "Bathrooms"
+msgstr "욕실"
+
+#: statistics/houzez-statistics.php:517 statistics/houzez-statistics.php:520
+msgid "Size"
+msgstr "크기"
+
+#: statistics/houzez-statistics.php:548
+msgid "No Search found"
+msgstr "검색이 없습니다."
+
+#: statistics/houzez-statistics.php:578
+msgid "Min Price"
+msgstr "최소 가격"
+
+#: statistics/houzez-statistics.php:579
+msgid "Max Price"
+msgstr "최대 가격"
+
+#: statistics/houzez-statistics.php:585
+msgid "Area"
+msgstr "지역"
+
+#: statistics/houzez-statistics.php:586
+msgid "Feature"
+msgstr "특색"
+
+#: statistics/houzez-statistics.php:587 statistics/houzez-statistics.php:588
+msgid "Max Size"
+msgstr "최대 크기"
+
+#: statistics/houzez-statistics.php:589
+msgid "Bedroom"
+msgstr "침실"
+
+#: statistics/houzez-statistics.php:590
+msgid "Bathroom"
+msgstr "화장실"
+
+#: statistics/houzez-statistics.php:596
+msgid "Houzez Searches"
+msgstr "Houzez 검색"
+
+#: statistics/houzez-statistics.php:601
+msgid "Search Keyworks"
+msgstr "Keyworks 검색"
+
+#: vc_shortcodes/properties.php:93
+msgid "Load More"
+msgstr "더로드하기"

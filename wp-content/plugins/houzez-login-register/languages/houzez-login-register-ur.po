@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Login Register\n"
+"Language: ur\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: functions/login_register.php:39 functions/login_register.php:115
+#: functions/login_register.php:229
+msgid "The username field is empty."
+msgstr "صارف کا نام خالی ہے."
+
+#: functions/login_register.php:43
+msgid "The password field is empty."
+msgstr "پاس ورڈ فیلڈ خالی ہے."
+
+#: functions/login_register.php:47 functions/login_register.php:426
+msgid "Invalid username"
+msgstr "غلط صارف نام"
+
+#: functions/login_register.php:66
+msgid "The password you entered for the username <strong>%s</strong> is incorrect."
+msgstr "صارف نام <strong>٪ s </ strong> کیلئے درج کردہ پاس ورڈ غلط ہے."
+
+#: functions/login_register.php:77
+msgid "Login successful, redirecting..."
+msgstr "لاگ ان کامیاب، ری ڈائریکٹنگ ..."
+
+#: functions/login_register.php:110
+msgid "You need to agree with terms & conditions."
+msgstr "آپ کو شرائط و ضوابط سے اتفاق کرنا ہوگا."
+
+#: functions/login_register.php:119 functions/login_register.php:237
+msgid "Minimum 3 characters required"
+msgstr "ضرورت سے کم 3 حروف"
+
+#: functions/login_register.php:123 functions/login_register.php:241
+msgid "Invalid username (do not use special characters or spaces)!"
+msgstr "غلط صارف نام (خصوصی حروف یا خالی جگہوں کا استعمال نہ کریں)!"
+
+#: functions/login_register.php:127 functions/login_register.php:233
+msgid "This username is already registered."
+msgstr "اس صارف کا نام پہلے سے ہی رجسٹرڈ ہے."
+
+#: functions/login_register.php:131 functions/login_register.php:245
+msgid "The email field is empty."
+msgstr "ای میل فیلڈ خالی ہے."
+
+#: functions/login_register.php:136 functions/login_register.php:250
+msgid "This email address is already registered."
+msgstr "یہ ای میل پتہ پہلے سے رجسٹرڈ ہے."
+
+#: functions/login_register.php:141 functions/login_register.php:255
+msgid "Invalid email address."
+msgstr "غلط ای میل ایڈریس."
+
+#: functions/login_register.php:150
+msgid "One of the password field is empty!"
+msgstr "پاس ورڈ فیلڈ میں سے ایک خالی ہے!"
+
+#: functions/login_register.php:155
+msgid "Passwords do not match"
+msgstr "پاس ورڈ میچ نہیں کرتے"
+
+#: functions/login_register.php:177
+msgid "Your account was created and you can login now!"
+msgstr "آپ کا اکاؤنٹ بنایا گیا تھا اور اب آپ لاگ ان کر سکتے ہیں!"
+
+#: functions/login_register.php:179
+msgid "An email with the generated password was sent!"
+msgstr "پیدا شدہ پاس ورڈ کے ساتھ ایک ای میل بھیج دیا گیا تھا!"
+
+#: functions/login_register.php:260
+msgid "The passowrd field is empty."
+msgstr "پاسورڈ فیلڈ خالی ہے."
+
+#: functions/login_register.php:282
+msgid "Agent account created!"
+msgstr "ایجنٹ اکاؤنٹ بنایا گیا!"
+
+#: functions/login_register.php:337
+msgid "The Email you entered is not valid. Please try again."
+msgstr "آپ نے درج کردہ ای میل درست نہیں ہے. دوبارہ کوشش کریں."
+
+#: functions/login_register.php:343
+msgid "This Email is already used by another user. Please try a different one."
+msgstr "یہ ای میل پہلے ہی کسی اور صارف کے ذریعہ استعمال کیا جاتا ہے. براہ کرم ایک مختلف کوشش کریں."
+
+#: functions/login_register.php:359
+msgid "Profile updated"
+msgstr "پروفائل اپ ڈیٹ"
+
+#: functions/login_register.php:411
+msgid "Enter a username or email address."
+msgstr "ایک صارف کا نام یا ای میل ایڈریس درج کریں."
+
+#: functions/login_register.php:418
+msgid "There is no user registered with that email address."
+msgstr "اس ای میل پتہ کے ساتھ کوئی صارف رجسٹر نہیں ہے."
+
+#: functions/login_register.php:442
+msgid "Someone has requested a password reset for the following account:"
+msgstr "کسی نے مندرجہ ذیل اکاؤنٹ کے پاس ایک پاسورٹ ری سیٹ کی درخواست کی ہے."
+
+#: functions/login_register.php:444
+msgid "Username: %s"
+msgstr "صارف نام:٪ s"
+
+#: functions/login_register.php:445
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "اگر یہ ایک غلطی تھی تو، صرف اس ای میل کو نظر انداز کریں اور کچھ بھی نہیں ہوگا."
+
+#: functions/login_register.php:446
+msgid "To reset your password, visit the following address:"
+msgstr "اپنا پاس ورڈ دوبارہ ترتیب دینے کیلئے، مندرجہ ذیل ایڈریس پر جائیں:"
+
+#: functions/login_register.php:458
+msgid "[%s] Password Reset"
+msgstr "[٪ s] پاس ورڈ ری سیٹ"
+
+#: functions/login_register.php:487
+msgid "The email could not be sent."
+msgstr "ای میل نہیں بھیجا جا سکا."
+
+#: functions/login_register.php:487
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr "ممکنہ وجہ: آپ کے میزبان نے میل () فنکشن کو غیر فعال کردیا ہے."
+
+#: functions/login_register.php:490
+msgid "Check your email"
+msgstr "اپنا ای میل چیک کریں"
+
+#: functions/login_register.php:648
+msgid "Follow us on"
+msgstr "ہم پر عمل کریں"
+
+#: functions/roles.php:25
+msgid "Buyer"
+msgstr "خریدار"
+
+#: functions/roles.php:35
+msgid "Agency"
+msgstr "ایجنسی"
+
+#: functions/roles.php:62
+msgid "Agent"
+msgstr "ایجنٹ"
+
+#: functions/roles.php:89
+msgid "Seller"
+msgstr "بیچنے والے"
+
+#: functions/roles.php:106
+msgid "Owner"
+msgstr "مالک"
+
+#: functions/roles.php:125
+msgid "Manager"
+msgstr "مینیجر"

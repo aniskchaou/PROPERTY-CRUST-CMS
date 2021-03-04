@@ -1,0 +1,858 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Functionality Plugin\n"
+"Language: ar\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: classes/class-settings.php:53
+msgid "Portfolio Settings"
+msgstr "إعدادات المحفظة"
+
+#: classes/class-settings.php:54
+msgid "Settings"
+msgstr "إعدادات"
+
+#: classes/class-settings.php:83
+msgid "Permalinks"
+msgstr "روابط ثابتة"
+
+#: classes/class-settings.php:86
+msgid "Property Slug"
+msgstr "خاصية سبيكة"
+
+#: classes/class-settings.php:87
+msgid "Property Type Slug"
+msgstr "نوع العقار"
+
+#: classes/class-settings.php:88
+msgid "Property Feature Slug"
+msgstr "خاصية ميزة سبيكة"
+
+#: classes/class-settings.php:89
+msgid "Property Status Slug"
+msgstr "حالة العقار"
+
+#: classes/class-settings.php:90
+msgid "Property Area Slug"
+msgstr "الممتلكات العقارية سبيكة"
+
+#: classes/class-settings.php:91
+msgid "Property City Slug"
+msgstr "ممتلكات مدينة سبيكة"
+
+#: classes/class-settings.php:92
+msgid "Property State Slug"
+msgstr "الدولة العقارية سبيكة"
+
+#: classes/class-settings.php:105
+msgid "Set up custom permalinks for the property section on your site."
+msgstr "قم بإعداد الروابط الثابتة المخصصة لقسم الخاصية على موقعك."
+
+#: classes/class-settings.php:236
+msgid "Properties Settings"
+msgstr "إعدادات الخصائص"
+
+#: classes/class-settings.php:243
+msgid "Update Settings"
+msgstr "إعدادات التحديث"
+
+#: functions.php:30
+msgid "Activated Successfully, reload page!"
+msgstr "تم تنشيطه بنجاح ، أعد تحميل الصفحة!"
+
+#: functions.php:32
+msgid "Invalid license key"
+msgstr "رقم تسجيل خاطئ"
+
+#: post-types/agency-post-type.php:36 post-types/agency-post-type.php:42
+#: post-types/agency-post-type.php:48 statistics/houzez-statistics.php:62
+msgid "Agencies"
+msgstr "وكالات"
+
+#: post-types/agency-post-type.php:37
+msgid "Agency"
+msgstr "وكالة"
+
+#: post-types/agency-post-type.php:38 post-types/agency-post-type.php:39
+msgid "Add New Agency"
+msgstr "أضف وكالة جديدة"
+
+#: post-types/agency-post-type.php:40
+msgid "Edit Agency"
+msgstr "تحرير الوكالة"
+
+#: post-types/agency-post-type.php:41
+msgid "New Agency"
+msgstr "الوكالة الجديدة"
+
+#: post-types/agency-post-type.php:43
+msgid "View Agency"
+msgstr "عرض الوكالة"
+
+#: post-types/agency-post-type.php:44
+msgid "Search Agency"
+msgstr "وكالة البحث"
+
+#: post-types/agency-post-type.php:45
+msgid "No agencies found"
+msgstr "لم يتم العثور على وكالات"
+
+#: post-types/agency-post-type.php:46
+msgid "No agencies found in Trash"
+msgstr "لم يتم العثور على وكالات في المهملات"
+
+#: post-types/agency-post-type.php:79
+msgid "Agency ID"
+msgstr "معرف الوكالة"
+
+#: post-types/agency-post-type.php:80 post-types/user-packages-post-type.php:61
+msgid "Title"
+msgstr "عنوان"
+
+#: post-types/agency-post-type.php:81
+msgid "License"
+msgstr "رخصة"
+
+#: post-types/agency-post-type.php:82 post-types/property-post-type.php:254
+#: statistics/houzez-statistics.php:115 statistics/houzez-statistics.php:192
+#: statistics/houzez-statistics.php:240 statistics/houzez-statistics.php:320
+msgid "Thumbnail"
+msgstr "صورة مصغرة"
+
+#: post-types/agency-post-type.php:83 post-types/agent-post-type.php:115
+msgid "E-mail"
+msgstr "البريد الإلكتروني"
+
+#: post-types/agency-post-type.php:84 post-types/agent-post-type.php:116
+msgid "Web"
+msgstr "شبكة"
+
+#: post-types/agency-post-type.php:85
+msgid "Phone"
+msgstr "هاتف"
+
+#: post-types/agency-post-type.php:86 post-types/agent-post-type.php:30
+#: statistics/houzez-statistics.php:56
+msgid "Agents"
+msgstr "عملاء"
+
+#: post-types/agency-post-type.php:87
+msgid "Author"
+msgstr "مؤلف"
+
+#: post-types/agent-post-type.php:31
+msgid "Agent"
+msgstr "وكيل"
+
+#: post-types/agent-post-type.php:32 post-types/invoice-post-type.php:14
+#: post-types/partners-post-type.php:13 post-types/payments-post-type.php:13
+#: post-types/payments-post-type.php:14 post-types/property-post-type.php:53
+#: post-types/testimonials-post-type.php:45
+#: post-types/user-packages-post-type.php:33
+#: post-types/user-packages-post-type.php:34
+msgid "Add New"
+msgstr "اضف جديد"
+
+#: post-types/agent-post-type.php:33
+msgid "Add New Agent"
+msgstr "إضافة وكيل جديد"
+
+#: post-types/agent-post-type.php:34
+msgid "Edit Agent"
+msgstr "تحرير الوكيل"
+
+#: post-types/agent-post-type.php:35
+msgid "New Agent"
+msgstr "وكيل جديد"
+
+#: post-types/agent-post-type.php:36
+msgid "View Agent"
+msgstr "عرض الوكيل"
+
+#: post-types/agent-post-type.php:37 post-types/testimonials-post-type.php:50
+msgid "Search Agent"
+msgstr "وكيل البحث"
+
+#: post-types/agent-post-type.php:38
+msgid "No Agent found"
+msgstr "لم يتم العثور على وكيل"
+
+#: post-types/agent-post-type.php:39
+msgid "No Agent found in Trash"
+msgstr "لم يتم العثور على وكيل في المهملات"
+
+#: post-types/agent-post-type.php:70
+msgid "Categories"
+msgstr "الاقسام"
+
+#: post-types/agent-post-type.php:71
+msgid "Add New Category"
+msgstr "إضافة فئة جديدة"
+
+#: post-types/agent-post-type.php:72
+msgid "New Category"
+msgstr "فئة جديدة"
+
+#: post-types/agent-post-type.php:88
+msgid "Cities"
+msgstr "مدن"
+
+#: post-types/agent-post-type.php:89 post-types/property-post-type.php:168
+msgid "Add New City"
+msgstr "أضف مدينة جديدة"
+
+#: post-types/agent-post-type.php:90 post-types/property-post-type.php:169
+msgid "New City"
+msgstr "مدينة جديدة"
+
+#: post-types/agent-post-type.php:111
+msgid "Agent ID"
+msgstr "معرف الوكيل"
+
+#: post-types/agent-post-type.php:112
+msgid "Agent Name"
+msgstr "اسم العميل"
+
+#: post-types/agent-post-type.php:113
+msgid "Picture"
+msgstr "صورة"
+
+#: post-types/agent-post-type.php:114
+msgid "Category"
+msgstr "الفئة"
+
+#: post-types/agent-post-type.php:117
+msgid "Mobile"
+msgstr "التليفون المحمول"
+
+#: post-types/invoice-post-type.php:12
+msgid "Houzez Invoices"
+msgstr "الفواتير Houzez"
+
+#: post-types/invoice-post-type.php:13
+msgid "Houzez Invoice"
+msgstr "فاتورة Houzez"
+
+#: post-types/invoice-post-type.php:15
+msgid "Add New Invoice"
+msgstr "إضافة فاتورة جديدة"
+
+#: post-types/invoice-post-type.php:16
+msgid "Edit Invoice"
+msgstr "تحرير الفاتورة"
+
+#: post-types/invoice-post-type.php:17
+msgid "New Invoice"
+msgstr "فاتورة جديدة"
+
+#: post-types/invoice-post-type.php:18
+msgid "View Invoice"
+msgstr "عرض الفاتورة"
+
+#: post-types/invoice-post-type.php:19
+msgid "Search Invoice"
+msgstr "فاتورة البحث"
+
+#: post-types/invoice-post-type.php:20
+msgid "No Invoice found"
+msgstr "لم يتم العثور على فاتورة"
+
+#: post-types/invoice-post-type.php:21
+msgid "No Invoice found in Trash"
+msgstr "لم يتم العثور على فاتورة في المهملات"
+
+#: post-types/invoice-post-type.php:57
+msgid "Invoice Title"
+msgstr "عنوان الفاتورة"
+
+#: post-types/invoice-post-type.php:58 post-types/payments-post-type.php:50
+#: post-types/property-post-type.php:258 statistics/houzez-statistics.php:119
+#: statistics/houzez-statistics.php:196 statistics/houzez-statistics.php:244
+#: statistics/houzez-statistics.php:324 statistics/houzez-statistics.php:506
+#: statistics/houzez-statistics.php:509
+msgid "Price"
+msgstr "السعر"
+
+#: post-types/invoice-post-type.php:59
+msgid "Payment Method"
+msgstr "طريقة الدفع او السداد"
+
+#: post-types/invoice-post-type.php:60 post-types/payments-post-type.php:53
+msgid "Buyer"
+msgstr "مشتر"
+
+#: post-types/invoice-post-type.php:61
+msgid "Buyer Email"
+msgstr "البريد الإلكتروني للمشتري"
+
+#: post-types/invoice-post-type.php:62
+msgid "Invoice Type"
+msgstr "نوع الفاتورة"
+
+#: post-types/invoice-post-type.php:63
+msgid "Billion For"
+msgstr "مليار ل"
+
+#: post-types/invoice-post-type.php:64 post-types/payments-post-type.php:54
+#: post-types/property-post-type.php:148 post-types/property-post-type.php:257
+#: statistics/houzez-statistics.php:118 statistics/houzez-statistics.php:195
+#: statistics/houzez-statistics.php:243 statistics/houzez-statistics.php:323
+#: statistics/houzez-statistics.php:418 statistics/houzez-statistics.php:580
+msgid "Status"
+msgstr "الحالة"
+
+#: post-types/invoice-post-type.php:65 post-types/payments-post-type.php:55
+msgid "Date"
+msgstr "تاريخ"
+
+#: post-types/invoice-post-type.php:87
+msgid "Direct Bank Transfer"
+msgstr "تحويل مصرفي مباشر"
+
+#: post-types/invoice-post-type.php:114 post-types/payments-post-type.php:91
+msgid "Not Paid"
+msgstr "لا تدفع"
+
+#: post-types/invoice-post-type.php:116 post-types/payments-post-type.php:93
+msgid "Paid"
+msgstr "دفع"
+
+#: post-types/membership-post-type.php:17
+msgid "Houzez Packages"
+msgstr "حزم Houzez"
+
+#: post-types/membership-post-type.php:18
+#: post-types/user-packages-post-type.php:32
+msgid "Packages"
+msgstr "حزم"
+
+#: post-types/membership-post-type.php:19
+msgid "Add New Package"
+msgstr "إضافة حزمة جديدة"
+
+#: post-types/membership-post-type.php:20
+msgid "Add Packages"
+msgstr "إضافة الحزم"
+
+#: post-types/membership-post-type.php:21
+msgid "Edit Packages"
+msgstr "تحرير الحزم"
+
+#: post-types/membership-post-type.php:22
+msgid "Edit Package"
+msgstr "تحرير الحزمة"
+
+#: post-types/membership-post-type.php:23
+msgid "New Packages"
+msgstr "الحزم الجديدة"
+
+#: post-types/membership-post-type.php:24
+#: post-types/membership-post-type.php:25
+msgid "View Packages"
+msgstr "عرض الحزم"
+
+#: post-types/membership-post-type.php:26
+msgid "Search Packages"
+msgstr "بحث حزم"
+
+#: post-types/membership-post-type.php:27
+#: post-types/membership-post-type.php:28
+msgid "No Packages found"
+msgstr "لم يتم العثور على حزم"
+
+#: post-types/membership-post-type.php:29
+msgid "Parent Package"
+msgstr "حزمة الوالدين"
+
+#: post-types/partners-post-type.php:11
+msgid "Partners"
+msgstr "شركاء"
+
+#: post-types/partners-post-type.php:12
+msgid "Partner"
+msgstr "شريك"
+
+#: post-types/partners-post-type.php:14
+msgid "Add New Partner"
+msgstr "أضف شريكًا جديدًا"
+
+#: post-types/partners-post-type.php:15
+msgid "Edit Partner"
+msgstr "تعديل الشريك"
+
+#: post-types/partners-post-type.php:16
+msgid "New Partner"
+msgstr "شريك جديد"
+
+#: post-types/partners-post-type.php:17
+msgid "View Partner"
+msgstr "عرض الشريك"
+
+#: post-types/partners-post-type.php:18
+msgid "Search Partner"
+msgstr "شريك البحث"
+
+#: post-types/partners-post-type.php:19
+msgid "No Partner found"
+msgstr "لم يتم العثور على شريك"
+
+#: post-types/partners-post-type.php:20
+msgid "No Partner found in Trash"
+msgstr "لم يتم العثور على شريك في المهملات"
+
+#: post-types/payments-post-type.php:11
+msgid "Houzez Payments"
+msgstr "Houzez المدفوعات"
+
+#: post-types/payments-post-type.php:12
+msgid "Payment"
+msgstr "دفع"
+
+#: post-types/payments-post-type.php:49
+msgid "Payment Title"
+msgstr "عنوان الدفع"
+
+#: post-types/payments-post-type.php:51
+msgid "Payment Type"
+msgstr "نوع الدفع"
+
+#: post-types/payments-post-type.php:52
+msgid "Payment For"
+msgstr "دفع ل"
+
+#: post-types/payments-post-type.php:133
+msgid "Recurring"
+msgstr "تناوبي"
+
+#: post-types/payments-post-type.php:135
+msgid "One Time"
+msgstr "مره واحده"
+
+#: post-types/property-post-type.php:50
+msgid "Properties"
+msgstr "الخصائص"
+
+#: post-types/property-post-type.php:51
+msgid "Property"
+msgstr "خاصية"
+
+#: post-types/property-post-type.php:52
+msgid "Add New Property"
+msgstr "إضافة خاصية جديدة"
+
+#: post-types/property-post-type.php:54
+msgid "Edit Property"
+msgstr "تحرير الممتلكات"
+
+#: post-types/property-post-type.php:55
+msgid "New Property"
+msgstr "عقار جديد"
+
+#: post-types/property-post-type.php:56
+msgid "View Property"
+msgstr "عرض الممتلكات"
+
+#: post-types/property-post-type.php:57
+msgid "Search Property"
+msgstr "البحث الممتلكات"
+
+#: post-types/property-post-type.php:58 statistics/houzez-statistics.php:183
+#: statistics/houzez-statistics.php:311
+msgid "No Property found"
+msgstr "لم يتم العثور على خاصية"
+
+#: post-types/property-post-type.php:59
+msgid "No Property found in Trash"
+msgstr "لم يتم العثور على خاصية في المهملات"
+
+#: post-types/property-post-type.php:111 post-types/property-post-type.php:256
+#: statistics/houzez-statistics.php:117 statistics/houzez-statistics.php:194
+#: statistics/houzez-statistics.php:242 statistics/houzez-statistics.php:322
+#: statistics/houzez-statistics.php:410 statistics/houzez-statistics.php:581
+msgid "Type"
+msgstr "اكتب"
+
+#: post-types/property-post-type.php:112
+msgid "Add New Type"
+msgstr "إضافة نوع جديد"
+
+#: post-types/property-post-type.php:113
+msgid "New Type"
+msgstr "نوع جديد"
+
+#: post-types/property-post-type.php:130
+msgid "Features"
+msgstr "الميزات"
+
+#: post-types/property-post-type.php:131
+msgid "Add New Feature"
+msgstr "إضافة ميزة جديدة"
+
+#: post-types/property-post-type.php:132
+msgid "New Feature"
+msgstr "ميزة جديدة"
+
+#: post-types/property-post-type.php:149
+msgid "Add New Status"
+msgstr "إضافة حالة جديدة"
+
+#: post-types/property-post-type.php:150
+msgid "New Status"
+msgstr "حالة جديدة"
+
+#: post-types/property-post-type.php:167 post-types/property-post-type.php:255
+#: post-types/property-post-type.php:504 statistics/houzez-statistics.php:116
+#: statistics/houzez-statistics.php:193 statistics/houzez-statistics.php:241
+#: statistics/houzez-statistics.php:321
+msgid "City"
+msgstr "مدينة"
+
+#: post-types/property-post-type.php:186 statistics/houzez-statistics.php:426
+msgid "Neighborhood"
+msgstr "حي"
+
+#: post-types/property-post-type.php:187
+msgid "Add Property Neighborhood"
+msgstr "اضف حي العقار"
+
+#: post-types/property-post-type.php:188
+msgid "New Property Neighborhood"
+msgstr "حي جديد"
+
+#: post-types/property-post-type.php:204
+msgid "County / State"
+msgstr "مقاطعة / ولاية"
+
+#: post-types/property-post-type.php:205
+msgid "Add Property County / State"
+msgstr "أضف عقار مقاطعة / ولاية"
+
+#: post-types/property-post-type.php:206
+msgid "New Property County / State"
+msgstr "مقاطعة جديدة مقاطعة / دولة"
+
+#: post-types/property-post-type.php:222
+msgid "Labels"
+msgstr "تسميات"
+
+#: post-types/property-post-type.php:223
+msgid "Add New Label"
+msgstr "إضافة تسمية جديدة"
+
+#: post-types/property-post-type.php:224
+msgid "New Label"
+msgstr "تسمية جديدة"
+
+#: post-types/property-post-type.php:253 statistics/houzez-statistics.php:113
+#: statistics/houzez-statistics.php:190 statistics/houzez-statistics.php:238
+#: statistics/houzez-statistics.php:318
+msgid "Property Title"
+msgstr "عنوان العقار"
+
+#: post-types/property-post-type.php:259 statistics/houzez-statistics.php:120
+#: statistics/houzez-statistics.php:197 statistics/houzez-statistics.php:245
+#: statistics/houzez-statistics.php:325
+msgid "Property ID"
+msgstr "معرف الملكية"
+
+#: post-types/property-post-type.php:260
+msgid "Featured"
+msgstr "متميز"
+
+#: post-types/property-post-type.php:261
+msgid "Posted"
+msgstr "نشر"
+
+#: post-types/property-post-type.php:262
+msgid "Expires"
+msgstr "تنتهي"
+
+#: post-types/property-post-type.php:263 statistics/houzez-statistics.php:122
+#: statistics/houzez-statistics.php:199 statistics/houzez-statistics.php:247
+#: statistics/houzez-statistics.php:327 statistics/houzez-statistics.php:355
+#: statistics/houzez-statistics.php:558
+msgid "Actions"
+msgstr "أفعال"
+
+#: post-types/property-post-type.php:294 post-types/property-post-type.php:332
+#: post-types/property-post-type.php:341 post-types/property-post-type.php:350
+#: statistics/houzez-statistics.php:169 statistics/houzez-statistics.php:296
+msgid "NA"
+msgstr "NA"
+
+#: post-types/property-post-type.php:300
+msgid "No"
+msgstr "لا"
+
+#: post-types/property-post-type.php:302
+msgid "Yes"
+msgstr "نعم فعلا"
+
+#: post-types/property-post-type.php:314
+msgid "No Address Provided!"
+msgstr "لا عنوان المقدمة!"
+
+#: post-types/property-post-type.php:365
+msgid "Approve"
+msgstr "يوافق"
+
+#: post-types/property-post-type.php:372
+msgid "Expire"
+msgstr "تنقضي"
+
+#: post-types/property-post-type.php:415
+msgid "by a guest"
+msgstr "من قبل ضيف"
+
+#: post-types/property-post-type.php:415
+msgid "by %s"
+msgstr "بواسطة٪ s"
+
+#: post-types/property-post-type.php:503 post-types/property-post-type.php:540
+#: post-types/property-post-type.php:578
+msgid "Name"
+msgstr "اسم"
+
+#: post-types/property-post-type.php:506 post-types/property-post-type.php:543
+#: post-types/property-post-type.php:581
+msgid "Slug"
+msgstr "سبيكة"
+
+#: post-types/property-post-type.php:507 post-types/property-post-type.php:544
+#: post-types/property-post-type.php:582
+msgid "Posts"
+msgstr "المشاركات"
+
+#: post-types/property-post-type.php:541
+msgid "County/State"
+msgstr "مقاطعة / الدولة"
+
+#: post-types/property-post-type.php:579 statistics/houzez-statistics.php:584
+msgid "Country"
+msgstr "بلد"
+
+#: post-types/property-post-type.php:751
+msgid "All Types"
+msgstr "كل الانواع"
+
+#: post-types/property-post-type.php:786
+msgid "All Status"
+msgstr "كل الحالة"
+
+#: post-types/property-post-type.php:821
+msgid "All Labels"
+msgstr "جميع التصنيفات"
+
+#: post-types/property-post-type.php:856
+msgid "All Cities"
+msgstr "جميع المدن"
+
+#: post-types/testimonials-post-type.php:43
+msgid "Testimonials"
+msgstr "الشهادات - التوصيات"
+
+#: post-types/testimonials-post-type.php:44
+msgid "Testimonial"
+msgstr "شهادة"
+
+#: post-types/testimonials-post-type.php:46
+msgid "Add New Testimonial"
+msgstr "أضف شهادة جديدة"
+
+#: post-types/testimonials-post-type.php:47
+msgid "Edit Testimonial"
+msgstr "تحرير التزكية"
+
+#: post-types/testimonials-post-type.php:48
+msgid "New Testimonial"
+msgstr "شهادة جديدة"
+
+#: post-types/testimonials-post-type.php:49
+msgid "View Testimonial"
+msgstr "عرض شهادة"
+
+#: post-types/testimonials-post-type.php:51
+msgid "No Testimonial found"
+msgstr "لم يتم العثور على شهادة"
+
+#: post-types/testimonials-post-type.php:52
+msgid "No Testimonial found in Trash"
+msgstr "لم يتم العثور على شهادة في المهملات"
+
+#: post-types/user-packages-post-type.php:31
+msgid "Users Package Info"
+msgstr "معلومات حزمة المستخدمين"
+
+#: post-types/user-packages-post-type.php:62
+msgid "Package Holder"
+msgstr "حامل حزمة"
+
+#: post-types/user-packages-post-type.php:63
+msgid "Package"
+msgstr "صفقة"
+
+#: post-types/user-packages-post-type.php:64
+msgid "Available Listings"
+msgstr "القوائم المتاحة"
+
+#: post-types/user-packages-post-type.php:65
+msgid "Featured Available"
+msgstr "متميز متوفر"
+
+#: post-types/user-packages-post-type.php:66
+msgid "Activation"
+msgstr "تفعيل"
+
+#: post-types/user-packages-post-type.php:67
+msgid "Expiry"
+msgstr "انقضاء"
+
+#: statistics/houzez-statistics.php:9
+msgid "Houzez Statistics"
+msgstr "احصائيات"
+
+#: statistics/houzez-statistics.php:10 statistics/houzez-statistics.php:108
+msgid "Most Viewed Properties"
+msgstr "معظم خصائص المشاهدة"
+
+#: statistics/houzez-statistics.php:10
+msgid "Most Viewed"
+msgstr "الأكثر مشاهدة"
+
+#: statistics/houzez-statistics.php:11 statistics/houzez-statistics.php:233
+msgid "Most Favourite Properties"
+msgstr "معظم المواقع المفضلة"
+
+#: statistics/houzez-statistics.php:11
+msgid "Most Favourite"
+msgstr "المفضل"
+
+#: statistics/houzez-statistics.php:12 statistics/houzez-statistics.php:348
+msgid "Saved Searches"
+msgstr "الابحاث المحفوظة"
+
+#: statistics/houzez-statistics.php:40 statistics/houzez-statistics.php:95
+#: statistics/houzez-statistics.php:215 statistics/houzez-statistics.php:343
+#: statistics/houzez-statistics.php:574
+msgid "You do not have sufficient permissions to access this page."
+msgstr "ليس لديك أذونات كافية للوصول إلى هذه الصفحة."
+
+#: statistics/houzez-statistics.php:48
+msgid "Houzez Statistic"
+msgstr "إحصائيات Houzez"
+
+#: statistics/houzez-statistics.php:52 statistics/houzez-statistics.php:78
+msgid "Total Views Today"
+msgstr "مجموع المشاهدات اليوم"
+
+#: statistics/houzez-statistics.php:54
+msgid "Users"
+msgstr "المستخدمين"
+
+#: statistics/houzez-statistics.php:59
+msgid "Buyers"
+msgstr "المشترين"
+
+#: statistics/houzez-statistics.php:65
+msgid "Sellers"
+msgstr "الباعة"
+
+#: statistics/houzez-statistics.php:68
+msgid "Owners"
+msgstr "أصحاب"
+
+#: statistics/houzez-statistics.php:71
+msgid "Managers"
+msgstr "مدراء"
+
+#: statistics/houzez-statistics.php:121 statistics/houzez-statistics.php:198
+msgid "Views Count"
+msgstr "عدد المشاهدات"
+
+#: statistics/houzez-statistics.php:177 statistics/houzez-statistics.php:304
+#: statistics/houzez-statistics.php:541
+msgid "View"
+msgstr "رأي"
+
+#: statistics/houzez-statistics.php:246
+msgid "Favourite Count "
+msgstr "العد المفضل "
+
+#: statistics/houzez-statistics.php:326
+msgid "Favourite Count"
+msgstr "العد المفضل"
+
+#: statistics/houzez-statistics.php:353 statistics/houzez-statistics.php:556
+msgid "Search Query"
+msgstr "استعلام بحث"
+
+#: statistics/houzez-statistics.php:402 statistics/houzez-statistics.php:582
+msgid "Location"
+msgstr "موقعك"
+
+#: statistics/houzez-statistics.php:434 statistics/houzez-statistics.php:583
+msgid "State"
+msgstr "حالة"
+
+#: statistics/houzez-statistics.php:494
+msgid "Bedrooms"
+msgstr "غرف نوم"
+
+#: statistics/houzez-statistics.php:499
+msgid "Bathrooms"
+msgstr "الحمامات"
+
+#: statistics/houzez-statistics.php:517 statistics/houzez-statistics.php:520
+msgid "Size"
+msgstr "بحجم"
+
+#: statistics/houzez-statistics.php:548
+msgid "No Search found"
+msgstr "لم يتم العثور على البحث"
+
+#: statistics/houzez-statistics.php:578
+msgid "Min Price"
+msgstr "سعر الحد الأدنى"
+
+#: statistics/houzez-statistics.php:579
+msgid "Max Price"
+msgstr "ماكس السعر"
+
+#: statistics/houzez-statistics.php:585
+msgid "Area"
+msgstr "منطقة"
+
+#: statistics/houzez-statistics.php:586
+msgid "Feature"
+msgstr "خاصية"
+
+#: statistics/houzez-statistics.php:587 statistics/houzez-statistics.php:588
+msgid "Max Size"
+msgstr "اقصى حجم"
+
+#: statistics/houzez-statistics.php:589
+msgid "Bedroom"
+msgstr "غرفة نوم"
+
+#: statistics/houzez-statistics.php:590
+msgid "Bathroom"
+msgstr "حمام"
+
+#: statistics/houzez-statistics.php:596
+msgid "Houzez Searches"
+msgstr "هوزز البحث"
+
+#: statistics/houzez-statistics.php:601
+msgid "Search Keyworks"
+msgstr "مفاتيح البحث"
+
+#: vc_shortcodes/properties.php:93
+msgid "Load More"
+msgstr "تحميل المزيد"

@@ -1,0 +1,885 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">property</custom-type>
+		<custom-type translate="1">houzez_agency</custom-type>
+		<custom-type translate="1">houzez_agent</custom-type>
+		<custom-type translate="1">houzez_testimonials</custom-type>
+		<custom-type translate="1">houzez_partner</custom-type>
+		<custom-type translate="1">houzez_invoice</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">property_type</taxonomy>
+		<taxonomy translate="1">property_feature</taxonomy>
+		<taxonomy translate="1">property_status</taxonomy>
+		<taxonomy translate="1">property_city</taxonomy>
+		<taxonomy translate="1">property_country</taxonomy>
+		<taxonomy translate="1">property_area</taxonomy>
+		<taxonomy translate="1">property_label</taxonomy>
+		<taxonomy translate="1">property_state</taxonomy>
+		<taxonomy translate="1">agent_category</taxonomy>
+		<taxonomy translate="1">agent_city</taxonomy>
+	</taxonomies>
+	<custom-fields>
+		<custom-field action="copy">_thumbnail_id</custom-field>
+		<custom-field action="copy">fave_property_price</custom-field>
+		<custom-field action="copy">fave_property_sec_price</custom-field>
+		<custom-field action="translate">fave_property_price_prefix</custom-field>
+		<custom-field action="translate">fave_property_price_postfix</custom-field>
+		<custom-field action="copy">fave_property_size</custom-field>
+		<custom-field action="translate">fave_property_size_prefix</custom-field>
+		<custom-field action="copy">fave_property_land</custom-field>
+		<custom-field action="translate">fave_property_land_postfix</custom-field>
+		<custom-field action="copy">fave_property_bedrooms</custom-field>
+		<custom-field action="copy">fave_property_bathrooms</custom-field>
+		<custom-field action="copy">fave_property_garage</custom-field>
+		<custom-field action="copy">fave_property_garage_size</custom-field>
+		<custom-field action="copy">fave_property_year</custom-field>
+		<custom-field action="translate">fave_property_id</custom-field>
+		<custom-field action="translate">fave_property_map</custom-field>
+		<custom-field action="translate">fave_property_map_address</custom-field>
+		<custom-field action="translate">fave_property_location</custom-field>
+		<custom-field action="translate">fave_property_map_street_view</custom-field>
+		<custom-field action="translate">fave_property_address</custom-field>
+		<custom-field action="translate">fave_property_zip</custom-field>
+		<custom-field action="copy">fave_featured</custom-field>
+		<custom-field action="copy">fave_loggedintoview</custom-field>
+		<custom-field action="copy">fave_property_images</custom-field>
+		<custom-field action="translate">fave_video_url</custom-field>
+		<custom-field action="translate">fave_agent_display_option</custom-field>
+		<custom-field action="translate">fave_agents</custom-field>
+		<custom-field action="translate">fave_property_agency</custom-field>
+		<custom-field action="translate">fave_virtual_tour</custom-field>
+		<custom-field action="translate">fave_prop_homeslider</custom-field>
+		<custom-field action="copy">fave_prop_homeslider</custom-field>
+		<custom-field action="translate">fave_multi_units_ids</custom-field>
+		<custom-field action="translate">fave_attachments</custom-field>
+		<custom-field action="translate">fave_private_note</custom-field>
+		<custom-field action="translate">fave_energy_class</custom-field>
+		<custom-field action="translate">fave_energy_global_index</custom-field>
+		<custom-field action="translate">fave_renewable_energy_global_index</custom-field>
+		<custom-field action="translate">fave_energy_performance</custom-field>
+		<custom-field action="translate">fave_epc_current_rating</custom-field>
+		<custom-field action="translate">fave_epc_potential_rating</custom-field>
+		<custom-field action="translate">fave_single_top_area</custom-field>
+		<custom-field action="translate">fave_single_content_area</custom-field>
+		<custom-field action="translate">fave_booking_shortcode</custom-field>
+		<custom-field action="translate">fave_agent_des</custom-field>
+		<custom-field action="translate">fave_agent_service_area</custom-field>
+		<custom-field action="translate">fave_agent_specialties</custom-field>
+		<custom-field action="translate">fave_agent_email</custom-field>
+		<custom-field action="translate">fave_agent_position</custom-field>
+		<custom-field action="translate">fave_agent_company</custom-field>
+		<custom-field action="copy">fave_agent_license</custom-field>
+		<custom-field action="copy">fave_agent_tax_no</custom-field>
+		<custom-field action="copy">fave_agent_mobile</custom-field>
+		<custom-field action="copy">fave_agent_office_num</custom-field>
+		<custom-field action="copy">fave_agent_fax</custom-field>
+		<custom-field action="translate">fave_agent_language</custom-field>
+		<custom-field action="translate">fave_agent_address</custom-field>
+		<custom-field action="translate">fave_agent_skype</custom-field>
+		<custom-field action="translate">fave_agent_website</custom-field>
+		<custom-field action="copy">fave_agent_facebook</custom-field>
+		<custom-field action="copy">fave_agent_twitter</custom-field>
+		<custom-field action="copy">fave_agent_linkedin</custom-field>
+		<custom-field action="copy">fave_agent_googleplus</custom-field>
+		<custom-field action="copy">fave_agent_youtube</custom-field>
+		<custom-field action="copy">fave_agent_instagram</custom-field>
+		<custom-field action="copy">fave_agent_pinterest</custom-field>
+		<custom-field action="copy">fave_agent_vimeo</custom-field>
+		<custom-field action="copy">fave_agent_logo</custom-field>
+		<custom-field action="translate">fave_testi_text</custom-field>
+		<custom-field action="translate">fave_testi_name</custom-field>
+		<custom-field action="translate">fave_testi_position</custom-field>
+		<custom-field action="translate">fave_testi_company</custom-field>
+		<custom-field action="copy">fave_testi_photo</custom-field>
+		<custom-field action="copy">fave_testi_logo</custom-field>
+		<custom-field action="copy">fave_partner_website</custom-field>
+		<custom-field action="copy">fave_header_type</custom-field>
+		<custom-field action="copy">fave_header_full_screen</custom-field>
+		<custom-field action="translate">fave_page_header_revslider</custom-field>
+		<custom-field action="translate">fave_map_city</custom-field>
+		<custom-field action="translate">fave_page_header_title</custom-field>
+		<custom-field action="translate">fave_page_header_subtitle</custom-field>
+		<custom-field action="copy">fave_page_header_image</custom-field>
+		<custom-field action="copy">fave_main_menu_trans</custom-field>
+		<custom-field action="copy">fave_page_header_image_height</custom-field>
+		<custom-field action="copy">fave_header_image_height_mobile</custom-field>
+		<custom-field action="copy">fave_page_header_image_opacity</custom-field>
+		<custom-field action="translate">fave_page_header_search</custom-field>
+		<custom-field action="translate">fave_page_header_bg_mp4</custom-field>
+		<custom-field action="translate">fave_page_header_bg_webm</custom-field>
+		<custom-field action="translate">fave_page_header_bg_ogv</custom-field>
+		<custom-field action="translate">fave_page_header_video_img</custom-field>
+		<custom-field action="copy">fave_adv_search_enable</custom-field>
+		<custom-field action="translate">fave_adv_search</custom-field>
+		<custom-field action="copy">fave_adv_search_pos</custom-field>
+		<custom-field action="copy">fave_gallery_posts</custom-field>
+		<custom-field action="translate">fave_video_post</custom-field>
+		<custom-field action="translate">fave_audio_post</custom-field>
+		<custom-field action="translate">fave_page_title</custom-field>
+		<custom-field action="copy">fave_page_breadcrumb</custom-field>
+		<custom-field action="copy">fave_page_sidebar</custom-field>
+	</custom-fields>
+	<elementor-widgets>
+	        <widget name="Houzez_elementor_grid_builder">
+	            <conditions>
+	                <condition key="widgetType">Houzez_elementor_grid_builder</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Grid Builder: Title" editor_type="LINE">grid_title</field>
+	                <field type="Grid Builder: Sub Title" editor_type="LINE">grid_subtitle</field>
+	                <field type="Grid Builder: More Details Text" editor_type="LINE">more_text</field>
+	                <field type="Grid Builder: Property Text" editor_type="LINE">property_text</field>
+	                <field type="Grid Builder: Properties Text" editor_type="LINE">properties_text</field>
+	                <field type="Grid Builder: More Link" editor_type="LINK">more_link</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez_elementor_price_table">
+	            <conditions>
+	                <condition key="widgetType">houzez_elementor_price_table</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Price Table: Package Name" editor_type="LINE">package_name</field>
+	                <field type="Price Table: Package Price" editor_type="LINE">package_price</field>
+	                <field type="Price Table: Package Currency" editor_type="LINE">package_currency</field>
+	                <field type="Price Table: Content" editor_type="AREA">content</field>
+	                <field type="Price Table: Package Button Text" editor_type="LINE">package_btn_text</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez_elementor_advanced_search">
+	            <conditions>
+	                <condition key="widgetType">houzez_elementor_advanced_search</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Search Title" editor_type="LINE">search_title</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez_elementor_sort_by">
+	            <conditions>
+	                <condition key="widgetType">houzez_elementor_sort_by</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Sort By: Title" editor_type="LINE">sortby_title</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez_elementor_section_title">
+	            <conditions>
+	                <condition key="widgetType">houzez_elementor_section_title</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Section Title: Main Title" editor_type="AREA">hz_section_title</field>
+	                <field type="Section Title: Sub Title" editor_type="AREA">hz_section_subtitle</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez_elementor_team_member">
+	            <conditions>
+	                <condition key="widgetType">houzez_elementor_team_member</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Team Member: Name" editor_type="LINE">team_name</field>
+	                <field type="Team Member: Position" editor_type="LINE">team_position</field>
+	                <field type="Team Member: Description" editor_type="AREA">team_description</field>
+	                <field type="Team Member: Profile Link" editor_type="LINK">team_link</field>
+	                <field type="Team Member: Facebook Link" editor_type="LINK">team_social_facebook</field>
+	                <field type="Team Member: Twitter Link" editor_type="LINK">team_social_twitter</field>
+	                <field type="Team Member: LinkedIn Link" editor_type="LINK">team_social_linkedin</field>
+	                <field type="Team Member: Pinterest Link" editor_type="LINK">team_social_pinterest</field>
+	                <field type="Team Member: Google Link" editor_type="LINK">team_social_googleplus</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez_elementor_properties_carousel_v2">
+	            <conditions>
+	                <condition key="widgetType">houzez_elementor_properties_carousel_v2</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Properties Carousel v1: All - Button Text" editor_type="LINE">all_btn</field>
+	                <field type="Properties Carousel v1: All - Button URL" editor_type="LINK">all_url</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez_elementor_properties_carousel_v2n">
+	            <conditions>
+	                <condition key="widgetType">houzez_elementor_properties_carousel_v2n</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Properties Carousel v2: All - Button Text" editor_type="LINE">all_btn</field>
+	                <field type="Properties Carousel v2: All - Button URL" editor_type="LINK">all_url</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez_elementor_properties_carousel_v1">
+	            <conditions>
+	                <condition key="widgetType">houzez_elementor_properties_carousel_v1</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Properties Carousel v3: All - Button Text" editor_type="LINE">all_btn</field>
+	                <field type="Properties Carousel v3: All - Button URL" editor_type="LINK">all_url</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez_elementor_properties_carousel_v5">
+	            <conditions>
+	                <condition key="widgetType">houzez_elementor_properties_carousel_v5</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Properties Carousel v5: All - Button Text" editor_type="LINE">all_btn</field>
+	                <field type="Properties Carousel v5: All - Button URL" editor_type="LINK">all_url</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez_elementor_properties_carousel_v6">
+	            <conditions>
+	                <condition key="widgetType">houzez_elementor_properties_carousel_v6</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Properties Carousel v6: All - Button Text" editor_type="LINE">all_btn</field>
+	                <field type="Properties Carousel v6: All - Button URL" editor_type="LINK">all_url</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez-property-section-description">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-description</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property Description: Section Title" editor_type="LINE">section_title</field>
+	                <field type="Property Description: Attachment Title" editor_type="LINE">attachment_title</field>
+	                <field type="Property Description: Download Text" editor_type="LINE">download_text</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez-property-section-details">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-details</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property Details: Section Title" editor_type="LINE">section_title</field>
+	                <field type="Property Details: Additional Section Title" editor_type="LINE">additional_section_title</field>
+	                <field type="Property Details: Property ID" editor_type="LINE">id_title</field>
+	                <field type="Property Details: Price" editor_type="LINE">price_title</field>
+	                <field type="Property Details: Property Size" editor_type="LINE">size_title</field>
+	                <field type="Property Details: Land Area" editor_type="LINE">land_title</field>
+	                <field type="Property Details: Bedroom" editor_type="LINE">bedroom_title</field>
+	                <field type="Property Details: Bedrooms" editor_type="LINE">bedrooms_title</field>
+	                <field type="Property Details: Bathroom" editor_type="LINE">bathroom_title</field>
+	                <field type="Property Details: Bathrooms" editor_type="LINE">bathrooms_title</field>
+	                <field type="Property Details: Garage" editor_type="LINE">garage_title</field>
+	                <field type="Property Details: Garages" editor_type="LINE">garages_title</field>
+	                <field type="Property Details: Garage Size" editor_type="LINE">garage_size_title</field>
+	                <field type="Property Details: Year Built" editor_type="LINE">year_title</field>
+	                <field type="Property Details: Property Type" editor_type="LINE">type_title</field>
+	                <field type="Property Details: Property Status" editor_type="LINE">status_title</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez-property-section-address">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-address</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property Address: Section Title" editor_type="LINE">section_title</field>
+	                <field type="Property Address: Address" editor_type="LINE">address_title</field>
+	                <field type="Property Address: Country" editor_type="LINE">country_title</field>
+	                <field type="Property Address: State" editor_type="LINE">state_title</field>
+	                <field type="Property Address: City" editor_type="LINE">city_title</field>
+	                <field type="Property Address: Area" editor_type="LINE">area_title</field>
+	                <field type="Property Address: Zip/Postal Code" editor_type="LINE">zip_title</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez-property-section-features">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-features</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property Features: Section Title" editor_type="LINE">section_title</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez-property-section-video">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-video</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property Video: Section Title" editor_type="LINE">section_title</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez-property-section-floorplan">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-floorplan</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property Floor Plan: Section Title" editor_type="LINE">section_title</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez-property-section-virtual-tour">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-virtual-tour</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property 360 Virtual Tour: Section Title" editor_type="LINE">section_title</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez-property-section-calculator">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-calculator</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property Mortgage Calculator: Section Title" editor_type="LINE">section_title</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez-property-section-walkscore">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-walkscore</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property Walkscore: Section Title" editor_type="LINE">section_title</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez-property-section-calendar">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-calendar</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property Availability Calendar: Section Title" editor_type="LINE">section_title</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez-property-section-contact-bottom">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-contact-bottom</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property Agent Contact Form: Section Title" editor_type="LINE">section_title</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez-property-section-schedule-tour">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-schedule-tour</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property Schedule Tour: Section Title" editor_type="LINE">section_title</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez-property-section-similar">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-similar</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property Similar Listings: Section Title" editor_type="LINE">section_title</field>
+	            </fields>
+	        </widget> 
+			<widget name="houzez-property-section-review">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-review</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property Review: Section Title" editor_type="LINE">section_title</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez-property-section-energy-class">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-energy-class</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property Energy: Section Title" editor_type="LINE">section_title</field>
+	                <field type="Property Energy: Energetic class" editor_type="LINE">energetic_class_title</field>
+	                <field type="Property Energy: Global Energy Performance Index" editor_type="LINE">global_energy_index</field>
+	                <field type="Property Energy: Renewable energy performance index" editor_type="LINE">renewable_energy_index</field>
+	                <field type="Property Energy: Energy performance of the building" editor_type="LINE">energy_performance</field>
+	                <field type="Property Energy: EPC Current Rating" editor_type="LINE">epc_current_rating</field>
+	                <field type="Property Energy: EPC Potential Rating" editor_type="LINE">epc_potential_rating</field>
+	                <field type="Property Energy: Energy class" editor_type="LINE">energy_class_title</field>
+	            </fields>
+	        </widget>
+			<widget name="houzez-property-section-attachments">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-section-attachments</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Property Attachments: Section Title" editor_type="LINE">section_title</field>
+	                <field type="Property Attachments: Download Text" editor_type="LINE">download_text</field>
+	            </fields>
+	        </widget>
+	        <widget name="houzez_elementor_inquiry_form">
+	            <conditions>
+	                <condition key="widgetType">houzez_elementor_inquiry_form</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Form Name" editor_type="LINE">form_name</field>
+	                <field type="Inquiry Form: GDPR Label" editor_type="LINE">gdpr_label</field>
+	                <field type="Inquiry Form: GDPR Validation Message" editor_type="LINE">gdpr_validate</field>
+	                <field type="Inquiry Form: GDPR Agreement Text" editor_type="AREA">gdpr_text</field>
+	                <field type="Inquiry Form: Redirect Link" editor_type="LINK">redirect_to</field>
+	            </fields>
+	            <fields-in-item items_of="form_fields">
+	                <field type="Inquiry Form: Field Label" editor_type="LINE">field_label</field>
+	                <field type="Inquiry Form: Field Placeholder" editor_type="LINE">placeholder</field>
+	                <field type="Inquiry Form: Field Validation Message" editor_type="LINE">validation_message</field>
+	            </fields-in-item>
+	        </widget>
+			<widget name="houzez_elementor_contact_form">
+	            <conditions>
+	                <condition key="widgetType">houzez_elementor_contact_form</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Form Name" editor_type="LINE">form_name</field>
+	                <field type="Contact Form: GDPR Label" editor_type="LINE">gdpr_label</field>
+	                <field type="Contact Form: GDPR Validation Message" editor_type="LINE">gdpr_validate</field>
+	                <field type="Contact Form: GDPR Agreement Text" editor_type="AREA">gdpr_text</field>
+	                <field type="Contact Form: Redirect Link" editor_type="LINK">redirect_to</field>
+	            </fields>
+	            <fields-in-item items_of="form_fields">
+	                <field type="Contact Form: Field Label" editor_type="LINE">field_label</field>
+	                <field type="Contact Form: Field Placeholder" editor_type="LINE">placeholder</field>
+	                <field type="Contact Form: Field Validation Message" editor_type="LINE">validation_message</field>
+	            </fields-in-item>
+	        </widget>
+			<widget name="houzez_elementor_search_builder">
+	            <conditions>
+	                <condition key="widgetType">houzez_elementor_search_builder</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Search Builder: All Tab Text" editor_type="LINE">tabs_all_text</field>
+	            </fields>
+	            <fields-in-item items_of="form_fields">
+	                <field type="Search Builder: Field Label" editor_type="LINE">field_label</field>
+	                <field type="Search Builder: Field Placeholder" editor_type="LINE">placeholder</field>
+	                <field type="Search Builder: Selected Count Text" editor_type="LINE">selected_count_text</field>
+	            </fields-in-item>
+	        </widget>
+			<widget name="houzez_elementor_icon_box">
+	            <conditions>
+	                <condition key="widgetType">houzez_elementor_icon_box</condition>
+	            </conditions>
+	            
+	            <fields-in-item items_of="icon_boxes">
+	                <field type="Icon Box: Title" editor_type="LINE">title</field>
+	                <field type="Icon Box: Text" editor_type="LINE">text</field>
+	                <field type="Icon Box: Read More Text" editor_type="AREA">read_more_text</field>
+	                <field type="Icon Box: Read More Link" editor_type="LINK">read_more_link</field>
+	            </fields-in-item>
+	        </widget>
+			<widget name="houzez-property-overview">
+	            <conditions>
+	                <condition key="widgetType">houzez-property-overview</condition>
+	            </conditions>
+	            <fields>
+	                <field type="Overview: Section Title" editor_type="LINE">section_title</field>
+	            </fields>
+	            <fields-in-item items_of="overview_fields">
+	                <field type="Overview: Label" editor_type="LINE">label_singular</field>
+	                <field type="Overview: Label Plural" editor_type="LINE">label_plural</field>
+	            </fields-in-item>
+	        </widget>
+	    </elementor-widgets>
+	<admin-texts>
+		<key name="houzez_options">
+			<key name="cl_property" />
+			<key name="cl_properties" />
+			<key name="cl_favorite" />
+			<key name="cl_preview" />
+			<key name="cl_add_compare" />
+			<key name="cl_remove_compare" />
+			<key name="cl_none" />
+			<key name="cl_rooms" />
+			<key name="cl_rooms_plac" />
+			<key name="cl_select" />
+			<key name="cl_only_digits" />
+			<key name="cl_example" />
+			<key name="cl_hide" />
+			<key name="cl_show" />
+			<key name="cl_yes" />
+			<key name="cl_no" />
+			<key name="cl_or" />
+			<key name="cl_select_all" />
+			<key name="cl_deselect_all" />
+			<key name="srh_any" />
+			<key name="srh_keyword" />
+			<key name="srh_address" />
+			<key name="srh_csa" />
+			<key name="srh_location" />
+			<key name="srh_radius" />
+			<key name="srh_type" />
+			<key name="srh_types" />
+			<key name="srh_status" />
+			<key name="srh_statuses" />
+			<key name="srh_label" />
+			<key name="srh_labels" />
+			<key name="srh_all_status" />
+			<key name="srh_bedrooms" />
+			<key name="srh_bathrooms" />
+			<key name="srh_beds" />
+			<key name="srh_item_selected" />
+			<key name="srh_baths" />
+			<key name="srh_min_area" />
+			<key name="srh_max_area" />
+			<key name="srh_min_price" />
+			<key name="srh_max_price" />
+			<key name="srh_price" />
+			<key name="srh_price_range" />
+			<key name="srh_from" />
+			<key name="srh_to" />
+			<key name="srh_prop_id" />
+			<key name="srh_countries" />
+			<key name="srh_states" />
+			<key name="srh_cities" />
+			<key name="srh_areas" />
+			<key name="srh_areass" />
+			<key name="srh_currency" />
+			<key name="srh_other_features" />
+			<key name="srh_btn_adv" />
+			<key name="srh_btn_search" />
+			<key name="srh_btn_go" />
+			<key name="srh_btn_save_search" />
+			<key name="srh_dock_title" />
+			<key name="srh_mobile_title" />
+			<key name="srh_btn_more" />
+			<key name="srh_clear" />
+			<key name="srh_apply" />
+			<key name="glc_bedroom" />
+			<key name="glc_bedrooms" />
+			<key name="glc_bathroom" />
+			<key name="glc_bathrooms" />
+			<key name="glc_bed" />
+			<key name="glc_beds" />
+			<key name="glc_bath" />
+			<key name="glc_baths" />
+			<key name="glc_garage" />
+			<key name="glc_garages" />
+			<key name="glc_year_built" />
+			<key name="glc_detail_btn" />
+			<key name="sps_overview" />
+			<key name="sps_description" />
+			<key name="sps_documents" />
+			<key name="sps_details" />
+			<key name="sps_additional_details" />
+			<key name="sps_address" />
+			<key name="sps_features" />
+			<key name="sps_video" />
+			<key name="sps_virtual_tour" />
+			<key name="sps_sub_listings" />
+			<key name="sps_energy_class" />
+			<key name="sps_floor_plans" />
+			<key name="sps_calculator" />
+			<key name="sps_walkscore" />
+			<key name="sps_nearby" />
+			<key name="sps_schedule_tour" />
+			<key name="sps_contact" />
+			<key name="sps_contact_info" />
+			<key name="sps_your_info" />
+			<key name="sps_propperty_enqry" />
+			<key name="sps_reviews" />
+			<key name="sps_similar_listings" />
+			<key name="spl_prop_id" />
+			<key name="spl_price" />
+			<key name="spl_prop_type" />
+			<key name="spl_prop_status" />
+			<key name="spl_prop_size" />
+			<key name="spl_land" />
+			<key name="spl_bedroom" />
+			<key name="spl_bedrooms" />
+			<key name="spl_bathroom" />
+			<key name="spl_bathrooms" />
+			<key name="spl_garage" />
+			<key name="spl_garages" />
+			<key name="spl_garage_size" />
+			<key name="spl_year_built" />
+			<key name="spl_lot" />
+			<key name="spl_ogm" />
+			<key name="spl_address" />
+			<key name="spl_zip" />
+			<key name="spl_country" />
+			<key name="spl_state" />
+			<key name="spl_city" />
+			<key name="spl_area" />
+			<key name="spl_con_name" />
+			<key name="spl_con_name_plac" />
+			<key name="spl_con_phone" />
+			<key name="spl_con_phone_plac" />
+			<key name="spl_con_email" />
+			<key name="spl_con_email_plac" />
+			<key name="spl_con_message" />
+			<key name="spl_con_message_plac" />
+			<key name="spl_con_interested" />
+			<key name="spl_con_select" />
+			<key name="spl_con_buyer" />
+			<key name="spl_con_tennant" />
+			<key name="spl_con_agent" />
+			<key name="spl_con_other" />
+			<key name="spl_con_view_listings" />
+			<key name="spl_con_date" />
+			<key name="spl_con_date_plac" />
+			<key name="spl_con_time" />
+			<key name="spl_btn_send" />
+			<key name="spl_btn_message" />
+			<key name="spl_btn_call" />
+			<key name="spl_btn_request_info" />
+			<key name="spl_btn_tour_sch" />
+			<key name="spl_sub_agree" />
+			<key name="spl_term" />
+			<key name="spl_energetic_cls" />
+			<key name="spl_energy_index" />
+			<key name="spl_energy_renew_index" />
+			<key name="spl_energy_build_performance" />
+			<key name="spl_energy_ecp_rating" />
+			<key name="spl_energy_ecp_p" />
+			<key name="spl_energy_cls" />
+			<key name="spc_principal_ints" />
+			<key name="spc_prop_tax" />
+			<key name="spc_hi" />
+			<key name="spc_pmi" />
+			<key name="spc_total_amt" />
+			<key name="spc_down_payment" />
+			<key name="spc_ir" />
+			<key name="spc_load_term" />
+			<key name="spc_monthly" />
+			<key name="spc_btn_cal" />
+			<key name="cls_description" />
+			<key name="cls_description_price" />
+			<key name="cls_price" />
+			<key name="cls_media" />
+			<key name="cls_documents" />
+			<key name="cls_details" />
+			<key name="cls_private_notes" />
+			<key name="cls_additional_details" />
+			<key name="cls_address" />
+			<key name="cls_location" />
+			<key name="cls_map" />
+			<key name="cls_features" />
+			<key name="cls_video" />
+			<key name="cls_virtual_tour" />
+			<key name="cls_sub_listings" />
+			<key name="cls_energy_class" />
+			<key name="cls_floor_plans" />
+			<key name="cls_walkscore" />
+			<key name="cls_contact_info" />
+			<key name="cls_information" />
+			<key name="cls_settings" />
+			<key name="cls_slider" />
+			<key name="cls_layout" />
+			<key name="cls_rental" />
+			<key name="cls_gdpr" />
+			<key name="cl_prop_title" />
+			<key name="cl_prop_title_plac" />
+			<key name="cl_content" />
+			<key name="cl_prop_type" />
+			<key name="cl_prop_types" />
+			<key name="cl_prop_status" />
+			<key name="cl_prop_statuses" />
+			<key name="cl_prop_label" />
+			<key name="cl_prop_labels" />
+			<key name="cl_sale_price" />
+			<key name="cl_sale_price_plac" />
+			<key name="cl_second_price" />
+			<key name="cl_second_price_plac" />
+			<key name="cl_price_postfix" />
+			<key name="cl_price_postfix_plac" />
+			<key name="cl_price_postfix_tooltip" />
+			<key name="cl_price_prefix" />
+			<key name="cl_price_prefix_plac" />
+			<key name="cl_price_prefix_tooltip" />
+			<key name="cl_bedrooms" />
+			<key name="cl_bedrooms_plac" />
+			<key name="cl_bathrooms" />
+			<key name="cl_bathrooms_plac" />
+			<key name="cl_area_size" />
+			<key name="cl_area_size_plac" />
+			<key name="cl_area_size_postfix" />
+			<key name="cl_area_size_postfix_plac" />
+			<key name="cl_area_size_postfix_tooltip" />
+			<key name="cl_land_size" />
+			<key name="cl_land_size_plac" />
+			<key name="cl_land_size_postfix" />
+			<key name="cl_land_size_postfix_plac" />
+			<key name="cl_land_size_postfix_tooltip" />
+			<key name="cl_garage" />
+			<key name="cl_garage_plac" />
+			<key name="cl_garage_postfix" />
+			<key name="cl_garage_postfix_plac" />
+			<key name="cl_garage_postfix_tooltip" />
+			<key name="cl_year_built" />
+			<key name="cl_year_built_plac" />
+			<key name="cl_prop_id" />
+			<key name="cl_prop_id_plac" />
+			<key name="cl_prop_id_tooltip" />
+			<key name="cl_additional_title" />
+			<key name="cl_additional_value" />
+			<key name="cl_drag_drop_text" />
+			<key name="cl_drag_drop_title" />
+			<key name="cl_image_size" />
+			<key name="cl_image_btn" />
+			<key name="cl_image_featured" />
+			<key name="cl_video_url" />
+			<key name="cl_video_url_plac" />
+			<key name="cl_energy_cls" />
+			<key name="cl_energy_cls_plac" />
+			<key name="cl_energy_index" />
+			<key name="cl_energy_index_plac" />
+			<key name="cl_energy_renew_index" />
+			<key name="cl_energy_renew_index_plac" />
+			<key name="cl_energy_build_performance" />
+			<key name="cl_energy_build_performance_plac" />
+			<key name="cl_energy_ecp_rating" />
+			<key name="cl_energy_ecp_rating_plac" />
+			<key name="cl_energy_ecp_p" />
+			<key name="cl_energy_ecp_p_plac" />
+			<key name="cl_virtual_plac" />
+			<key name="cl_private_note" />
+			<key name="cl_private_note_plac" />
+			<key name="cl_address" />
+			<key name="cl_address_plac" />
+			<key name="cl_zip" />
+			<key name="cl_zip_plac" />
+			<key name="cl_country" />
+			<key name="cl_country_plac" />
+			<key name="cl_state" />
+			<key name="cl_state_plac" />			
+			<key name="cl_city" />
+			<key name="cl_city_plac" />
+			<key name="cl_area" />
+			<key name="cl_area_plac" />
+			<key name="cl_drag_drop_text" />
+			<key name="cl_latitude" />
+			<key name="cl_no_results_matched" />
+			<key name="cl_latitude_plac" />
+			<key name="cl_longitude" />
+			<key name="cl_longitude_plac" />
+			<key name="cl_street_view" />
+			<key name="cl_ppbtn" />
+			<key name="cl_streat_address" />
+			<key name="cl_streat_address_plac" />
+			<key name="cl_make_featured" />
+			<key name="cl_login_view" />
+			<key name="cl_login_view_plac" />
+			<key name="cl_decuments_text" />
+			<key name="cl_attachment_btn" />
+			<key name="cl_uploaded_attachments" />
+			<key name="cl_contact_info_text" />
+			<key name="cl_author_info" />
+			<key name="cl_agency_info2" />
+			<key name="cl_agent_info" />
+			<key name="cl_agent_info_plac" />
+			<key name="cl_agency_info" />
+			<key name="cl_featured_label" />
+			<key name="cl_agency_info_plac" />
+			<key name="cl_not_display" />
+			<key name="cl_add_slider" />
+			<key name="cl_add_slider_plac" />
+			<key name="cl_slider_img" />
+			<key name="cl_slider_img_size" />
+			<key name="cl_plan_title" />
+			<key name="cl_plan_title_plac" />
+			<key name="cl_plan_bedrooms" />
+			<key name="cl_plan_bedrooms_plac" />
+			<key name="cl_plan_bathrooms" />
+			<key name="cl_plan_bathrooms_plac" />
+			<key name="cl_plan_price" />
+			<key name="cl_plan_price_plac" />
+			<key name="cl_plan_price_postfix" />
+			<key name="cl_plan_price_postfix_plac" />
+			<key name="cl_plan_size" />
+			<key name="cl_plan_size_plac" />
+			<key name="cl_plan_img" />
+			<key name="cl_plan_img_plac" />
+			<key name="cl_plan_img_btn" />
+			<key name="cl_plan_img_size" />
+			<key name="cl_plan_des" />
+			<key name="cl_plan_des_plac" />
+			<key name="cl_subl_title" />
+			<key name="cl_subl_title_plac" />
+			<key name="cl_subl_bedrooms" />
+			<key name="cl_subl_bedrooms_plac" />
+			<key name="cl_subl_bathrooms" />
+			<key name="cl_subl_bathrooms_plac" />
+			<key name="cl_subl_price" />
+			<key name="cl_subl_price_plac" />
+			<key name="cl_subl_price_postfix" />
+			<key name="cl_subl_price_postfix_plac" />
+			<key name="cl_subl_size" />
+			<key name="cl_subl_size_plac" />
+			<key name="cl_subl_size_postfix" />
+			<key name="cl_subl_size_postfix_plac" />
+			<key name="cl_subl_type" />
+			<key name="cl_subl_type_plac" />
+			<key name="cl_subl_date" />
+			<key name="cl_subl_date_plac" />
+			<key name="cl_subl_ids" />
+			<key name="cl_subl_ids_plac" />
+			<key name="cl_subl_ids_tooltip" />
+			<key name="dsh_board" />
+			<key name="dsh_activities" />
+			<key name="dsh_deals" />
+			<key name="dsh_leads" />
+			<key name="dsh_inquiries" />
+			<key name="dsh_insight" />
+			<key name="dsh_props" />
+			<key name="dsh_all" />
+			<key name="dsh_published" />
+			<key name="dsh_pending" />
+			<key name="dsh_expired" />
+			<key name="dsh_draft" />
+			<key name="dsh_hold" />
+			<key name="dsh_create_listing" />
+			<key name="dsh_favorite" />
+			<key name="dsh_saved_searches" />
+			<key name="dsh_membership" />
+			<key name="dsh_invoices" />
+			<key name="dsh_profile" />
+			<key name="dsh_agents" />
+			<key name="dsh_addnew" />
+			<key name="dsh_logout" />
+			<key name="fal_submit_property" />
+			<key name="fal_save_draft" />
+			<key name="fal_save_changes" />
+			<key name="fal_view_property" />
+			<key name="fal_cancel" />
+			<key name="fal_back" />
+			<key name="fal_next" />
+			<key name="hd2_address_line1" />
+			<key name="hd2_address_line2" />
+			<key name="hd2_timing_hours" />
+			<key name="hd2_timing_days" />
+			<key name="hd3_call_us_text" />
+			<key name="splash_welcome_text" />
+			<key name="splash_welcome_sub" />
+			<key name="splash_callus_text" />
+			<key name="404-title" />
+			<key name="404-des" />
+			<key name="copy_rights" />
+			<key name="thankyou_wire_title" />
+			<key name="thankyou_wire_des" />
+			<key name="thankyou_title" />
+			<key name="thankyou_des" />
+			<key name="houzez_subject_purchase_activated_pack" />
+			<key name="houzez_purchase_activated_pack" />
+			<key name="houzez_subject_purchase_activated" />
+			<key name="houzez_purchase_activated" />
+			<key name="houzez_subject_listing_approved" />
+			<key name="houzez_listing_approved" />
+			<key name="houzez_subject_listing_expired" />
+			<key name="houzez_listing_expired" />
+			<key name="houzez_subject_new_user_register" />
+			<key name="houzez_new_user_register" />
+			<key name="houzez_subject_admin_new_user_register" />
+			<key name="houzez_admin_new_user_register" />
+			<key name="houzez_subject_new_wire_transfer" />
+			<key name="houzez_new_wire_transfer" />
+			<key name="houzez_subject_admin_new_wire_transfer" />
+			<key name="houzez_admin_new_wire_transfer" />
+			<key name="houzez_subject_property_agent_contact" />
+			<key name="houzez_property_agent_contact" />
+			<key name="houzez_subject_property_schedule_tour" />
+			<key name="houzez_property_schedule_tour" />
+			<key name="contact_form_agent_above_image" />
+			<key name="contact_form_agent_bottom" />
+			<key name="contact_form_agent_detail" />
+			<key name="top_bar_slogan" />
+			<key name="agent_role" />
+			<key name="agency_role" />
+			<key name="owner_role" />
+			<key name="buyer_role" />
+			<key name="seller_role" />
+			<key name="manager_role" />
+			<key name="measurement_unit_square_meter_text" />
+			<key name="measurement_unit_sqft_text" />
+			<key name="search_rent_status_for_price_range" />
+			<key name="search_rent_status" />
+			<key name="gdpr-label" />
+			<key name="cal_where" />
+			<key name="gdpr-agreement-content" />
+			<key name="agent_forms_terms_text" />
+			<key name="agent_forms_terms_validation" />
+		</key>
+	</admin-texts>
+</wpml-config>

@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Login Register\n"
+"Language: he\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: functions/login_register.php:39 functions/login_register.php:115
+#: functions/login_register.php:229
+msgid "The username field is empty."
+msgstr "השדה שם משתמש ריק."
+
+#: functions/login_register.php:43
+msgid "The password field is empty."
+msgstr "שדה הסיסמה ריק."
+
+#: functions/login_register.php:47 functions/login_register.php:426
+msgid "Invalid username"
+msgstr "שם משתמש לא חוקי"
+
+#: functions/login_register.php:66
+msgid "The password you entered for the username <strong>%s</strong> is incorrect."
+msgstr "הסיסמה שהזנת עבור שם המשתמש <strong>% s </ strong> אינה נכונה."
+
+#: functions/login_register.php:77
+msgid "Login successful, redirecting..."
+msgstr "התחבר בהצלחה, מפנה מחדש ..."
+
+#: functions/login_register.php:110
+msgid "You need to agree with terms & conditions."
+msgstr "אתה צריך להסכים עם התנאים וההגבלות."
+
+#: functions/login_register.php:119 functions/login_register.php:237
+msgid "Minimum 3 characters required"
+msgstr "מינימום 3 תווים נדרשים"
+
+#: functions/login_register.php:123 functions/login_register.php:241
+msgid "Invalid username (do not use special characters or spaces)!"
+msgstr "שם משתמש לא חוקי (אל תשתמש בתווים או רווחים מיוחדים)!"
+
+#: functions/login_register.php:127 functions/login_register.php:233
+msgid "This username is already registered."
+msgstr "שם המשתמש הזה כבר רשום."
+
+#: functions/login_register.php:131 functions/login_register.php:245
+msgid "The email field is empty."
+msgstr "שדה האימייל ריק."
+
+#: functions/login_register.php:136 functions/login_register.php:250
+msgid "This email address is already registered."
+msgstr "כתובת דוא\"ל זו כבר רשומה."
+
+#: functions/login_register.php:141 functions/login_register.php:255
+msgid "Invalid email address."
+msgstr "כתובת אימייל לא חוקית."
+
+#: functions/login_register.php:150
+msgid "One of the password field is empty!"
+msgstr "אחד משדות הסיסמה ריק!"
+
+#: functions/login_register.php:155
+msgid "Passwords do not match"
+msgstr "סיסמאות לא תואמות"
+
+#: functions/login_register.php:177
+msgid "Your account was created and you can login now!"
+msgstr "החשבון שלך נוצר ואתה יכול להתחבר עכשיו!"
+
+#: functions/login_register.php:179
+msgid "An email with the generated password was sent!"
+msgstr "הודעת דוא\"ל עם הסיסמה שנוצרה נשלחה!"
+
+#: functions/login_register.php:260
+msgid "The passowrd field is empty."
+msgstr "שדה passowrd ריק."
+
+#: functions/login_register.php:282
+msgid "Agent account created!"
+msgstr "חשבון הסוכן נוצר!"
+
+#: functions/login_register.php:337
+msgid "The Email you entered is not valid. Please try again."
+msgstr "כתובת האימייל שהזנת אינה חוקית. בבקשה נסה שוב."
+
+#: functions/login_register.php:343
+msgid "This Email is already used by another user. Please try a different one."
+msgstr "דוא\"ל זה כבר נמצא בשימוש על ידי משתמש אחר. נסה קובץ אחר."
+
+#: functions/login_register.php:359
+msgid "Profile updated"
+msgstr "הפרופיל עודכן"
+
+#: functions/login_register.php:411
+msgid "Enter a username or email address."
+msgstr "הזן שם משתמש או כתובת דוא\"ל."
+
+#: functions/login_register.php:418
+msgid "There is no user registered with that email address."
+msgstr "אין משתמש רשום עם כתובת דוא\"ל זו."
+
+#: functions/login_register.php:442
+msgid "Someone has requested a password reset for the following account:"
+msgstr "מישהו ביקש איפוס סיסמה עבור החשבון הבא:"
+
+#: functions/login_register.php:444
+msgid "Username: %s"
+msgstr "שם משתמש:% s"
+
+#: functions/login_register.php:445
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "אם זה היה טעות, פשוט להתעלם דוא\"ל זה שום דבר לא יקרה."
+
+#: functions/login_register.php:446
+msgid "To reset your password, visit the following address:"
+msgstr "כדי לאפס את הסיסמה, בקר בכתובת הבאה:"
+
+#: functions/login_register.php:458
+msgid "[%s] Password Reset"
+msgstr "[% s] איפוס סיסמה"
+
+#: functions/login_register.php:487
+msgid "The email could not be sent."
+msgstr "לא ניתן לשלוח את הדוא\"ל."
+
+#: functions/login_register.php:487
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr "סיבה אפשרית: ייתכן שהמארח שלך השבית את פונקציית הדואר ()."
+
+#: functions/login_register.php:490
+msgid "Check your email"
+msgstr "לבדוק את הדואר האלקטרוני שלך"
+
+#: functions/login_register.php:648
+msgid "Follow us on"
+msgstr "עקבו אחרינו ב"
+
+#: functions/roles.php:25
+msgid "Buyer"
+msgstr "קוֹנֶה"
+
+#: functions/roles.php:35
+msgid "Agency"
+msgstr "סוֹכְנוּת"
+
+#: functions/roles.php:62
+msgid "Agent"
+msgstr "סוֹכֵן"
+
+#: functions/roles.php:89
+msgid "Seller"
+msgstr "מוֹכֵר"
+
+#: functions/roles.php:106
+msgid "Owner"
+msgstr "בעלים"
+
+#: functions/roles.php:125
+msgid "Manager"
+msgstr "מנהל"

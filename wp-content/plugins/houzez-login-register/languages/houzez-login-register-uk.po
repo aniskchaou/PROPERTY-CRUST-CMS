@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Login Register\n"
+"Language: uk\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: functions/login_register.php:39 functions/login_register.php:115
+#: functions/login_register.php:229
+msgid "The username field is empty."
+msgstr "Поле ім'я користувача порожнє."
+
+#: functions/login_register.php:43
+msgid "The password field is empty."
+msgstr "Поле пароля порожнє."
+
+#: functions/login_register.php:47 functions/login_register.php:426
+msgid "Invalid username"
+msgstr "Невірне ім'я користувача"
+
+#: functions/login_register.php:66
+msgid "The password you entered for the username <strong>%s</strong> is incorrect."
+msgstr "Пароль, який ви ввели для імені користувача <strong>% s </ strong>, невірно."
+
+#: functions/login_register.php:77
+msgid "Login successful, redirecting..."
+msgstr "Увійти успішно, перенаправлення ..."
+
+#: functions/login_register.php:110
+msgid "You need to agree with terms & conditions."
+msgstr "Ви повинні погодитися з умовами та умовами."
+
+#: functions/login_register.php:119 functions/login_register.php:237
+msgid "Minimum 3 characters required"
+msgstr "Необхідно набрати не менше 3 символів"
+
+#: functions/login_register.php:123 functions/login_register.php:241
+msgid "Invalid username (do not use special characters or spaces)!"
+msgstr "Недійсне ім'я користувача (не використовуйте спеціальні символи чи пробіли)!"
+
+#: functions/login_register.php:127 functions/login_register.php:233
+msgid "This username is already registered."
+msgstr "Це ім'я користувача вже зареєстроване."
+
+#: functions/login_register.php:131 functions/login_register.php:245
+msgid "The email field is empty."
+msgstr "Поле адреси електронної пошти порожнє."
+
+#: functions/login_register.php:136 functions/login_register.php:250
+msgid "This email address is already registered."
+msgstr "Ця електронна адреса вже зареєстрована."
+
+#: functions/login_register.php:141 functions/login_register.php:255
+msgid "Invalid email address."
+msgstr "Невірна адреса електронної пошти."
+
+#: functions/login_register.php:150
+msgid "One of the password field is empty!"
+msgstr "Одне поле пароля порожнє!"
+
+#: functions/login_register.php:155
+msgid "Passwords do not match"
+msgstr "Паролі не збігаються"
+
+#: functions/login_register.php:177
+msgid "Your account was created and you can login now!"
+msgstr "Ваш акаунт був створений, і ви можете увійти зараз!"
+
+#: functions/login_register.php:179
+msgid "An email with the generated password was sent!"
+msgstr "Відправлений електронний лист зі сформованим паролем!"
+
+#: functions/login_register.php:260
+msgid "The passowrd field is empty."
+msgstr "Поле passowrd порожнє."
+
+#: functions/login_register.php:282
+msgid "Agent account created!"
+msgstr "Агентовий рахунок створено!"
+
+#: functions/login_register.php:337
+msgid "The Email you entered is not valid. Please try again."
+msgstr "Введений вами електронний лист недійсний. Будь ласка спробуйте ще раз."
+
+#: functions/login_register.php:343
+msgid "This Email is already used by another user. Please try a different one."
+msgstr "Цей електронний лист вже використовується іншим користувачем. Будь ласка, спробуйте інший."
+
+#: functions/login_register.php:359
+msgid "Profile updated"
+msgstr "Профіль оновлено"
+
+#: functions/login_register.php:411
+msgid "Enter a username or email address."
+msgstr "Введіть ім'я користувача чи адресу електронної пошти."
+
+#: functions/login_register.php:418
+msgid "There is no user registered with that email address."
+msgstr "Користувач не зареєстрований з цією адресою електронної пошти."
+
+#: functions/login_register.php:442
+msgid "Someone has requested a password reset for the following account:"
+msgstr "Хтось запитував скинути паролі для такого облікового запису:"
+
+#: functions/login_register.php:444
+msgid "Username: %s"
+msgstr "Ім'я користувача:% s"
+
+#: functions/login_register.php:445
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Якщо це була помилка, просто ігноруйте цей електронний лист, і нічого не станеться."
+
+#: functions/login_register.php:446
+msgid "To reset your password, visit the following address:"
+msgstr "Щоб скинути свій пароль, відвідайте таку адресу:"
+
+#: functions/login_register.php:458
+msgid "[%s] Password Reset"
+msgstr "[% s] Скидання пароля"
+
+#: functions/login_register.php:487
+msgid "The email could not be sent."
+msgstr "Не вдалося надіслати електронний лист."
+
+#: functions/login_register.php:487
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr "Можлива причина: ваш хост може відключити функцію mail ()."
+
+#: functions/login_register.php:490
+msgid "Check your email"
+msgstr "Перевірити свою електронну пошту"
+
+#: functions/login_register.php:648
+msgid "Follow us on"
+msgstr "Слідкуй за нами на"
+
+#: functions/roles.php:25
+msgid "Buyer"
+msgstr "Покупець"
+
+#: functions/roles.php:35
+msgid "Agency"
+msgstr "Агентство"
+
+#: functions/roles.php:62
+msgid "Agent"
+msgstr "Агента"
+
+#: functions/roles.php:89
+msgid "Seller"
+msgstr "Продавець"
+
+#: functions/roles.php:106
+msgid "Owner"
+msgstr "Власник"
+
+#: functions/roles.php:125
+msgid "Manager"
+msgstr "Менеджер"

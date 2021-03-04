@@ -1,0 +1,14 @@
+#toplevel_page_houzez_dashboard .wp-menu-image img, #toplevel_page_houzez-real-estate .wp-menu-image img {
+    width: 20px; 
+    padding: 5px 0 0; 
+    opacity: 1;
+}
+
+ul.houzez-sortable-list li.ui-sortable-handle {
+    background-color: #004274;
+    margin-top: 5px;
+    padding: 10px 6px;
+    color: #fff;
+    vertical-align: middle;
+    cursor: pointer;
+}

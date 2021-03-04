@@ -1,0 +1,204 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: houzez\n"
+"POT-Creation-Date: 2020-05-12 22:10+0500\n"
+"PO-Revision-Date: 2018-02-14 00:30+0500\n"
+"Last-Translator: \n"
+"Language-Team: Favethemes <hello@favethemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x;esc_html__;esc_html_e;_n;_nx\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: functions/login_register.php:40
+msgid "The username or email field is empty."
+msgstr ""
+
+#: functions/login_register.php:44
+msgid "The password field is empty."
+msgstr ""
+
+#: functions/login_register.php:48
+msgid "Invalid username or email"
+msgstr ""
+
+#: functions/login_register.php:77
+#, php-format
+msgid "The password you entered for the username <strong>%s</strong> is incorrect."
+msgstr ""
+
+#: functions/login_register.php:89
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: functions/login_register.php:127
+msgid "You need to agree with terms & conditions."
+msgstr ""
+
+#: functions/login_register.php:133
+msgid "The first name field is empty."
+msgstr ""
+
+#: functions/login_register.php:139
+msgid "The last name field is empty."
+msgstr ""
+
+#: functions/login_register.php:145
+msgid "Please enter your number"
+msgstr ""
+
+#: functions/login_register.php:150 functions/login_register.php:285
+msgid "The username field is empty."
+msgstr ""
+
+#: functions/login_register.php:154 functions/login_register.php:293
+msgid "Minimum 3 characters required"
+msgstr ""
+
+#: functions/login_register.php:158 functions/login_register.php:297
+msgid "Invalid username (do not use special characters or spaces)!"
+msgstr ""
+
+#: functions/login_register.php:162 functions/login_register.php:289
+msgid "This username is already registered."
+msgstr ""
+
+#: functions/login_register.php:166 functions/login_register.php:301
+msgid "The email field is empty."
+msgstr ""
+
+#: functions/login_register.php:171 functions/login_register.php:306
+msgid "This email address is already registered."
+msgstr ""
+
+#: functions/login_register.php:176 functions/login_register.php:311
+msgid "Invalid email address."
+msgstr ""
+
+#: functions/login_register.php:185
+msgid "One of the password field is empty!"
+msgstr ""
+
+#: functions/login_register.php:190
+msgid "Passwords do not match"
+msgstr ""
+
+#: functions/login_register.php:225
+msgid "Your account was created and you can login now!"
+msgstr ""
+
+#: functions/login_register.php:227
+msgid "An email with the generated password was sent!"
+msgstr ""
+
+#: functions/login_register.php:316
+msgid "The passowrd field is empty."
+msgstr ""
+
+#: functions/login_register.php:338
+msgid "Agent account created!"
+msgstr ""
+
+#: functions/login_register.php:393
+msgid "The Email you entered is not valid. Please try again."
+msgstr ""
+
+#: functions/login_register.php:399
+msgid "This Email is already used by another user. Please try a different one."
+msgstr ""
+
+#: functions/login_register.php:415
+msgid "Profile updated"
+msgstr ""
+
+#: functions/login_register.php:467
+msgid "Enter a username or email address."
+msgstr ""
+
+#: functions/login_register.php:474
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: functions/login_register.php:482
+msgid "Invalid username"
+msgstr ""
+
+#: functions/login_register.php:498
+msgid "Someone has requested a password reset for the following account:"
+msgstr ""
+
+#: functions/login_register.php:500
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: functions/login_register.php:501
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: functions/login_register.php:502
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: functions/login_register.php:514
+#, php-format
+msgid "[%s] Password Reset"
+msgstr ""
+
+#: functions/login_register.php:543
+msgid "The email could not be sent."
+msgstr ""
+
+#: functions/login_register.php:543
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr ""
+
+#: functions/login_register.php:546
+msgid "Check your email"
+msgstr ""
+
+#: functions/login_register.php:708
+msgid "Follow us on"
+msgstr ""
+
+#: functions/roles.php:22
+msgid "Buyer"
+msgstr ""
+
+#: functions/roles.php:32
+msgid "Agency"
+msgstr ""
+
+#: functions/roles.php:59
+msgid "Agent"
+msgstr ""
+
+#: functions/roles.php:86
+msgid "Seller"
+msgstr ""
+
+#: functions/roles.php:103
+msgid "Owner"
+msgstr ""
+
+#: functions/roles.php:122
+msgid "Manager"
+msgstr ""
+
+#: functions/social_login.php:29
+msgid "Please enter facebook api & secret keys"
+msgstr ""
+
+#: functions/social_login.php:47
+msgid "Connecting to facebook, please wait..."
+msgstr ""
+
+#~ msgid "My Partners"
+#~ msgstr "My Partners Fr p"

@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Login Register\n"
+"Language: tr\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: functions/login_register.php:39 functions/login_register.php:115
+#: functions/login_register.php:229
+msgid "The username field is empty."
+msgstr "Kullanıcı adı alanı boş."
+
+#: functions/login_register.php:43
+msgid "The password field is empty."
+msgstr "Şifre alanı boş."
+
+#: functions/login_register.php:47 functions/login_register.php:426
+msgid "Invalid username"
+msgstr "Geçersiz kullanıcı adı"
+
+#: functions/login_register.php:66
+msgid "The password you entered for the username <strong>%s</strong> is incorrect."
+msgstr "<Strong>% s </ strong> kullanıcı adı için girdiğiniz şifre yanlış."
+
+#: functions/login_register.php:77
+msgid "Login successful, redirecting..."
+msgstr "Giriş başarılı, yönlendiriliyor ..."
+
+#: functions/login_register.php:110
+msgid "You need to agree with terms & conditions."
+msgstr "Şartlar ve koşullarla hemfikir olmanız gerekir."
+
+#: functions/login_register.php:119 functions/login_register.php:237
+msgid "Minimum 3 characters required"
+msgstr "Minimum 3 karakter gerekli"
+
+#: functions/login_register.php:123 functions/login_register.php:241
+msgid "Invalid username (do not use special characters or spaces)!"
+msgstr "Geçersiz kullanıcı adı (özel karakter veya boşluk kullanmayın)!"
+
+#: functions/login_register.php:127 functions/login_register.php:233
+msgid "This username is already registered."
+msgstr "Bu kullanıcı adı zaten kayıtlı."
+
+#: functions/login_register.php:131 functions/login_register.php:245
+msgid "The email field is empty."
+msgstr "E-posta alanı boş."
+
+#: functions/login_register.php:136 functions/login_register.php:250
+msgid "This email address is already registered."
+msgstr "Bu e-posta adresi zaten kayıtlı."
+
+#: functions/login_register.php:141 functions/login_register.php:255
+msgid "Invalid email address."
+msgstr "Geçersiz e-posta adresi."
+
+#: functions/login_register.php:150
+msgid "One of the password field is empty!"
+msgstr "Şifre alanlarından biri boş!"
+
+#: functions/login_register.php:155
+msgid "Passwords do not match"
+msgstr "Parolalar uyuşmuyor"
+
+#: functions/login_register.php:177
+msgid "Your account was created and you can login now!"
+msgstr "Hesabınız oluşturuldu ve şimdi giriş yapabilirsiniz!"
+
+#: functions/login_register.php:179
+msgid "An email with the generated password was sent!"
+msgstr "Oluşturulan şifre ile bir e-posta gönderildi!"
+
+#: functions/login_register.php:260
+msgid "The passowrd field is empty."
+msgstr "Passowrd alanı boş."
+
+#: functions/login_register.php:282
+msgid "Agent account created!"
+msgstr "Ajan hesabı oluşturuldu!"
+
+#: functions/login_register.php:337
+msgid "The Email you entered is not valid. Please try again."
+msgstr "Girdiğiniz e-posta geçerli değil. Lütfen tekrar deneyin."
+
+#: functions/login_register.php:343
+msgid "This Email is already used by another user. Please try a different one."
+msgstr "Bu e-posta başka bir kullanıcı tarafından zaten kullanılıyor. Lütfen farklı bir tane deneyin."
+
+#: functions/login_register.php:359
+msgid "Profile updated"
+msgstr "Profil güncellendi"
+
+#: functions/login_register.php:411
+msgid "Enter a username or email address."
+msgstr "Bir kullanıcı adı veya e-posta adresi girin."
+
+#: functions/login_register.php:418
+msgid "There is no user registered with that email address."
+msgstr "Bu e-posta adresiyle kayıtlı bir kullanıcı yok."
+
+#: functions/login_register.php:442
+msgid "Someone has requested a password reset for the following account:"
+msgstr "Birisi aşağıdaki hesap için şifre sıfırlama isteğinde bulundu:"
+
+#: functions/login_register.php:444
+msgid "Username: %s"
+msgstr "Kullanıcı adı:% s"
+
+#: functions/login_register.php:445
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "Bu bir hataysa, bu e-postayı yok sayın ve hiçbir şey olmayacak."
+
+#: functions/login_register.php:446
+msgid "To reset your password, visit the following address:"
+msgstr "Şifrenizi sıfırlamak için aşağıdaki adresi ziyaret edin:"
+
+#: functions/login_register.php:458
+msgid "[%s] Password Reset"
+msgstr "[% s] Şifre Sıfırlama"
+
+#: functions/login_register.php:487
+msgid "The email could not be sent."
+msgstr "E-posta gönderilemedi."
+
+#: functions/login_register.php:487
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr "Olası neden: Ana makineniz mail () işlevini devre dışı bırakmış olabilir."
+
+#: functions/login_register.php:490
+msgid "Check your email"
+msgstr "E-postanı kontrol et"
+
+#: functions/login_register.php:648
+msgid "Follow us on"
+msgstr "Bizi takip edin"
+
+#: functions/roles.php:25
+msgid "Buyer"
+msgstr "Alıcı"
+
+#: functions/roles.php:35
+msgid "Agency"
+msgstr "Ajans"
+
+#: functions/roles.php:62
+msgid "Agent"
+msgstr "ajan"
+
+#: functions/roles.php:89
+msgid "Seller"
+msgstr "satıcı"
+
+#: functions/roles.php:106
+msgid "Owner"
+msgstr "Sahip"
+
+#: functions/roles.php:125
+msgid "Manager"
+msgstr "yönetici"

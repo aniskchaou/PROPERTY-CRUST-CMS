@@ -1,0 +1,858 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Functionality Plugin\n"
+"Language: ur\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: classes/class-settings.php:53
+msgid "Portfolio Settings"
+msgstr "پورٹ فولیو ترتیبات"
+
+#: classes/class-settings.php:54
+msgid "Settings"
+msgstr "ترتیبات"
+
+#: classes/class-settings.php:83
+msgid "Permalinks"
+msgstr "Permalinks"
+
+#: classes/class-settings.php:86
+msgid "Property Slug"
+msgstr "پراپرٹی Slug"
+
+#: classes/class-settings.php:87
+msgid "Property Type Slug"
+msgstr "پراپرٹی کی قسم Slug"
+
+#: classes/class-settings.php:88
+msgid "Property Feature Slug"
+msgstr "پراپرٹی کی خصوصیت سلگ"
+
+#: classes/class-settings.php:89
+msgid "Property Status Slug"
+msgstr "پراپرٹی کی حیثیت سلگ"
+
+#: classes/class-settings.php:90
+msgid "Property Area Slug"
+msgstr "پراپرٹی کے علاقے Slug"
+
+#: classes/class-settings.php:91
+msgid "Property City Slug"
+msgstr "پراپرٹی کے شہر Slug"
+
+#: classes/class-settings.php:92
+msgid "Property State Slug"
+msgstr "پراپرٹی اسٹیٹ Slug"
+
+#: classes/class-settings.php:105
+msgid "Set up custom permalinks for the property section on your site."
+msgstr "اپنی سائٹ پر پراپرٹی سیکشن کے لئے اپنی مرضی کے مطابق permalinks مقرر کریں."
+
+#: classes/class-settings.php:236
+msgid "Properties Settings"
+msgstr "پراپرٹی کی ترتیبات"
+
+#: classes/class-settings.php:243
+msgid "Update Settings"
+msgstr "ترتیبات کو اپ ڈیٹ کریں"
+
+#: functions.php:30
+msgid "Activated Successfully, reload page!"
+msgstr "کامیابی سے فعال، صفحہ دوبارہ لوڈ کریں!"
+
+#: functions.php:32
+msgid "Invalid license key"
+msgstr "غلط لائسنس کلیدی"
+
+#: post-types/agency-post-type.php:36 post-types/agency-post-type.php:42
+#: post-types/agency-post-type.php:48 statistics/houzez-statistics.php:62
+msgid "Agencies"
+msgstr "ایجنسیاں"
+
+#: post-types/agency-post-type.php:37
+msgid "Agency"
+msgstr "ایجنسی"
+
+#: post-types/agency-post-type.php:38 post-types/agency-post-type.php:39
+msgid "Add New Agency"
+msgstr "نئی ایجنسی شامل کریں"
+
+#: post-types/agency-post-type.php:40
+msgid "Edit Agency"
+msgstr "ایجنسی میں ترمیم کریں"
+
+#: post-types/agency-post-type.php:41
+msgid "New Agency"
+msgstr "نئی ایجنسی"
+
+#: post-types/agency-post-type.php:43
+msgid "View Agency"
+msgstr "ایجنسی دیکھیں"
+
+#: post-types/agency-post-type.php:44
+msgid "Search Agency"
+msgstr "تلاش ایجنسی"
+
+#: post-types/agency-post-type.php:45
+msgid "No agencies found"
+msgstr "کوئی ایجنسی نہیں ملا"
+
+#: post-types/agency-post-type.php:46
+msgid "No agencies found in Trash"
+msgstr "ٹریش میں کوئی ایجنسی نہیں مل سکی"
+
+#: post-types/agency-post-type.php:79
+msgid "Agency ID"
+msgstr "ایجنسی کی شناخت"
+
+#: post-types/agency-post-type.php:80 post-types/user-packages-post-type.php:61
+msgid "Title"
+msgstr "عنوان"
+
+#: post-types/agency-post-type.php:81
+msgid "License"
+msgstr "لائسنس"
+
+#: post-types/agency-post-type.php:82 post-types/property-post-type.php:254
+#: statistics/houzez-statistics.php:115 statistics/houzez-statistics.php:192
+#: statistics/houzez-statistics.php:240 statistics/houzez-statistics.php:320
+msgid "Thumbnail"
+msgstr "تھمب نیل"
+
+#: post-types/agency-post-type.php:83 post-types/agent-post-type.php:115
+msgid "E-mail"
+msgstr "ای میل"
+
+#: post-types/agency-post-type.php:84 post-types/agent-post-type.php:116
+msgid "Web"
+msgstr "ویب"
+
+#: post-types/agency-post-type.php:85
+msgid "Phone"
+msgstr "فون"
+
+#: post-types/agency-post-type.php:86 post-types/agent-post-type.php:30
+#: statistics/houzez-statistics.php:56
+msgid "Agents"
+msgstr "ایجنٹ"
+
+#: post-types/agency-post-type.php:87
+msgid "Author"
+msgstr "مصنف"
+
+#: post-types/agent-post-type.php:31
+msgid "Agent"
+msgstr "ایجنٹ"
+
+#: post-types/agent-post-type.php:32 post-types/invoice-post-type.php:14
+#: post-types/partners-post-type.php:13 post-types/payments-post-type.php:13
+#: post-types/payments-post-type.php:14 post-types/property-post-type.php:53
+#: post-types/testimonials-post-type.php:45
+#: post-types/user-packages-post-type.php:33
+#: post-types/user-packages-post-type.php:34
+msgid "Add New"
+msgstr "نیا شامل کریں"
+
+#: post-types/agent-post-type.php:33
+msgid "Add New Agent"
+msgstr "نیا ایجنٹ شامل کریں"
+
+#: post-types/agent-post-type.php:34
+msgid "Edit Agent"
+msgstr "ایجنٹ میں ترمیم کریں"
+
+#: post-types/agent-post-type.php:35
+msgid "New Agent"
+msgstr "نیا ایجنٹ"
+
+#: post-types/agent-post-type.php:36
+msgid "View Agent"
+msgstr "ایجنٹ دیکھیں"
+
+#: post-types/agent-post-type.php:37 post-types/testimonials-post-type.php:50
+msgid "Search Agent"
+msgstr "تلاش ایجنٹ"
+
+#: post-types/agent-post-type.php:38
+msgid "No Agent found"
+msgstr "کوئی ایجنٹ نہیں ملا"
+
+#: post-types/agent-post-type.php:39
+msgid "No Agent found in Trash"
+msgstr "ٹریش میں کوئی ایجنٹ نہیں ملا"
+
+#: post-types/agent-post-type.php:70
+msgid "Categories"
+msgstr "اقسام"
+
+#: post-types/agent-post-type.php:71
+msgid "Add New Category"
+msgstr "نئی زمرہ شامل کریں"
+
+#: post-types/agent-post-type.php:72
+msgid "New Category"
+msgstr "نئی زمرہ"
+
+#: post-types/agent-post-type.php:88
+msgid "Cities"
+msgstr "شہروں"
+
+#: post-types/agent-post-type.php:89 post-types/property-post-type.php:168
+msgid "Add New City"
+msgstr "نیا شہر شامل کریں"
+
+#: post-types/agent-post-type.php:90 post-types/property-post-type.php:169
+msgid "New City"
+msgstr "نیا شہر"
+
+#: post-types/agent-post-type.php:111
+msgid "Agent ID"
+msgstr "ایجنٹ کی شناخت"
+
+#: post-types/agent-post-type.php:112
+msgid "Agent Name"
+msgstr "ایجنٹ کا نام"
+
+#: post-types/agent-post-type.php:113
+msgid "Picture"
+msgstr "تصویر"
+
+#: post-types/agent-post-type.php:114
+msgid "Category"
+msgstr "قسم"
+
+#: post-types/agent-post-type.php:117
+msgid "Mobile"
+msgstr "موبائل"
+
+#: post-types/invoice-post-type.php:12
+msgid "Houzez Invoices"
+msgstr "Houzez انوائس"
+
+#: post-types/invoice-post-type.php:13
+msgid "Houzez Invoice"
+msgstr "Houzez انوائس"
+
+#: post-types/invoice-post-type.php:15
+msgid "Add New Invoice"
+msgstr "نیا انوائس شامل کریں"
+
+#: post-types/invoice-post-type.php:16
+msgid "Edit Invoice"
+msgstr "انوائس میں ترمیم کریں"
+
+#: post-types/invoice-post-type.php:17
+msgid "New Invoice"
+msgstr "نیا انوائس"
+
+#: post-types/invoice-post-type.php:18
+msgid "View Invoice"
+msgstr "انوائس دیکھیں"
+
+#: post-types/invoice-post-type.php:19
+msgid "Search Invoice"
+msgstr "تلاش انوائس"
+
+#: post-types/invoice-post-type.php:20
+msgid "No Invoice found"
+msgstr "کوئی انوائس نہیں مل سکا"
+
+#: post-types/invoice-post-type.php:21
+msgid "No Invoice found in Trash"
+msgstr "ٹریش میں کوئی انوائس نہیں ملا"
+
+#: post-types/invoice-post-type.php:57
+msgid "Invoice Title"
+msgstr "انوائس عنوان"
+
+#: post-types/invoice-post-type.php:58 post-types/payments-post-type.php:50
+#: post-types/property-post-type.php:258 statistics/houzez-statistics.php:119
+#: statistics/houzez-statistics.php:196 statistics/houzez-statistics.php:244
+#: statistics/houzez-statistics.php:324 statistics/houzez-statistics.php:506
+#: statistics/houzez-statistics.php:509
+msgid "Price"
+msgstr "قیمت"
+
+#: post-types/invoice-post-type.php:59
+msgid "Payment Method"
+msgstr "ادائیگی کا طریقہ"
+
+#: post-types/invoice-post-type.php:60 post-types/payments-post-type.php:53
+msgid "Buyer"
+msgstr "خریدار"
+
+#: post-types/invoice-post-type.php:61
+msgid "Buyer Email"
+msgstr "خریدار ای میل"
+
+#: post-types/invoice-post-type.php:62
+msgid "Invoice Type"
+msgstr "انوائس کی قسم"
+
+#: post-types/invoice-post-type.php:63
+msgid "Billion For"
+msgstr "بلین کے لئے"
+
+#: post-types/invoice-post-type.php:64 post-types/payments-post-type.php:54
+#: post-types/property-post-type.php:148 post-types/property-post-type.php:257
+#: statistics/houzez-statistics.php:118 statistics/houzez-statistics.php:195
+#: statistics/houzez-statistics.php:243 statistics/houzez-statistics.php:323
+#: statistics/houzez-statistics.php:418 statistics/houzez-statistics.php:580
+msgid "Status"
+msgstr "حالت"
+
+#: post-types/invoice-post-type.php:65 post-types/payments-post-type.php:55
+msgid "Date"
+msgstr "تاریخ"
+
+#: post-types/invoice-post-type.php:87
+msgid "Direct Bank Transfer"
+msgstr "براہ راست بینک ٹرانسفر"
+
+#: post-types/invoice-post-type.php:114 post-types/payments-post-type.php:91
+msgid "Not Paid"
+msgstr "ادا نہیں کیا"
+
+#: post-types/invoice-post-type.php:116 post-types/payments-post-type.php:93
+msgid "Paid"
+msgstr "ادا کیا"
+
+#: post-types/membership-post-type.php:17
+msgid "Houzez Packages"
+msgstr "ہیوزیز پیکجز"
+
+#: post-types/membership-post-type.php:18
+#: post-types/user-packages-post-type.php:32
+msgid "Packages"
+msgstr "پیکجز"
+
+#: post-types/membership-post-type.php:19
+msgid "Add New Package"
+msgstr "نیا پیکیج شامل کریں"
+
+#: post-types/membership-post-type.php:20
+msgid "Add Packages"
+msgstr "پیکجوں کو شامل کریں"
+
+#: post-types/membership-post-type.php:21
+msgid "Edit Packages"
+msgstr "پیکجوں میں ترمیم کریں"
+
+#: post-types/membership-post-type.php:22
+msgid "Edit Package"
+msgstr "پیکیج میں ترمیم کریں"
+
+#: post-types/membership-post-type.php:23
+msgid "New Packages"
+msgstr "نئے پیکجز"
+
+#: post-types/membership-post-type.php:24
+#: post-types/membership-post-type.php:25
+msgid "View Packages"
+msgstr "پیکیج دیکھیں"
+
+#: post-types/membership-post-type.php:26
+msgid "Search Packages"
+msgstr "تلاش پیکجوں"
+
+#: post-types/membership-post-type.php:27
+#: post-types/membership-post-type.php:28
+msgid "No Packages found"
+msgstr "نہیں پیکجوں کو ملا"
+
+#: post-types/membership-post-type.php:29
+msgid "Parent Package"
+msgstr "والدین کا پیکیج"
+
+#: post-types/partners-post-type.php:11
+msgid "Partners"
+msgstr "شراکت دار"
+
+#: post-types/partners-post-type.php:12
+msgid "Partner"
+msgstr "پارٹنر"
+
+#: post-types/partners-post-type.php:14
+msgid "Add New Partner"
+msgstr "نیا ساتھی شامل کریں"
+
+#: post-types/partners-post-type.php:15
+msgid "Edit Partner"
+msgstr "پارٹنر میں ترمیم کریں"
+
+#: post-types/partners-post-type.php:16
+msgid "New Partner"
+msgstr "نیا ساتھی"
+
+#: post-types/partners-post-type.php:17
+msgid "View Partner"
+msgstr "پارٹنر دیکھیں"
+
+#: post-types/partners-post-type.php:18
+msgid "Search Partner"
+msgstr "شراکت دار تلاش کریں"
+
+#: post-types/partners-post-type.php:19
+msgid "No Partner found"
+msgstr "کوئی ساتھی نہیں ملا"
+
+#: post-types/partners-post-type.php:20
+msgid "No Partner found in Trash"
+msgstr "ٹریش میں کوئی ساتھی نہیں ملا"
+
+#: post-types/payments-post-type.php:11
+msgid "Houzez Payments"
+msgstr "ہیوزیز ادائیگی"
+
+#: post-types/payments-post-type.php:12
+msgid "Payment"
+msgstr "ادائیگی"
+
+#: post-types/payments-post-type.php:49
+msgid "Payment Title"
+msgstr "ادائیگی کا عنوان"
+
+#: post-types/payments-post-type.php:51
+msgid "Payment Type"
+msgstr "ادائیگی کی قسم"
+
+#: post-types/payments-post-type.php:52
+msgid "Payment For"
+msgstr "ادائیگی کے لئے"
+
+#: post-types/payments-post-type.php:133
+msgid "Recurring"
+msgstr "بار بار"
+
+#: post-types/payments-post-type.php:135
+msgid "One Time"
+msgstr "ایک بار"
+
+#: post-types/property-post-type.php:50
+msgid "Properties"
+msgstr "پراپرٹیز"
+
+#: post-types/property-post-type.php:51
+msgid "Property"
+msgstr "پراپرٹی"
+
+#: post-types/property-post-type.php:52
+msgid "Add New Property"
+msgstr "نئی پراپرٹی شامل کریں"
+
+#: post-types/property-post-type.php:54
+msgid "Edit Property"
+msgstr "پراپرٹی میں ترمیم کریں"
+
+#: post-types/property-post-type.php:55
+msgid "New Property"
+msgstr "نئی پراپرٹی"
+
+#: post-types/property-post-type.php:56
+msgid "View Property"
+msgstr "پراپرٹی دیکھیں"
+
+#: post-types/property-post-type.php:57
+msgid "Search Property"
+msgstr "پراپرٹی تلاش کریں"
+
+#: post-types/property-post-type.php:58 statistics/houzez-statistics.php:183
+#: statistics/houzez-statistics.php:311
+msgid "No Property found"
+msgstr "کوئی جائیداد نہیں ملا"
+
+#: post-types/property-post-type.php:59
+msgid "No Property found in Trash"
+msgstr "ردی کی ٹوکری میں کوئی جائیداد نہیں ملی"
+
+#: post-types/property-post-type.php:111 post-types/property-post-type.php:256
+#: statistics/houzez-statistics.php:117 statistics/houzez-statistics.php:194
+#: statistics/houzez-statistics.php:242 statistics/houzez-statistics.php:322
+#: statistics/houzez-statistics.php:410 statistics/houzez-statistics.php:581
+msgid "Type"
+msgstr "ٹائپ کریں"
+
+#: post-types/property-post-type.php:112
+msgid "Add New Type"
+msgstr "نئی قسم شامل کریں"
+
+#: post-types/property-post-type.php:113
+msgid "New Type"
+msgstr "نئی قسم"
+
+#: post-types/property-post-type.php:130
+msgid "Features"
+msgstr "خصوصیات"
+
+#: post-types/property-post-type.php:131
+msgid "Add New Feature"
+msgstr "نئی خصوصیت شامل کریں"
+
+#: post-types/property-post-type.php:132
+msgid "New Feature"
+msgstr "نئی سہولت"
+
+#: post-types/property-post-type.php:149
+msgid "Add New Status"
+msgstr "نئی حیثیت شامل کریں"
+
+#: post-types/property-post-type.php:150
+msgid "New Status"
+msgstr "نئی حیثیت"
+
+#: post-types/property-post-type.php:167 post-types/property-post-type.php:255
+#: post-types/property-post-type.php:504 statistics/houzez-statistics.php:116
+#: statistics/houzez-statistics.php:193 statistics/houzez-statistics.php:241
+#: statistics/houzez-statistics.php:321
+msgid "City"
+msgstr "شہر"
+
+#: post-types/property-post-type.php:186 statistics/houzez-statistics.php:426
+msgid "Neighborhood"
+msgstr "پڑوسی"
+
+#: post-types/property-post-type.php:187
+msgid "Add Property Neighborhood"
+msgstr "پراپرٹی کے حقوق"
+
+#: post-types/property-post-type.php:188
+msgid "New Property Neighborhood"
+msgstr "نئی پراپرٹی پڑوسی"
+
+#: post-types/property-post-type.php:204
+msgid "County / State"
+msgstr "کونسل / ریاست"
+
+#: post-types/property-post-type.php:205
+msgid "Add Property County / State"
+msgstr "پراپرٹی کاؤنٹی / ریاست شامل کریں"
+
+#: post-types/property-post-type.php:206
+msgid "New Property County / State"
+msgstr "نئی پراپرٹی کاؤنٹی / ریاست"
+
+#: post-types/property-post-type.php:222
+msgid "Labels"
+msgstr "لیبل"
+
+#: post-types/property-post-type.php:223
+msgid "Add New Label"
+msgstr "نیا لیبل شامل کریں"
+
+#: post-types/property-post-type.php:224
+msgid "New Label"
+msgstr "نیا لیبل"
+
+#: post-types/property-post-type.php:253 statistics/houzez-statistics.php:113
+#: statistics/houzez-statistics.php:190 statistics/houzez-statistics.php:238
+#: statistics/houzez-statistics.php:318
+msgid "Property Title"
+msgstr "پراپرٹی کا عنوان"
+
+#: post-types/property-post-type.php:259 statistics/houzez-statistics.php:120
+#: statistics/houzez-statistics.php:197 statistics/houzez-statistics.php:245
+#: statistics/houzez-statistics.php:325
+msgid "Property ID"
+msgstr "پراپرٹی کی شناخت"
+
+#: post-types/property-post-type.php:260
+msgid "Featured"
+msgstr "نمایاں"
+
+#: post-types/property-post-type.php:261
+msgid "Posted"
+msgstr "پوسٹ کیا گیا"
+
+#: post-types/property-post-type.php:262
+msgid "Expires"
+msgstr "ختم ہو جاتی ہے"
+
+#: post-types/property-post-type.php:263 statistics/houzez-statistics.php:122
+#: statistics/houzez-statistics.php:199 statistics/houzez-statistics.php:247
+#: statistics/houzez-statistics.php:327 statistics/houzez-statistics.php:355
+#: statistics/houzez-statistics.php:558
+msgid "Actions"
+msgstr "ایکشنز"
+
+#: post-types/property-post-type.php:294 post-types/property-post-type.php:332
+#: post-types/property-post-type.php:341 post-types/property-post-type.php:350
+#: statistics/houzez-statistics.php:169 statistics/houzez-statistics.php:296
+msgid "NA"
+msgstr "N / A"
+
+#: post-types/property-post-type.php:300
+msgid "No"
+msgstr "نہیں"
+
+#: post-types/property-post-type.php:302
+msgid "Yes"
+msgstr "جی ہاں"
+
+#: post-types/property-post-type.php:314
+msgid "No Address Provided!"
+msgstr "کوئی پتہ فراہم نہیں کیا!"
+
+#: post-types/property-post-type.php:365
+msgid "Approve"
+msgstr "منظور کریں"
+
+#: post-types/property-post-type.php:372
+msgid "Expire"
+msgstr "میعاد ختم"
+
+#: post-types/property-post-type.php:415
+msgid "by a guest"
+msgstr "مہمان کی طرف سے"
+
+#: post-types/property-post-type.php:415
+msgid "by %s"
+msgstr "٪ s کی طرف سے"
+
+#: post-types/property-post-type.php:503 post-types/property-post-type.php:540
+#: post-types/property-post-type.php:578
+msgid "Name"
+msgstr "نام"
+
+#: post-types/property-post-type.php:506 post-types/property-post-type.php:543
+#: post-types/property-post-type.php:581
+msgid "Slug"
+msgstr "Slug"
+
+#: post-types/property-post-type.php:507 post-types/property-post-type.php:544
+#: post-types/property-post-type.php:582
+msgid "Posts"
+msgstr "مراسلات"
+
+#: post-types/property-post-type.php:541
+msgid "County/State"
+msgstr "کونسل / ریاست"
+
+#: post-types/property-post-type.php:579 statistics/houzez-statistics.php:584
+msgid "Country"
+msgstr "ملک"
+
+#: post-types/property-post-type.php:751
+msgid "All Types"
+msgstr "تمام اقسام"
+
+#: post-types/property-post-type.php:786
+msgid "All Status"
+msgstr "تمام حیثیت"
+
+#: post-types/property-post-type.php:821
+msgid "All Labels"
+msgstr "تمام لیبل"
+
+#: post-types/property-post-type.php:856
+msgid "All Cities"
+msgstr "تمام شہروں"
+
+#: post-types/testimonials-post-type.php:43
+msgid "Testimonials"
+msgstr "تعریف"
+
+#: post-types/testimonials-post-type.php:44
+msgid "Testimonial"
+msgstr "تعریف"
+
+#: post-types/testimonials-post-type.php:46
+msgid "Add New Testimonial"
+msgstr "نیا تعریف شامل کریں"
+
+#: post-types/testimonials-post-type.php:47
+msgid "Edit Testimonial"
+msgstr "تعریف میں ترمیم کریں"
+
+#: post-types/testimonials-post-type.php:48
+msgid "New Testimonial"
+msgstr "نیا تعریف"
+
+#: post-types/testimonials-post-type.php:49
+msgid "View Testimonial"
+msgstr "تعریف دیکھیں"
+
+#: post-types/testimonials-post-type.php:51
+msgid "No Testimonial found"
+msgstr "کوئی تعریف نہیں پایا"
+
+#: post-types/testimonials-post-type.php:52
+msgid "No Testimonial found in Trash"
+msgstr "ٹریش میں کوئی تعریف نہیں پایا"
+
+#: post-types/user-packages-post-type.php:31
+msgid "Users Package Info"
+msgstr "صارف کی معلومات"
+
+#: post-types/user-packages-post-type.php:62
+msgid "Package Holder"
+msgstr "پیکیج حاملین"
+
+#: post-types/user-packages-post-type.php:63
+msgid "Package"
+msgstr "پیکیج"
+
+#: post-types/user-packages-post-type.php:64
+msgid "Available Listings"
+msgstr "دستیاب فہرستیں"
+
+#: post-types/user-packages-post-type.php:65
+msgid "Featured Available"
+msgstr "نمایاں دستیاب"
+
+#: post-types/user-packages-post-type.php:66
+msgid "Activation"
+msgstr "چالو"
+
+#: post-types/user-packages-post-type.php:67
+msgid "Expiry"
+msgstr "ختم ہونے کا"
+
+#: statistics/houzez-statistics.php:9
+msgid "Houzez Statistics"
+msgstr "ہیوزیز کے اعداد و شمار"
+
+#: statistics/houzez-statistics.php:10 statistics/houzez-statistics.php:108
+msgid "Most Viewed Properties"
+msgstr "زیادہ دیکھے گئے پراپرٹیز"
+
+#: statistics/houzez-statistics.php:10
+msgid "Most Viewed"
+msgstr "سب سے زیادہ دیکھا گیا"
+
+#: statistics/houzez-statistics.php:11 statistics/houzez-statistics.php:233
+msgid "Most Favourite Properties"
+msgstr "سب سے زیادہ پسندیدہ خصوصیات"
+
+#: statistics/houzez-statistics.php:11
+msgid "Most Favourite"
+msgstr "زیادہ تر پسندیدہ"
+
+#: statistics/houzez-statistics.php:12 statistics/houzez-statistics.php:348
+msgid "Saved Searches"
+msgstr "محفوظ کردہ تلاش"
+
+#: statistics/houzez-statistics.php:40 statistics/houzez-statistics.php:95
+#: statistics/houzez-statistics.php:215 statistics/houzez-statistics.php:343
+#: statistics/houzez-statistics.php:574
+msgid "You do not have sufficient permissions to access this page."
+msgstr "آپ کو اس صفحہ تک رسائی حاصل کرنے کے لئے کافی اجازت نہیں ہے."
+
+#: statistics/houzez-statistics.php:48
+msgid "Houzez Statistic"
+msgstr "ہیوزیز سٹیٹسٹک"
+
+#: statistics/houzez-statistics.php:52 statistics/houzez-statistics.php:78
+msgid "Total Views Today"
+msgstr "آج کل کل مناظر"
+
+#: statistics/houzez-statistics.php:54
+msgid "Users"
+msgstr "صارفین"
+
+#: statistics/houzez-statistics.php:59
+msgid "Buyers"
+msgstr "خریداروں"
+
+#: statistics/houzez-statistics.php:65
+msgid "Sellers"
+msgstr "بیچنے والے"
+
+#: statistics/houzez-statistics.php:68
+msgid "Owners"
+msgstr "مالکان"
+
+#: statistics/houzez-statistics.php:71
+msgid "Managers"
+msgstr "مینیجرز"
+
+#: statistics/houzez-statistics.php:121 statistics/houzez-statistics.php:198
+msgid "Views Count"
+msgstr "مناظر شمار"
+
+#: statistics/houzez-statistics.php:177 statistics/houzez-statistics.php:304
+#: statistics/houzez-statistics.php:541
+msgid "View"
+msgstr "دیکھیں"
+
+#: statistics/houzez-statistics.php:246
+msgid "Favourite Count "
+msgstr "پسندیدہ شمار"
+
+#: statistics/houzez-statistics.php:326
+msgid "Favourite Count"
+msgstr "پسندیدہ شمار"
+
+#: statistics/houzez-statistics.php:353 statistics/houzez-statistics.php:556
+msgid "Search Query"
+msgstr "سوال تلاش کریں"
+
+#: statistics/houzez-statistics.php:402 statistics/houzez-statistics.php:582
+msgid "Location"
+msgstr "مقام"
+
+#: statistics/houzez-statistics.php:434 statistics/houzez-statistics.php:583
+msgid "State"
+msgstr "حالت"
+
+#: statistics/houzez-statistics.php:494
+msgid "Bedrooms"
+msgstr "بیڈروم"
+
+#: statistics/houzez-statistics.php:499
+msgid "Bathrooms"
+msgstr "باتھ روم"
+
+#: statistics/houzez-statistics.php:517 statistics/houzez-statistics.php:520
+msgid "Size"
+msgstr "سائز"
+
+#: statistics/houzez-statistics.php:548
+msgid "No Search found"
+msgstr "کوئی تلاش نہیں ملا"
+
+#: statistics/houzez-statistics.php:578
+msgid "Min Price"
+msgstr "کم قیمت"
+
+#: statistics/houzez-statistics.php:579
+msgid "Max Price"
+msgstr "زیادہ سے زیادہ قیمت"
+
+#: statistics/houzez-statistics.php:585
+msgid "Area"
+msgstr "رقبہ"
+
+#: statistics/houzez-statistics.php:586
+msgid "Feature"
+msgstr "نمایاں کریں"
+
+#: statistics/houzez-statistics.php:587 statistics/houzez-statistics.php:588
+msgid "Max Size"
+msgstr "زیادہ سے زیادہ سائز"
+
+#: statistics/houzez-statistics.php:589
+msgid "Bedroom"
+msgstr "بیڈروم"
+
+#: statistics/houzez-statistics.php:590
+msgid "Bathroom"
+msgstr "باتھ روم"
+
+#: statistics/houzez-statistics.php:596
+msgid "Houzez Searches"
+msgstr "ہزیزز تلاش"
+
+#: statistics/houzez-statistics.php:601
+msgid "Search Keyworks"
+msgstr "کلیدی کام تلاش کریں"
+
+#: vc_shortcodes/properties.php:93
+msgid "Load More"
+msgstr "مزید لوڈ کریں"

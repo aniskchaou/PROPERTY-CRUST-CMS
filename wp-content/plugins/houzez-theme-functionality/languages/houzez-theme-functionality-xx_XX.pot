@@ -1,0 +1,1179 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Houzez Theme - Functionality 1.0.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-08 02:26+0500\n"
+"PO-Revision-Date: 2018-02-14 00:38+0500\n"
+"Last-Translator: \n"
+"Language-Team: Favethemes <hello@favethemes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Revision-Date: Sun Jul 24 2016 23:27:11 GMT+0500 (PKT)\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;"
+"_nx_js:1,2,3c;esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;"
+"esc_attr_x:1,2c;esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;"
+"transChoice:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-agency-post-type.php:36
+#: classes/class-agency-post-type.php:42
+#: classes/class-agency-post-type.php:48 classes/class-post-types.php:61
+#: statistics/houzez-statistics.php:62
+msgid "Agencies"
+msgstr ""
+
+#: classes/class-agency-post-type.php:37
+msgid "Agency"
+msgstr ""
+
+#: classes/class-agency-post-type.php:38
+#: classes/class-agency-post-type.php:39
+msgid "Add New Agency"
+msgstr ""
+
+#: classes/class-agency-post-type.php:40
+msgid "Edit Agency"
+msgstr ""
+
+#: classes/class-agency-post-type.php:41
+msgid "New Agency"
+msgstr ""
+
+#: classes/class-agency-post-type.php:43
+msgid "View Agency"
+msgstr ""
+
+#: classes/class-agency-post-type.php:44
+msgid "Search Agency"
+msgstr ""
+
+#: classes/class-agency-post-type.php:45
+msgid "No agencies found"
+msgstr ""
+
+#: classes/class-agency-post-type.php:46
+msgid "No agencies found in Trash"
+msgstr ""
+
+#: classes/class-agency-post-type.php:79
+msgid "Agency ID"
+msgstr ""
+
+#: classes/class-agency-post-type.php:80
+#: classes/class-user-packages-post-type.php:82
+msgid "Title"
+msgstr ""
+
+#: classes/class-agency-post-type.php:81
+msgid "License"
+msgstr ""
+
+#: classes/class-agency-post-type.php:82
+#: classes/class-property-post-type.php:314
+#: statistics/houzez-statistics.php:115 statistics/houzez-statistics.php:192
+#: statistics/houzez-statistics.php:240 statistics/houzez-statistics.php:320
+msgid "Thumbnail"
+msgstr ""
+
+#: classes/class-agency-post-type.php:83
+#: classes/class-agent-post-type.php:115
+msgid "E-mail"
+msgstr ""
+
+#: classes/class-agency-post-type.php:84
+#: classes/class-agent-post-type.php:116
+msgid "Web"
+msgstr ""
+
+#: classes/class-agency-post-type.php:85
+msgid "Phone"
+msgstr ""
+
+#: classes/class-agency-post-type.php:86 classes/class-agent-post-type.php:30
+#: classes/class-post-types.php:59 statistics/houzez-statistics.php:56
+msgid "Agents"
+msgstr ""
+
+#: classes/class-agency-post-type.php:87
+msgid "Author"
+msgstr ""
+
+#: classes/class-agent-post-type.php:31
+msgid "Agent"
+msgstr ""
+
+#: classes/class-agent-post-type.php:32
+#: classes/class-invoice-post-type.php:38
+#: classes/class-partners-post-type.php:33
+#: classes/class-property-post-type.php:75
+#: classes/class-testimonials-post-type.php:36
+#: classes/class-user-packages-post-type.php:41
+#: classes/class-user-packages-post-type.php:42
+#: templates/currency/currency-list.php:4 templates/currency/form.php:17
+#: templates/fields-builder/fields-form.php:16
+#: templates/fields-builder/index.php:6
+msgid "Add New"
+msgstr ""
+
+#: classes/class-agent-post-type.php:33
+msgid "Add New Agent"
+msgstr ""
+
+#: classes/class-agent-post-type.php:34
+msgid "Edit Agent"
+msgstr ""
+
+#: classes/class-agent-post-type.php:35
+msgid "New Agent"
+msgstr ""
+
+#: classes/class-agent-post-type.php:36
+msgid "View Agent"
+msgstr ""
+
+#: classes/class-agent-post-type.php:37
+#: classes/class-testimonials-post-type.php:41
+msgid "Search Agent"
+msgstr ""
+
+#: classes/class-agent-post-type.php:38
+msgid "No Agent found"
+msgstr ""
+
+#: classes/class-agent-post-type.php:39
+msgid "No Agent found in Trash"
+msgstr ""
+
+#: classes/class-agent-post-type.php:70
+msgid "Categories"
+msgstr ""
+
+#: classes/class-agent-post-type.php:71
+msgid "Add New Category"
+msgstr ""
+
+#: classes/class-agent-post-type.php:72
+msgid "New Category"
+msgstr ""
+
+#: classes/class-agent-post-type.php:88
+msgid "Cities"
+msgstr ""
+
+#: classes/class-agent-post-type.php:89
+#: classes/class-property-post-type.php:213
+msgid "Add New City"
+msgstr ""
+
+#: classes/class-agent-post-type.php:90
+#: classes/class-property-post-type.php:214
+msgid "New City"
+msgstr ""
+
+#: classes/class-agent-post-type.php:111
+msgid "Agent ID"
+msgstr ""
+
+#: classes/class-agent-post-type.php:112
+msgid "Agent Name"
+msgstr ""
+
+#: classes/class-agent-post-type.php:113
+msgid "Picture"
+msgstr ""
+
+#: classes/class-agent-post-type.php:114
+msgid "Category"
+msgstr ""
+
+#: classes/class-agent-post-type.php:117
+msgid "Mobile"
+msgstr ""
+
+#: classes/class-currencies.php:160
+msgid "The currency has been added, excellent!"
+msgstr ""
+
+#: classes/class-currencies.php:167
+msgid "The currency has been updated, excellent!"
+msgstr ""
+
+#: classes/class-currencies.php:174 classes/class-fields-builder.php:160
+msgid "There has been an error. Bummer!"
+msgstr ""
+
+#: classes/class-fields-builder.php:84
+msgid "Text"
+msgstr ""
+
+#: classes/class-fields-builder.php:85
+msgid "Text area"
+msgstr ""
+
+#: classes/class-fields-builder.php:86
+msgid "Select"
+msgstr ""
+
+#: classes/class-fields-builder.php:146
+msgid "The field has been added, excellent!"
+msgstr ""
+
+#: classes/class-fields-builder.php:153
+msgid "The field has been updated, excellent!"
+msgstr ""
+
+#: classes/class-houzez-init.php:417 classes/class-houzez-init.php:418
+msgid "Houzez"
+msgstr ""
+
+#: classes/class-houzez-init.php:428 classes/class-houzez-init.php:429
+msgid "Dashboard"
+msgstr ""
+
+#: classes/class-houzez-init.php:437 classes/class-houzez-init.php:438
+msgid "Fields builder"
+msgstr ""
+
+#: classes/class-houzez-init.php:446 classes/class-houzez-init.php:447
+#: templates/currency/currency-list.php:3 templates/currency/form.php:16
+msgid "Currencies"
+msgstr ""
+
+#: classes/class-houzez-init.php:455 classes/class-houzez-init.php:456
+msgid "Changelog"
+msgstr ""
+
+#: classes/class-houzez-init.php:464 classes/class-houzez-init.php:465
+msgid "Post Types"
+msgstr ""
+
+#: classes/class-houzez-init.php:473 classes/class-houzez-init.php:474
+#: classes/class-permalinks.php:55 classes/class-permalinks_old.php:53
+#: classes/class-permalinks_old.php:54 classes/class-permalinks_old.php:83
+#: templates/tabs.php:15
+msgid "Permalinks"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:36 classes/class-post-types.php:65
+msgid "Houzez Invoices"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:37
+msgid "Houzez Invoice"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:39
+msgid "Add New Invoice"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:40
+msgid "Edit Invoice"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:41
+msgid "New Invoice"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:42
+msgid "View Invoice"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:43
+msgid "Search Invoice"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:44
+msgid "No Invoice found"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:45
+msgid "No Invoice found in Trash"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:82
+msgid "Invoice Title"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:83
+#: classes/class-property-post-type.php:318
+#: statistics/houzez-statistics.php:119 statistics/houzez-statistics.php:196
+#: statistics/houzez-statistics.php:244 statistics/houzez-statistics.php:324
+#: statistics/houzez-statistics.php:506 statistics/houzez-statistics.php:509
+msgid "Price"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:84
+msgid "Payment Method"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:85
+msgid "Buyer"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:86
+msgid "Buyer Email"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:87
+msgid "Invoice Type"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:88
+msgid "Billion For"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:89
+#: classes/class-property-post-type.php:147
+#: classes/class-property-post-type.php:317
+#: statistics/houzez-statistics.php:118 statistics/houzez-statistics.php:195
+#: statistics/houzez-statistics.php:243 statistics/houzez-statistics.php:323
+#: statistics/houzez-statistics.php:418 statistics/houzez-statistics.php:580
+msgid "Status"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:90
+msgid "Date"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:118
+msgid "Direct Bank Transfer"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:145
+msgid "Not Paid"
+msgstr ""
+
+#: classes/class-invoice-post-type.php:147
+msgid "Paid"
+msgstr ""
+
+#: classes/class-membership-post-type.php:34 classes/class-post-types.php:63
+msgid "Houzez Packages"
+msgstr ""
+
+#: classes/class-membership-post-type.php:35
+#: classes/class-user-packages-post-type.php:40
+msgid "Packages"
+msgstr ""
+
+#: classes/class-membership-post-type.php:36
+msgid "Add New Package"
+msgstr ""
+
+#: classes/class-membership-post-type.php:37
+msgid "Add Packages"
+msgstr ""
+
+#: classes/class-membership-post-type.php:38
+msgid "Edit Packages"
+msgstr ""
+
+#: classes/class-membership-post-type.php:39
+msgid "Edit Package"
+msgstr ""
+
+#: classes/class-membership-post-type.php:40
+msgid "New Packages"
+msgstr ""
+
+#: classes/class-membership-post-type.php:41
+#: classes/class-membership-post-type.php:42
+msgid "View Packages"
+msgstr ""
+
+#: classes/class-membership-post-type.php:43
+msgid "Search Packages"
+msgstr ""
+
+#: classes/class-membership-post-type.php:44
+#: classes/class-membership-post-type.php:45
+msgid "No Packages found"
+msgstr ""
+
+#: classes/class-membership-post-type.php:46
+msgid "Parent Package"
+msgstr ""
+
+#: classes/class-partners-post-type.php:31 classes/class-post-types.php:67
+msgid "Partners"
+msgstr ""
+
+#: classes/class-partners-post-type.php:32
+msgid "Partner"
+msgstr ""
+
+#: classes/class-partners-post-type.php:34
+msgid "Add New Partner"
+msgstr ""
+
+#: classes/class-partners-post-type.php:35
+msgid "Edit Partner"
+msgstr ""
+
+#: classes/class-partners-post-type.php:36
+msgid "New Partner"
+msgstr ""
+
+#: classes/class-partners-post-type.php:37
+msgid "View Partner"
+msgstr ""
+
+#: classes/class-partners-post-type.php:38
+msgid "Search Partner"
+msgstr ""
+
+#: classes/class-partners-post-type.php:39
+msgid "No Partner found"
+msgstr ""
+
+#: classes/class-partners-post-type.php:40
+msgid "No Partner found in Trash"
+msgstr ""
+
+#: classes/class-permalinks.php:42
+msgid "Update Permalinks"
+msgstr ""
+
+#: classes/class-permalinks.php:58 classes/class-permalinks_old.php:86
+msgid "Property Slug"
+msgstr ""
+
+#: classes/class-permalinks.php:60 classes/class-permalinks_old.php:87
+msgid "Property Type Slug"
+msgstr ""
+
+#: classes/class-permalinks.php:62 classes/class-permalinks_old.php:88
+msgid "Property Feature Slug"
+msgstr ""
+
+#: classes/class-permalinks.php:64 classes/class-permalinks_old.php:89
+msgid "Property Status Slug"
+msgstr ""
+
+#: classes/class-permalinks.php:66 classes/class-permalinks_old.php:90
+msgid "Property Area Slug"
+msgstr ""
+
+#: classes/class-permalinks.php:68 classes/class-permalinks_old.php:91
+msgid "Property City Slug"
+msgstr ""
+
+#: classes/class-permalinks.php:70 classes/class-permalinks_old.php:92
+msgid "Property State Slug"
+msgstr ""
+
+#: classes/class-permalinks.php:72 classes/class-permalinks_old.php:94
+msgid "Agent Slug"
+msgstr ""
+
+#: classes/class-permalinks.php:74 classes/class-permalinks_old.php:96
+msgid "Agency Slug"
+msgstr ""
+
+#: classes/class-permalinks.php:113 classes/class-permalinks_old.php:109
+msgid "Set up custom permalinks for the property section on your site."
+msgstr ""
+
+#: classes/class-permalinks_old.php:278 classes/class-post-types.php:43
+#: classes/class-taxonomies.php:43
+msgid "Update Settings"
+msgstr ""
+
+#: classes/class-post-types.php:56 templates/tabs.php:13
+msgid "Custom Post Types"
+msgstr ""
+
+#: classes/class-post-types.php:69
+#: classes/class-testimonials-post-type.php:34
+msgid "Testimonials"
+msgstr ""
+
+#: classes/class-post-types.php:71
+msgid "User Packages Info"
+msgstr ""
+
+#: classes/class-post-types.php:108
+msgid ""
+"Disable Custom Post Types which you do not want to show(if disabled then "
+"these will not show on back-end and front-end)"
+msgstr ""
+
+#: classes/class-post-types.php:124 classes/class-post-types.php:143
+#: classes/class-post-types.php:161 classes/class-post-types.php:179
+#: classes/class-post-types.php:197 classes/class-post-types.php:215
+#: classes/class-post-types.php:233 classes/class-taxonomies.php:124
+#: classes/class-taxonomies.php:142 classes/class-taxonomies.php:161
+#: classes/class-taxonomies.php:179 classes/class-taxonomies.php:197
+#: classes/class-taxonomies.php:215 classes/class-taxonomies.php:233
+msgid "Enabled"
+msgstr ""
+
+#: classes/class-post-types.php:125 classes/class-post-types.php:144
+#: classes/class-post-types.php:162 classes/class-post-types.php:180
+#: classes/class-post-types.php:198 classes/class-post-types.php:216
+#: classes/class-post-types.php:234 classes/class-taxonomies.php:125
+#: classes/class-taxonomies.php:143 classes/class-taxonomies.php:162
+#: classes/class-taxonomies.php:180 classes/class-taxonomies.php:198
+#: classes/class-taxonomies.php:216 classes/class-taxonomies.php:234
+msgid "Disabled"
+msgstr ""
+
+#: classes/class-property-post-type.php:72
+msgid "Properties"
+msgstr ""
+
+#: classes/class-property-post-type.php:73
+msgid "Property"
+msgstr ""
+
+#: classes/class-property-post-type.php:74
+msgid "Add New Property"
+msgstr ""
+
+#: classes/class-property-post-type.php:76
+msgid "Edit Property"
+msgstr ""
+
+#: classes/class-property-post-type.php:77
+msgid "New Property"
+msgstr ""
+
+#: classes/class-property-post-type.php:78
+msgid "View Property"
+msgstr ""
+
+#: classes/class-property-post-type.php:79
+msgid "Search Property"
+msgstr ""
+
+#: classes/class-property-post-type.php:80
+#: statistics/houzez-statistics.php:183 statistics/houzez-statistics.php:311
+msgid "No Property found"
+msgstr ""
+
+#: classes/class-property-post-type.php:81
+msgid "No Property found in Trash"
+msgstr ""
+
+#: classes/class-property-post-type.php:126
+#: classes/class-property-post-type.php:316 classes/class-taxonomies.php:59
+#: statistics/houzez-statistics.php:117 statistics/houzez-statistics.php:194
+#: statistics/houzez-statistics.php:242 statistics/houzez-statistics.php:322
+#: statistics/houzez-statistics.php:410 statistics/houzez-statistics.php:581
+#: templates/fields-builder/fields-form.php:28
+msgid "Type"
+msgstr ""
+
+#: classes/class-property-post-type.php:127
+msgid "Add New Type"
+msgstr ""
+
+#: classes/class-property-post-type.php:128
+msgid "New Type"
+msgstr ""
+
+#: classes/class-property-post-type.php:148
+msgid "Add New Status"
+msgstr ""
+
+#: classes/class-property-post-type.php:149
+msgid "New Status"
+msgstr ""
+
+#: classes/class-property-post-type.php:169
+msgid "Features"
+msgstr ""
+
+#: classes/class-property-post-type.php:170
+msgid "Add New Feature"
+msgstr ""
+
+#: classes/class-property-post-type.php:171
+msgid "New Feature"
+msgstr ""
+
+#: classes/class-property-post-type.php:190
+msgid "Labels"
+msgstr ""
+
+#: classes/class-property-post-type.php:191
+msgid "Add New Label"
+msgstr ""
+
+#: classes/class-property-post-type.php:192
+msgid "New Label"
+msgstr ""
+
+#: classes/class-property-post-type.php:212
+#: classes/class-property-post-type.php:315
+#: classes/class-property-post-type.php:510 classes/class-taxonomies.php:67
+#: statistics/houzez-statistics.php:116 statistics/houzez-statistics.php:193
+#: statistics/houzez-statistics.php:241 statistics/houzez-statistics.php:321
+msgid "City"
+msgstr ""
+
+#: classes/class-property-post-type.php:233 classes/class-taxonomies.php:69
+#: statistics/houzez-statistics.php:426
+msgid "Neighborhood"
+msgstr ""
+
+#: classes/class-property-post-type.php:234
+msgid "Add Property Neighborhood"
+msgstr ""
+
+#: classes/class-property-post-type.php:235
+msgid "New Property Neighborhood"
+msgstr ""
+
+#: classes/class-property-post-type.php:254 classes/class-taxonomies.php:71
+msgid "County / State"
+msgstr ""
+
+#: classes/class-property-post-type.php:255
+msgid "Add Property County / State"
+msgstr ""
+
+#: classes/class-property-post-type.php:256
+msgid "New Property County / State"
+msgstr ""
+
+#: classes/class-property-post-type.php:313
+#: statistics/houzez-statistics.php:113 statistics/houzez-statistics.php:190
+#: statistics/houzez-statistics.php:238 statistics/houzez-statistics.php:318
+msgid "Property Title"
+msgstr ""
+
+#: classes/class-property-post-type.php:319
+#: statistics/houzez-statistics.php:120 statistics/houzez-statistics.php:197
+#: statistics/houzez-statistics.php:245 statistics/houzez-statistics.php:325
+msgid "Property ID"
+msgstr ""
+
+#: classes/class-property-post-type.php:320
+msgid "Featured"
+msgstr ""
+
+#: classes/class-property-post-type.php:321
+msgid "Posted"
+msgstr ""
+
+#: classes/class-property-post-type.php:322
+msgid "Expires"
+msgstr ""
+
+#: classes/class-property-post-type.php:323
+#: statistics/houzez-statistics.php:122 statistics/houzez-statistics.php:199
+#: statistics/houzez-statistics.php:247 statistics/houzez-statistics.php:327
+#: statistics/houzez-statistics.php:355 statistics/houzez-statistics.php:558
+msgid "Actions"
+msgstr ""
+
+#: classes/class-property-post-type.php:324
+msgid "ID"
+msgstr ""
+
+#: classes/class-property-post-type.php:360
+#: classes/class-property-post-type.php:402
+#: classes/class-property-post-type.php:411
+#: classes/class-property-post-type.php:420
+#: statistics/houzez-statistics.php:169 statistics/houzez-statistics.php:296
+msgid "NA"
+msgstr ""
+
+#: classes/class-property-post-type.php:370
+#: templates/fields-builder/fields-form.php:43
+msgid "No"
+msgstr ""
+
+#: classes/class-property-post-type.php:372
+#: templates/fields-builder/fields-form.php:43
+msgid "Yes"
+msgstr ""
+
+#: classes/class-property-post-type.php:384
+msgid "No Address Provided!"
+msgstr ""
+
+#: classes/class-property-post-type.php:435
+msgid "Approve"
+msgstr ""
+
+#: classes/class-property-post-type.php:442
+msgid "Expire"
+msgstr ""
+
+#: classes/class-property-post-type.php:485
+msgid "by a guest"
+msgstr ""
+
+#: classes/class-property-post-type.php:485
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: classes/class-property-post-type.php:509
+#: classes/class-property-post-type.php:542
+#: classes/class-property-post-type.php:577
+#: templates/currency/currency-list.php:10
+msgid "Name"
+msgstr ""
+
+#: classes/class-property-post-type.php:512
+#: classes/class-property-post-type.php:545
+#: classes/class-property-post-type.php:580
+msgid "Slug"
+msgstr ""
+
+#: classes/class-property-post-type.php:513
+#: classes/class-property-post-type.php:546
+#: classes/class-property-post-type.php:581
+msgid "Posts"
+msgstr ""
+
+#: classes/class-property-post-type.php:543
+msgid "County/State"
+msgstr ""
+
+#: classes/class-property-post-type.php:578
+#: statistics/houzez-statistics.php:584
+msgid "Country"
+msgstr ""
+
+#: classes/class-property-post-type.php:724
+msgid "All Types"
+msgstr ""
+
+#: classes/class-property-post-type.php:757
+msgid "All Status"
+msgstr ""
+
+#: classes/class-property-post-type.php:790
+msgid "All Labels"
+msgstr ""
+
+#: classes/class-property-post-type.php:823
+msgid "All Cities"
+msgstr ""
+
+#: classes/class-taxonomies.php:56 templates/tabs.php:14
+msgid "Taxonomies"
+msgstr ""
+
+#: classes/class-taxonomies.php:61
+msgid "status"
+msgstr ""
+
+#: classes/class-taxonomies.php:63
+msgid "features"
+msgstr ""
+
+#: classes/class-taxonomies.php:65
+msgid "label"
+msgstr ""
+
+#: classes/class-taxonomies.php:108
+msgid ""
+"Disable Taxonomies which you do not want to show(if disabled then these "
+"will not show on back-end and front-end)"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:35
+msgid "Testimonial"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:37
+msgid "Add New Testimonial"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:38
+msgid "Edit Testimonial"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:39
+msgid "New Testimonial"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:40
+msgid "View Testimonial"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:42
+msgid "No Testimonial found"
+msgstr ""
+
+#: classes/class-testimonials-post-type.php:43
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: classes/class-user-packages-post-type.php:39
+msgid "Users Package Info"
+msgstr ""
+
+#: classes/class-user-packages-post-type.php:83
+msgid "Package Holder"
+msgstr ""
+
+#: classes/class-user-packages-post-type.php:84
+msgid "Package"
+msgstr ""
+
+#: classes/class-user-packages-post-type.php:85
+msgid "Available Listings"
+msgstr ""
+
+#: classes/class-user-packages-post-type.php:86
+msgid "Featured Available"
+msgstr ""
+
+#: classes/class-user-packages-post-type.php:87
+msgid "Activation"
+msgstr ""
+
+#: classes/class-user-packages-post-type.php:88
+msgid "Expiry"
+msgstr ""
+
+#: functions/functions.php:59
+msgid "Activated Successfully, reload page!"
+msgstr ""
+
+#: functions/functions.php:61
+msgid "Invalid license key"
+msgstr ""
+
+#: statistics/houzez-statistics.php:9
+msgid "Houzez Statistics"
+msgstr ""
+
+#: statistics/houzez-statistics.php:10 statistics/houzez-statistics.php:108
+msgid "Most Viewed Properties"
+msgstr ""
+
+#: statistics/houzez-statistics.php:10
+msgid "Most Viewed"
+msgstr ""
+
+#: statistics/houzez-statistics.php:11 statistics/houzez-statistics.php:233
+msgid "Most Favourite Properties"
+msgstr ""
+
+#: statistics/houzez-statistics.php:11
+msgid "Most Favourite"
+msgstr ""
+
+#: statistics/houzez-statistics.php:12 statistics/houzez-statistics.php:348
+msgid "Saved Searches"
+msgstr ""
+
+#: statistics/houzez-statistics.php:40 statistics/houzez-statistics.php:95
+#: statistics/houzez-statistics.php:215 statistics/houzez-statistics.php:343
+#: statistics/houzez-statistics.php:574
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: statistics/houzez-statistics.php:48
+msgid "Houzez Statistic"
+msgstr ""
+
+#: statistics/houzez-statistics.php:52 statistics/houzez-statistics.php:78
+msgid "Total Views Today"
+msgstr ""
+
+#: statistics/houzez-statistics.php:54
+msgid "Users"
+msgstr ""
+
+#: statistics/houzez-statistics.php:59
+msgid "Buyers"
+msgstr ""
+
+#: statistics/houzez-statistics.php:65
+msgid "Sellers"
+msgstr ""
+
+#: statistics/houzez-statistics.php:68
+msgid "Owners"
+msgstr ""
+
+#: statistics/houzez-statistics.php:71
+msgid "Managers"
+msgstr ""
+
+#: statistics/houzez-statistics.php:121 statistics/houzez-statistics.php:198
+msgid "Views Count"
+msgstr ""
+
+#: statistics/houzez-statistics.php:177 statistics/houzez-statistics.php:304
+#: statistics/houzez-statistics.php:541
+msgid "View"
+msgstr ""
+
+#: statistics/houzez-statistics.php:246
+msgid "Favourite Count "
+msgstr ""
+
+#: statistics/houzez-statistics.php:326
+msgid "Favourite Count"
+msgstr ""
+
+#: statistics/houzez-statistics.php:353 statistics/houzez-statistics.php:556
+msgid "Search Query"
+msgstr ""
+
+#: statistics/houzez-statistics.php:402 statistics/houzez-statistics.php:582
+msgid "Location"
+msgstr ""
+
+#: statistics/houzez-statistics.php:434 statistics/houzez-statistics.php:583
+msgid "State"
+msgstr ""
+
+#: statistics/houzez-statistics.php:494
+msgid "Bedrooms"
+msgstr ""
+
+#: statistics/houzez-statistics.php:499
+msgid "Bathrooms"
+msgstr ""
+
+#: statistics/houzez-statistics.php:517 statistics/houzez-statistics.php:520
+msgid "Size"
+msgstr ""
+
+#: statistics/houzez-statistics.php:548
+msgid "No Search found"
+msgstr ""
+
+#: statistics/houzez-statistics.php:578
+msgid "Min Price"
+msgstr ""
+
+#: statistics/houzez-statistics.php:579
+msgid "Max Price"
+msgstr ""
+
+#: statistics/houzez-statistics.php:585
+msgid "Area"
+msgstr ""
+
+#: statistics/houzez-statistics.php:586
+msgid "Feature"
+msgstr ""
+
+#: statistics/houzez-statistics.php:587 statistics/houzez-statistics.php:588
+msgid "Max Size"
+msgstr ""
+
+#: statistics/houzez-statistics.php:589
+msgid "Bedroom"
+msgstr ""
+
+#: statistics/houzez-statistics.php:590
+msgid "Bathroom"
+msgstr ""
+
+#: statistics/houzez-statistics.php:596
+msgid "Houzez Searches"
+msgstr ""
+
+#: statistics/houzez-statistics.php:601
+msgid "Search Keyworks"
+msgstr ""
+
+#: templates/currency/currency-list.php:11
+msgid "Code"
+msgstr ""
+
+#: templates/currency/currency-list.php:12
+msgid "Symbol"
+msgstr ""
+
+#: templates/currency/currency-list.php:13
+msgid "Position"
+msgstr ""
+
+#: templates/currency/currency-list.php:14
+msgid "N. of Decimal Point"
+msgstr ""
+
+#: templates/currency/currency-list.php:15
+msgid "Decimal Point Separator"
+msgstr ""
+
+#: templates/currency/currency-list.php:16
+msgid "Thousands Separator"
+msgstr ""
+
+#: templates/currency/currency-list.php:17
+#: templates/fields-builder/index.php:13
+msgid "Edit"
+msgstr ""
+
+#: templates/currency/currency-list.php:18
+#: templates/fields-builder/index.php:14
+msgid "Delete"
+msgstr ""
+
+#: templates/currency/currency-list.php:41
+#: templates/fields-builder/index.php:39
+msgid "Edit field"
+msgstr ""
+
+#: templates/currency/currency-list.php:46
+#: templates/fields-builder/index.php:44
+msgid "Delete field"
+msgstr ""
+
+#: templates/currency/form.php:5
+msgid "Update Currency"
+msgstr ""
+
+#: templates/currency/form.php:6 templates/fields-builder/fields-form.php:6
+msgid "Update"
+msgstr ""
+
+#: templates/currency/form.php:9
+msgid "Create Currency"
+msgstr ""
+
+#: templates/currency/form.php:10 templates/fields-builder/fields-form.php:10
+msgid "Submit"
+msgstr ""
+
+#: templates/currency/form.php:23
+msgid "Currency Name"
+msgstr ""
+
+#: templates/currency/form.php:29
+msgid "Currency Code"
+msgstr ""
+
+#: templates/currency/form.php:34
+msgid "Currency Symbol"
+msgstr ""
+
+#: templates/currency/form.php:39
+msgid "Currency Position"
+msgstr ""
+
+#: templates/currency/form.php:40
+msgid "Before"
+msgstr ""
+
+#: templates/currency/form.php:40
+msgid "After"
+msgstr ""
+
+#: templates/currency/form.php:45
+msgid "Number of decimal points?"
+msgstr ""
+
+#: templates/currency/form.php:63
+msgid "Decimal Point Separator(eg: .)"
+msgstr ""
+
+#: templates/currency/form.php:68
+msgid "Thousands Separator(eg: ,)"
+msgstr ""
+
+#: templates/dashboard.php:3
+msgid "Welcome to Houzez v.1.6.0"
+msgstr ""
+
+#: templates/dashboard.php:4
+msgid ""
+"Congratulations! You are about to use most customizable real estate "
+"WordPress theme by Favethemes."
+msgstr ""
+
+#: templates/dashboard.php:7
+msgid "Theme Options Panel"
+msgstr ""
+
+#: templates/dashboard.php:11
+msgid "Resurces"
+msgstr ""
+
+#: templates/dashboard.php:14
+msgid "Official Website"
+msgstr ""
+
+#: templates/dashboard.php:15
+msgid "Official Documentation"
+msgstr ""
+
+#: templates/dashboard.php:16 templates/dashboard.php:24
+msgid "Customer Support"
+msgstr ""
+
+#: templates/dashboard.php:17
+msgid "Customization Service"
+msgstr ""
+
+#: templates/dashboard.php:18
+msgid "Follow us on Facebook"
+msgstr ""
+
+#: templates/dashboard.php:19
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: templates/dashboard.php:20
+msgid "Follow us on Instagram"
+msgstr ""
+
+#: templates/dashboard.php:27
+msgid "purchase a support extension"
+msgstr ""
+
+#: templates/dashboard.php:31
+msgid "Thank you for choosing Houzez."
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:5
+msgid "Update field"
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:9
+msgid "Create field"
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:15
+#: templates/fields-builder/index.php:5
+msgid "Fields Builder"
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:22
+#: templates/fields-builder/index.php:12
+msgid "Field Name"
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:30
+msgid "-- Choose field type --"
+msgstr ""
+
+#: templates/fields-builder/fields-form.php:42
+msgid "Add in Search?"
+msgstr ""
+
+#: templates/fields-builder/multiple.php:9
+msgid "Enter Value"
+msgstr ""
+
+#: templates/tabs.php:1
+msgid "Houzez Theme Settings"
+msgstr ""
+
+#: vc_shortcodes/properties.php:94
+msgid "Load More"
+msgstr ""

@@ -1,0 +1,858 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Functionality Plugin\n"
+"Language: th\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: classes/class-settings.php:53
+msgid "Portfolio Settings"
+msgstr "การตั้งค่า Portfolio"
+
+#: classes/class-settings.php:54
+msgid "Settings"
+msgstr "การตั้งค่า"
+
+#: classes/class-settings.php:83
+msgid "Permalinks"
+msgstr "Permalinks"
+
+#: classes/class-settings.php:86
+msgid "Property Slug"
+msgstr "ทรัพย์สินบุ้ง"
+
+#: classes/class-settings.php:87
+msgid "Property Type Slug"
+msgstr "ประเภททรัพย์สิน Slug"
+
+#: classes/class-settings.php:88
+msgid "Property Feature Slug"
+msgstr "คุณสมบัติของบุ้ง"
+
+#: classes/class-settings.php:89
+msgid "Property Status Slug"
+msgstr "สถานะทรัพย์สินบุ้ง"
+
+#: classes/class-settings.php:90
+msgid "Property Area Slug"
+msgstr "ที่ตั้งของพื้นที่บุ้ง"
+
+#: classes/class-settings.php:91
+msgid "Property City Slug"
+msgstr "สถานที่ให้บริการ City Slug"
+
+#: classes/class-settings.php:92
+msgid "Property State Slug"
+msgstr "ทรัพย์สินของรัฐบุ้ง"
+
+#: classes/class-settings.php:105
+msgid "Set up custom permalinks for the property section on your site."
+msgstr "ตั้งค่าพร็อพเพอร์ตี้ที่กำหนดเองสำหรับส่วนพร็อพเพอร์ตี้ในไซต์ของคุณ"
+
+#: classes/class-settings.php:236
+msgid "Properties Settings"
+msgstr "การตั้งค่าคุณสมบัติ"
+
+#: classes/class-settings.php:243
+msgid "Update Settings"
+msgstr "อัปเดตการตั้งค่า"
+
+#: functions.php:30
+msgid "Activated Successfully, reload page!"
+msgstr "เปิดใช้งานสำเร็จแล้วโหลดหน้าใหม่!"
+
+#: functions.php:32
+msgid "Invalid license key"
+msgstr "รหัสสัญญาอนุญาตไม่ถูกต้อง"
+
+#: post-types/agency-post-type.php:36 post-types/agency-post-type.php:42
+#: post-types/agency-post-type.php:48 statistics/houzez-statistics.php:62
+msgid "Agencies"
+msgstr "หน่วยงาน"
+
+#: post-types/agency-post-type.php:37
+msgid "Agency"
+msgstr "หน่วยงาน"
+
+#: post-types/agency-post-type.php:38 post-types/agency-post-type.php:39
+msgid "Add New Agency"
+msgstr "เพิ่มเอเจนซี่ใหม่"
+
+#: post-types/agency-post-type.php:40
+msgid "Edit Agency"
+msgstr "แก้ไขเอเจนซี่"
+
+#: post-types/agency-post-type.php:41
+msgid "New Agency"
+msgstr "หน่วยงานใหม่"
+
+#: post-types/agency-post-type.php:43
+msgid "View Agency"
+msgstr "ดูเอเจนซี่"
+
+#: post-types/agency-post-type.php:44
+msgid "Search Agency"
+msgstr "Search Agency"
+
+#: post-types/agency-post-type.php:45
+msgid "No agencies found"
+msgstr "ไม่พบหน่วยงาน"
+
+#: post-types/agency-post-type.php:46
+msgid "No agencies found in Trash"
+msgstr "ไม่พบหน่วยงานในถังขยะ"
+
+#: post-types/agency-post-type.php:79
+msgid "Agency ID"
+msgstr "Agency ID"
+
+#: post-types/agency-post-type.php:80 post-types/user-packages-post-type.php:61
+msgid "Title"
+msgstr "หัวข้อ"
+
+#: post-types/agency-post-type.php:81
+msgid "License"
+msgstr "การอนุญาต"
+
+#: post-types/agency-post-type.php:82 post-types/property-post-type.php:254
+#: statistics/houzez-statistics.php:115 statistics/houzez-statistics.php:192
+#: statistics/houzez-statistics.php:240 statistics/houzez-statistics.php:320
+msgid "Thumbnail"
+msgstr "รูปขนาดย่อ"
+
+#: post-types/agency-post-type.php:83 post-types/agent-post-type.php:115
+msgid "E-mail"
+msgstr "E-mail"
+
+#: post-types/agency-post-type.php:84 post-types/agent-post-type.php:116
+msgid "Web"
+msgstr "เว็บ"
+
+#: post-types/agency-post-type.php:85
+msgid "Phone"
+msgstr "โทรศัพท์"
+
+#: post-types/agency-post-type.php:86 post-types/agent-post-type.php:30
+#: statistics/houzez-statistics.php:56
+msgid "Agents"
+msgstr "ตัวแทน"
+
+#: post-types/agency-post-type.php:87
+msgid "Author"
+msgstr "ผู้เขียน"
+
+#: post-types/agent-post-type.php:31
+msgid "Agent"
+msgstr "ตัวแทน"
+
+#: post-types/agent-post-type.php:32 post-types/invoice-post-type.php:14
+#: post-types/partners-post-type.php:13 post-types/payments-post-type.php:13
+#: post-types/payments-post-type.php:14 post-types/property-post-type.php:53
+#: post-types/testimonials-post-type.php:45
+#: post-types/user-packages-post-type.php:33
+#: post-types/user-packages-post-type.php:34
+msgid "Add New"
+msgstr "เพิ่มใหม่"
+
+#: post-types/agent-post-type.php:33
+msgid "Add New Agent"
+msgstr "เพิ่มตัวแทนใหม่"
+
+#: post-types/agent-post-type.php:34
+msgid "Edit Agent"
+msgstr "แก้ไขตัวแทน"
+
+#: post-types/agent-post-type.php:35
+msgid "New Agent"
+msgstr "ตัวแทนใหม่"
+
+#: post-types/agent-post-type.php:36
+msgid "View Agent"
+msgstr "ดูตัวแทน"
+
+#: post-types/agent-post-type.php:37 post-types/testimonials-post-type.php:50
+msgid "Search Agent"
+msgstr "Search Agent"
+
+#: post-types/agent-post-type.php:38
+msgid "No Agent found"
+msgstr "ไม่พบตัวแทน"
+
+#: post-types/agent-post-type.php:39
+msgid "No Agent found in Trash"
+msgstr "ไม่พบตัวแทนในถังขยะ"
+
+#: post-types/agent-post-type.php:70
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+#: post-types/agent-post-type.php:71
+msgid "Add New Category"
+msgstr "เพิ่มหมวดใหม่"
+
+#: post-types/agent-post-type.php:72
+msgid "New Category"
+msgstr "หมวดหมู่ใหม่"
+
+#: post-types/agent-post-type.php:88
+msgid "Cities"
+msgstr "เมือง"
+
+#: post-types/agent-post-type.php:89 post-types/property-post-type.php:168
+msgid "Add New City"
+msgstr "เพิ่มเมืองใหม่"
+
+#: post-types/agent-post-type.php:90 post-types/property-post-type.php:169
+msgid "New City"
+msgstr "เมืองใหม่"
+
+#: post-types/agent-post-type.php:111
+msgid "Agent ID"
+msgstr "รหัสตัวแทน"
+
+#: post-types/agent-post-type.php:112
+msgid "Agent Name"
+msgstr "ชื่อตัวแทน"
+
+#: post-types/agent-post-type.php:113
+msgid "Picture"
+msgstr "ภาพ"
+
+#: post-types/agent-post-type.php:114
+msgid "Category"
+msgstr "ประเภท"
+
+#: post-types/agent-post-type.php:117
+msgid "Mobile"
+msgstr "โทรศัพท์มือถือ"
+
+#: post-types/invoice-post-type.php:12
+msgid "Houzez Invoices"
+msgstr "ใบแจ้งหนี้ Houzez"
+
+#: post-types/invoice-post-type.php:13
+msgid "Houzez Invoice"
+msgstr "ใบแจ้งหนี้ Houzez"
+
+#: post-types/invoice-post-type.php:15
+msgid "Add New Invoice"
+msgstr "เพิ่มใบแจ้งหนี้ใหม่"
+
+#: post-types/invoice-post-type.php:16
+msgid "Edit Invoice"
+msgstr "แก้ไขใบกำกับสินค้า"
+
+#: post-types/invoice-post-type.php:17
+msgid "New Invoice"
+msgstr "ใบแจ้งหนี้ใหม่"
+
+#: post-types/invoice-post-type.php:18
+msgid "View Invoice"
+msgstr "ดูใบแจ้งหนี้"
+
+#: post-types/invoice-post-type.php:19
+msgid "Search Invoice"
+msgstr "ค้นหาใบแจ้งหนี้"
+
+#: post-types/invoice-post-type.php:20
+msgid "No Invoice found"
+msgstr "ไม่พบใบกำกับสินค้า"
+
+#: post-types/invoice-post-type.php:21
+msgid "No Invoice found in Trash"
+msgstr "ไม่มีใบแจ้งหนี้ที่พบในถังขยะ"
+
+#: post-types/invoice-post-type.php:57
+msgid "Invoice Title"
+msgstr "ชื่อใบแจ้งหนี้"
+
+#: post-types/invoice-post-type.php:58 post-types/payments-post-type.php:50
+#: post-types/property-post-type.php:258 statistics/houzez-statistics.php:119
+#: statistics/houzez-statistics.php:196 statistics/houzez-statistics.php:244
+#: statistics/houzez-statistics.php:324 statistics/houzez-statistics.php:506
+#: statistics/houzez-statistics.php:509
+msgid "Price"
+msgstr "ราคา"
+
+#: post-types/invoice-post-type.php:59
+msgid "Payment Method"
+msgstr "วิธีการชำระเงิน"
+
+#: post-types/invoice-post-type.php:60 post-types/payments-post-type.php:53
+msgid "Buyer"
+msgstr "ผู้ซื้อ"
+
+#: post-types/invoice-post-type.php:61
+msgid "Buyer Email"
+msgstr "อีเมลผู้ซื้อ"
+
+#: post-types/invoice-post-type.php:62
+msgid "Invoice Type"
+msgstr "ประเภทใบแจ้งหนี้"
+
+#: post-types/invoice-post-type.php:63
+msgid "Billion For"
+msgstr "พันล้านสำหรับ"
+
+#: post-types/invoice-post-type.php:64 post-types/payments-post-type.php:54
+#: post-types/property-post-type.php:148 post-types/property-post-type.php:257
+#: statistics/houzez-statistics.php:118 statistics/houzez-statistics.php:195
+#: statistics/houzez-statistics.php:243 statistics/houzez-statistics.php:323
+#: statistics/houzez-statistics.php:418 statistics/houzez-statistics.php:580
+msgid "Status"
+msgstr "สถานะ"
+
+#: post-types/invoice-post-type.php:65 post-types/payments-post-type.php:55
+msgid "Date"
+msgstr "วันที่"
+
+#: post-types/invoice-post-type.php:87
+msgid "Direct Bank Transfer"
+msgstr "การโอนเงินผ่านธนาคารโดยตรง"
+
+#: post-types/invoice-post-type.php:114 post-types/payments-post-type.php:91
+msgid "Not Paid"
+msgstr "ไม่ได้ชำระเงิน"
+
+#: post-types/invoice-post-type.php:116 post-types/payments-post-type.php:93
+msgid "Paid"
+msgstr "ต้องจ่าย"
+
+#: post-types/membership-post-type.php:17
+msgid "Houzez Packages"
+msgstr "แพคเกจ Houzez"
+
+#: post-types/membership-post-type.php:18
+#: post-types/user-packages-post-type.php:32
+msgid "Packages"
+msgstr "แพคเกจ"
+
+#: post-types/membership-post-type.php:19
+msgid "Add New Package"
+msgstr "เพิ่มแพคเกจใหม่"
+
+#: post-types/membership-post-type.php:20
+msgid "Add Packages"
+msgstr "เพิ่มแพคเกจ"
+
+#: post-types/membership-post-type.php:21
+msgid "Edit Packages"
+msgstr "แก้ไขแพ็คเกจ"
+
+#: post-types/membership-post-type.php:22
+msgid "Edit Package"
+msgstr "แก้ไขแพ็คเกจ"
+
+#: post-types/membership-post-type.php:23
+msgid "New Packages"
+msgstr "แพคเกจใหม่"
+
+#: post-types/membership-post-type.php:24
+#: post-types/membership-post-type.php:25
+msgid "View Packages"
+msgstr "ดูแพคเกจ"
+
+#: post-types/membership-post-type.php:26
+msgid "Search Packages"
+msgstr "ค้นหาแพคเกจ"
+
+#: post-types/membership-post-type.php:27
+#: post-types/membership-post-type.php:28
+msgid "No Packages found"
+msgstr "ไม่พบแพ็กเกจ"
+
+#: post-types/membership-post-type.php:29
+msgid "Parent Package"
+msgstr "แพ็กเกจสำหรับผู้ปกครอง"
+
+#: post-types/partners-post-type.php:11
+msgid "Partners"
+msgstr "พาร์ทเนอร์"
+
+#: post-types/partners-post-type.php:12
+msgid "Partner"
+msgstr "หุ้นส่วน"
+
+#: post-types/partners-post-type.php:14
+msgid "Add New Partner"
+msgstr "เพิ่มพาร์ทเนอร์ใหม่"
+
+#: post-types/partners-post-type.php:15
+msgid "Edit Partner"
+msgstr "แก้ไขพันธมิตร"
+
+#: post-types/partners-post-type.php:16
+msgid "New Partner"
+msgstr "พาร์ทเนอร์ใหม่"
+
+#: post-types/partners-post-type.php:17
+msgid "View Partner"
+msgstr "ดูพันธมิตร"
+
+#: post-types/partners-post-type.php:18
+msgid "Search Partner"
+msgstr "Search Partner"
+
+#: post-types/partners-post-type.php:19
+msgid "No Partner found"
+msgstr "ไม่พบพันธมิตร"
+
+#: post-types/partners-post-type.php:20
+msgid "No Partner found in Trash"
+msgstr "ไม่มีพันธมิตรที่พบในถังขยะ"
+
+#: post-types/payments-post-type.php:11
+msgid "Houzez Payments"
+msgstr "การชำระเงินของ Houzez"
+
+#: post-types/payments-post-type.php:12
+msgid "Payment"
+msgstr "การชำระเงิน"
+
+#: post-types/payments-post-type.php:49
+msgid "Payment Title"
+msgstr "ชื่อการชำระเงิน"
+
+#: post-types/payments-post-type.php:51
+msgid "Payment Type"
+msgstr "ประเภทการชำระเงิน"
+
+#: post-types/payments-post-type.php:52
+msgid "Payment For"
+msgstr "การชำระเงินสำหรับ"
+
+#: post-types/payments-post-type.php:133
+msgid "Recurring"
+msgstr "การคืน"
+
+#: post-types/payments-post-type.php:135
+msgid "One Time"
+msgstr "ครั้งหนึ่ง"
+
+#: post-types/property-post-type.php:50
+msgid "Properties"
+msgstr "คุณสมบัติ"
+
+#: post-types/property-post-type.php:51
+msgid "Property"
+msgstr "คุณสมบัติ"
+
+#: post-types/property-post-type.php:52
+msgid "Add New Property"
+msgstr "เพิ่มพร็อพเพอร์ตี้ใหม่"
+
+#: post-types/property-post-type.php:54
+msgid "Edit Property"
+msgstr "แก้ไขคุณสมบัติ"
+
+#: post-types/property-post-type.php:55
+msgid "New Property"
+msgstr "สถานที่ให้บริการใหม่"
+
+#: post-types/property-post-type.php:56
+msgid "View Property"
+msgstr "ดูสถานที่ให้บริการ"
+
+#: post-types/property-post-type.php:57
+msgid "Search Property"
+msgstr "ค้นหา Property"
+
+#: post-types/property-post-type.php:58 statistics/houzez-statistics.php:183
+#: statistics/houzez-statistics.php:311
+msgid "No Property found"
+msgstr "ไม่พบอสังหาริมทรัพย์"
+
+#: post-types/property-post-type.php:59
+msgid "No Property found in Trash"
+msgstr "ไม่พบอสังหาริมทรัพย์ในถังขยะ"
+
+#: post-types/property-post-type.php:111 post-types/property-post-type.php:256
+#: statistics/houzez-statistics.php:117 statistics/houzez-statistics.php:194
+#: statistics/houzez-statistics.php:242 statistics/houzez-statistics.php:322
+#: statistics/houzez-statistics.php:410 statistics/houzez-statistics.php:581
+msgid "Type"
+msgstr "ชนิด"
+
+#: post-types/property-post-type.php:112
+msgid "Add New Type"
+msgstr "เพิ่มประเภทใหม่"
+
+#: post-types/property-post-type.php:113
+msgid "New Type"
+msgstr "ประเภทใหม่"
+
+#: post-types/property-post-type.php:130
+msgid "Features"
+msgstr "คุณสมบัติ"
+
+#: post-types/property-post-type.php:131
+msgid "Add New Feature"
+msgstr "เพิ่มคุณลักษณะใหม่"
+
+#: post-types/property-post-type.php:132
+msgid "New Feature"
+msgstr "คุณลักษณะใหม่"
+
+#: post-types/property-post-type.php:149
+msgid "Add New Status"
+msgstr "เพิ่มสถานะใหม่"
+
+#: post-types/property-post-type.php:150
+msgid "New Status"
+msgstr "สถานะใหม่"
+
+#: post-types/property-post-type.php:167 post-types/property-post-type.php:255
+#: post-types/property-post-type.php:504 statistics/houzez-statistics.php:116
+#: statistics/houzez-statistics.php:193 statistics/houzez-statistics.php:241
+#: statistics/houzez-statistics.php:321
+msgid "City"
+msgstr "เมือง"
+
+#: post-types/property-post-type.php:186 statistics/houzez-statistics.php:426
+msgid "Neighborhood"
+msgstr "ย่าน"
+
+#: post-types/property-post-type.php:187
+msgid "Add Property Neighborhood"
+msgstr "เพิ่มพื้นที่ใกล้เคียงในบริเวณใกล้เคียง"
+
+#: post-types/property-post-type.php:188
+msgid "New Property Neighborhood"
+msgstr "ย่านที่อยู่อาศัยใหม่"
+
+#: post-types/property-post-type.php:204
+msgid "County / State"
+msgstr "มณฑล / รัฐ"
+
+#: post-types/property-post-type.php:205
+msgid "Add Property County / State"
+msgstr "เพิ่มพร็อพเพอร์ตี้ County / State"
+
+#: post-types/property-post-type.php:206
+msgid "New Property County / State"
+msgstr "สถานที่ให้บริการใหม่ / รัฐ"
+
+#: post-types/property-post-type.php:222
+msgid "Labels"
+msgstr "ป้ายกำกับ"
+
+#: post-types/property-post-type.php:223
+msgid "Add New Label"
+msgstr "เพิ่มป้ายกำกับใหม่"
+
+#: post-types/property-post-type.php:224
+msgid "New Label"
+msgstr "ป้ายกำกับใหม่"
+
+#: post-types/property-post-type.php:253 statistics/houzez-statistics.php:113
+#: statistics/houzez-statistics.php:190 statistics/houzez-statistics.php:238
+#: statistics/houzez-statistics.php:318
+msgid "Property Title"
+msgstr "ชื่อทรัพย์สิน"
+
+#: post-types/property-post-type.php:259 statistics/houzez-statistics.php:120
+#: statistics/houzez-statistics.php:197 statistics/houzez-statistics.php:245
+#: statistics/houzez-statistics.php:325
+msgid "Property ID"
+msgstr "รหัสคุณสมบัติ"
+
+#: post-types/property-post-type.php:260
+msgid "Featured"
+msgstr "แนะนำ"
+
+#: post-types/property-post-type.php:261
+msgid "Posted"
+msgstr "โพสต์"
+
+#: post-types/property-post-type.php:262
+msgid "Expires"
+msgstr "วันที่หมดอายุ"
+
+#: post-types/property-post-type.php:263 statistics/houzez-statistics.php:122
+#: statistics/houzez-statistics.php:199 statistics/houzez-statistics.php:247
+#: statistics/houzez-statistics.php:327 statistics/houzez-statistics.php:355
+#: statistics/houzez-statistics.php:558
+msgid "Actions"
+msgstr "การปฏิบัติ"
+
+#: post-types/property-post-type.php:294 post-types/property-post-type.php:332
+#: post-types/property-post-type.php:341 post-types/property-post-type.php:350
+#: statistics/houzez-statistics.php:169 statistics/houzez-statistics.php:296
+msgid "NA"
+msgstr "NA"
+
+#: post-types/property-post-type.php:300
+msgid "No"
+msgstr "ไม่"
+
+#: post-types/property-post-type.php:302
+msgid "Yes"
+msgstr "ใช่"
+
+#: post-types/property-post-type.php:314
+msgid "No Address Provided!"
+msgstr "ไม่มีที่อยู่ให้!"
+
+#: post-types/property-post-type.php:365
+msgid "Approve"
+msgstr "อนุมัติ"
+
+#: post-types/property-post-type.php:372
+msgid "Expire"
+msgstr "หมดอายุ"
+
+#: post-types/property-post-type.php:415
+msgid "by a guest"
+msgstr "โดยแขก"
+
+#: post-types/property-post-type.php:415
+msgid "by %s"
+msgstr "โดย% s"
+
+#: post-types/property-post-type.php:503 post-types/property-post-type.php:540
+#: post-types/property-post-type.php:578
+msgid "Name"
+msgstr "ชื่อ"
+
+#: post-types/property-post-type.php:506 post-types/property-post-type.php:543
+#: post-types/property-post-type.php:581
+msgid "Slug"
+msgstr "กระสุน"
+
+#: post-types/property-post-type.php:507 post-types/property-post-type.php:544
+#: post-types/property-post-type.php:582
+msgid "Posts"
+msgstr "โพสต์"
+
+#: post-types/property-post-type.php:541
+msgid "County/State"
+msgstr "มณฑล / รัฐ"
+
+#: post-types/property-post-type.php:579 statistics/houzez-statistics.php:584
+msgid "Country"
+msgstr "ประเทศ"
+
+#: post-types/property-post-type.php:751
+msgid "All Types"
+msgstr "ทุกประเภท"
+
+#: post-types/property-post-type.php:786
+msgid "All Status"
+msgstr "สถานะทั้งหมด"
+
+#: post-types/property-post-type.php:821
+msgid "All Labels"
+msgstr "ป้ายกำกับทั้งหมด"
+
+#: post-types/property-post-type.php:856
+msgid "All Cities"
+msgstr "เมืองทั้งหมด"
+
+#: post-types/testimonials-post-type.php:43
+msgid "Testimonials"
+msgstr "ใบรับรอง"
+
+#: post-types/testimonials-post-type.php:44
+msgid "Testimonial"
+msgstr "ใบรับรอง"
+
+#: post-types/testimonials-post-type.php:46
+msgid "Add New Testimonial"
+msgstr "เพิ่มข้อความรับรองใหม่"
+
+#: post-types/testimonials-post-type.php:47
+msgid "Edit Testimonial"
+msgstr "แก้ไขคำรับรอง"
+
+#: post-types/testimonials-post-type.php:48
+msgid "New Testimonial"
+msgstr "คำรับรองใหม่"
+
+#: post-types/testimonials-post-type.php:49
+msgid "View Testimonial"
+msgstr "ดูคำรับรอง"
+
+#: post-types/testimonials-post-type.php:51
+msgid "No Testimonial found"
+msgstr "ไม่พบข้อความรับรอง"
+
+#: post-types/testimonials-post-type.php:52
+msgid "No Testimonial found in Trash"
+msgstr "ไม่พบข้อความรับรองในถังขยะ"
+
+#: post-types/user-packages-post-type.php:31
+msgid "Users Package Info"
+msgstr "ผู้ใช้ข้อมูลแพ็กเกจ"
+
+#: post-types/user-packages-post-type.php:62
+msgid "Package Holder"
+msgstr "ผู้ถือแพคเกจ"
+
+#: post-types/user-packages-post-type.php:63
+msgid "Package"
+msgstr "บรรจุภัณฑ์"
+
+#: post-types/user-packages-post-type.php:64
+msgid "Available Listings"
+msgstr "รายชื่อที่มีจำหน่าย"
+
+#: post-types/user-packages-post-type.php:65
+msgid "Featured Available"
+msgstr "มีให้บริการ"
+
+#: post-types/user-packages-post-type.php:66
+msgid "Activation"
+msgstr "การกระตุ้น"
+
+#: post-types/user-packages-post-type.php:67
+msgid "Expiry"
+msgstr "หมดอายุ"
+
+#: statistics/houzez-statistics.php:9
+msgid "Houzez Statistics"
+msgstr "สถิติ Houzez"
+
+#: statistics/houzez-statistics.php:10 statistics/houzez-statistics.php:108
+msgid "Most Viewed Properties"
+msgstr "ดูคุณสมบัติมากที่สุด"
+
+#: statistics/houzez-statistics.php:10
+msgid "Most Viewed"
+msgstr "ดูมากที่สุด"
+
+#: statistics/houzez-statistics.php:11 statistics/houzez-statistics.php:233
+msgid "Most Favourite Properties"
+msgstr "คุณสมบัติที่ชื่นชอบมากที่สุด"
+
+#: statistics/houzez-statistics.php:11
+msgid "Most Favourite"
+msgstr "ที่ชื่นชอบมากที่สุด"
+
+#: statistics/houzez-statistics.php:12 statistics/houzez-statistics.php:348
+msgid "Saved Searches"
+msgstr "การค้นหาที่บันทึกไว้"
+
+#: statistics/houzez-statistics.php:40 statistics/houzez-statistics.php:95
+#: statistics/houzez-statistics.php:215 statistics/houzez-statistics.php:343
+#: statistics/houzez-statistics.php:574
+msgid "You do not have sufficient permissions to access this page."
+msgstr "คุณไม่มีสิทธิ์เพียงพอในการเข้าถึงหน้านี้"
+
+#: statistics/houzez-statistics.php:48
+msgid "Houzez Statistic"
+msgstr "สถิติ Houzez"
+
+#: statistics/houzez-statistics.php:52 statistics/houzez-statistics.php:78
+msgid "Total Views Today"
+msgstr "จำนวนการดูทั้งหมดวันนี้"
+
+#: statistics/houzez-statistics.php:54
+msgid "Users"
+msgstr "ผู้ใช้"
+
+#: statistics/houzez-statistics.php:59
+msgid "Buyers"
+msgstr "ผู้ซื้อ"
+
+#: statistics/houzez-statistics.php:65
+msgid "Sellers"
+msgstr "ผู้ขาย"
+
+#: statistics/houzez-statistics.php:68
+msgid "Owners"
+msgstr "เจ้าของ"
+
+#: statistics/houzez-statistics.php:71
+msgid "Managers"
+msgstr "ผู้จัดการ"
+
+#: statistics/houzez-statistics.php:121 statistics/houzez-statistics.php:198
+msgid "Views Count"
+msgstr "จำนวนการดู"
+
+#: statistics/houzez-statistics.php:177 statistics/houzez-statistics.php:304
+#: statistics/houzez-statistics.php:541
+msgid "View"
+msgstr "ดู"
+
+#: statistics/houzez-statistics.php:246
+msgid "Favourite Count "
+msgstr "จำนวนที่ชอบ"
+
+#: statistics/houzez-statistics.php:326
+msgid "Favourite Count"
+msgstr "จำนวนที่ชอบ"
+
+#: statistics/houzez-statistics.php:353 statistics/houzez-statistics.php:556
+msgid "Search Query"
+msgstr "การค้นหา"
+
+#: statistics/houzez-statistics.php:402 statistics/houzez-statistics.php:582
+msgid "Location"
+msgstr "ที่ตั้ง"
+
+#: statistics/houzez-statistics.php:434 statistics/houzez-statistics.php:583
+msgid "State"
+msgstr "สถานะ"
+
+#: statistics/houzez-statistics.php:494
+msgid "Bedrooms"
+msgstr "ห้องนอน"
+
+#: statistics/houzez-statistics.php:499
+msgid "Bathrooms"
+msgstr "ห้องน้ำ"
+
+#: statistics/houzez-statistics.php:517 statistics/houzez-statistics.php:520
+msgid "Size"
+msgstr "ขนาด"
+
+#: statistics/houzez-statistics.php:548
+msgid "No Search found"
+msgstr "ไม่พบการค้นหา"
+
+#: statistics/houzez-statistics.php:578
+msgid "Min Price"
+msgstr "ราคาต่ำสุด"
+
+#: statistics/houzez-statistics.php:579
+msgid "Max Price"
+msgstr "ราคาสูงสุด"
+
+#: statistics/houzez-statistics.php:585
+msgid "Area"
+msgstr "พื้นที่"
+
+#: statistics/houzez-statistics.php:586
+msgid "Feature"
+msgstr "ลักษณะ"
+
+#: statistics/houzez-statistics.php:587 statistics/houzez-statistics.php:588
+msgid "Max Size"
+msgstr "ขนาดสูงสุด"
+
+#: statistics/houzez-statistics.php:589
+msgid "Bedroom"
+msgstr "ห้องนอน"
+
+#: statistics/houzez-statistics.php:590
+msgid "Bathroom"
+msgstr "ห้องอาบน้ำ"
+
+#: statistics/houzez-statistics.php:596
+msgid "Houzez Searches"
+msgstr "ค้นหา Houzez"
+
+#: statistics/houzez-statistics.php:601
+msgid "Search Keyworks"
+msgstr "Keyworks การค้นหา"
+
+#: vc_shortcodes/properties.php:93
+msgid "Load More"
+msgstr "โหลดเพิ่มเติม"

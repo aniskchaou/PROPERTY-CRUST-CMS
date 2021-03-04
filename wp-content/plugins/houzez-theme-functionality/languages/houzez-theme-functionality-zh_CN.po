@@ -1,0 +1,858 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Functionality Plugin\n"
+"Language: zh_CN\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: classes/class-settings.php:53
+msgid "Portfolio Settings"
+msgstr "组合设置"
+
+#: classes/class-settings.php:54
+msgid "Settings"
+msgstr "设置"
+
+#: classes/class-settings.php:83
+msgid "Permalinks"
+msgstr "固定链接"
+
+#: classes/class-settings.php:86
+msgid "Property Slug"
+msgstr "财产S。"
+
+#: classes/class-settings.php:87
+msgid "Property Type Slug"
+msgstr "物业类型Slug"
+
+#: classes/class-settings.php:88
+msgid "Property Feature Slug"
+msgstr "属性特征Slug"
+
+#: classes/class-settings.php:89
+msgid "Property Status Slug"
+msgstr "财产状况弹头"
+
+#: classes/class-settings.php:90
+msgid "Property Area Slug"
+msgstr "物业面积团"
+
+#: classes/class-settings.php:91
+msgid "Property City Slug"
+msgstr "物业城市S。"
+
+#: classes/class-settings.php:92
+msgid "Property State Slug"
+msgstr "财产状态S。"
+
+#: classes/class-settings.php:105
+msgid "Set up custom permalinks for the property section on your site."
+msgstr "在您的网站上为属性部分设置自定义固定链接。"
+
+#: classes/class-settings.php:236
+msgid "Properties Settings"
+msgstr "属性设置"
+
+#: classes/class-settings.php:243
+msgid "Update Settings"
+msgstr "更新设置"
+
+#: functions.php:30
+msgid "Activated Successfully, reload page!"
+msgstr "成功激活，重新加载页面！"
+
+#: functions.php:32
+msgid "Invalid license key"
+msgstr "许可证密钥无效"
+
+#: post-types/agency-post-type.php:36 post-types/agency-post-type.php:42
+#: post-types/agency-post-type.php:48 statistics/houzez-statistics.php:62
+msgid "Agencies"
+msgstr "机构"
+
+#: post-types/agency-post-type.php:37
+msgid "Agency"
+msgstr "机构"
+
+#: post-types/agency-post-type.php:38 post-types/agency-post-type.php:39
+msgid "Add New Agency"
+msgstr "添加新代理"
+
+#: post-types/agency-post-type.php:40
+msgid "Edit Agency"
+msgstr "编辑代理"
+
+#: post-types/agency-post-type.php:41
+msgid "New Agency"
+msgstr "新机构"
+
+#: post-types/agency-post-type.php:43
+msgid "View Agency"
+msgstr "查看代理商"
+
+#: post-types/agency-post-type.php:44
+msgid "Search Agency"
+msgstr "搜索代理商"
+
+#: post-types/agency-post-type.php:45
+msgid "No agencies found"
+msgstr "找不到代理机构"
+
+#: post-types/agency-post-type.php:46
+msgid "No agencies found in Trash"
+msgstr "没有在垃圾箱中找到代理机构"
+
+#: post-types/agency-post-type.php:79
+msgid "Agency ID"
+msgstr "代理商ID"
+
+#: post-types/agency-post-type.php:80 post-types/user-packages-post-type.php:61
+msgid "Title"
+msgstr "标题"
+
+#: post-types/agency-post-type.php:81
+msgid "License"
+msgstr "执照"
+
+#: post-types/agency-post-type.php:82 post-types/property-post-type.php:254
+#: statistics/houzez-statistics.php:115 statistics/houzez-statistics.php:192
+#: statistics/houzez-statistics.php:240 statistics/houzez-statistics.php:320
+msgid "Thumbnail"
+msgstr "缩略图"
+
+#: post-types/agency-post-type.php:83 post-types/agent-post-type.php:115
+msgid "E-mail"
+msgstr "电子邮件"
+
+#: post-types/agency-post-type.php:84 post-types/agent-post-type.php:116
+msgid "Web"
+msgstr "卷筒纸"
+
+#: post-types/agency-post-type.php:85
+msgid "Phone"
+msgstr "电话"
+
+#: post-types/agency-post-type.php:86 post-types/agent-post-type.php:30
+#: statistics/houzez-statistics.php:56
+msgid "Agents"
+msgstr "代理"
+
+#: post-types/agency-post-type.php:87
+msgid "Author"
+msgstr "作者"
+
+#: post-types/agent-post-type.php:31
+msgid "Agent"
+msgstr "代理人"
+
+#: post-types/agent-post-type.php:32 post-types/invoice-post-type.php:14
+#: post-types/partners-post-type.php:13 post-types/payments-post-type.php:13
+#: post-types/payments-post-type.php:14 post-types/property-post-type.php:53
+#: post-types/testimonials-post-type.php:45
+#: post-types/user-packages-post-type.php:33
+#: post-types/user-packages-post-type.php:34
+msgid "Add New"
+msgstr "添新"
+
+#: post-types/agent-post-type.php:33
+msgid "Add New Agent"
+msgstr "添加新代理"
+
+#: post-types/agent-post-type.php:34
+msgid "Edit Agent"
+msgstr "编辑代理"
+
+#: post-types/agent-post-type.php:35
+msgid "New Agent"
+msgstr "新代理"
+
+#: post-types/agent-post-type.php:36
+msgid "View Agent"
+msgstr "查看代理"
+
+#: post-types/agent-post-type.php:37 post-types/testimonials-post-type.php:50
+msgid "Search Agent"
+msgstr "搜索代理"
+
+#: post-types/agent-post-type.php:38
+msgid "No Agent found"
+msgstr "未找到代理"
+
+#: post-types/agent-post-type.php:39
+msgid "No Agent found in Trash"
+msgstr "垃圾箱中找不到代理"
+
+#: post-types/agent-post-type.php:70
+msgid "Categories"
+msgstr "分类"
+
+#: post-types/agent-post-type.php:71
+msgid "Add New Category"
+msgstr "添加新类别"
+
+#: post-types/agent-post-type.php:72
+msgid "New Category"
+msgstr "新类别"
+
+#: post-types/agent-post-type.php:88
+msgid "Cities"
+msgstr "城市"
+
+#: post-types/agent-post-type.php:89 post-types/property-post-type.php:168
+msgid "Add New City"
+msgstr "添加新城市"
+
+#: post-types/agent-post-type.php:90 post-types/property-post-type.php:169
+msgid "New City"
+msgstr "新城市"
+
+#: post-types/agent-post-type.php:111
+msgid "Agent ID"
+msgstr "代理ID"
+
+#: post-types/agent-post-type.php:112
+msgid "Agent Name"
+msgstr "代理名称"
+
+#: post-types/agent-post-type.php:113
+msgid "Picture"
+msgstr "图片"
+
+#: post-types/agent-post-type.php:114
+msgid "Category"
+msgstr "类别"
+
+#: post-types/agent-post-type.php:117
+msgid "Mobile"
+msgstr "移动"
+
+#: post-types/invoice-post-type.php:12
+msgid "Houzez Invoices"
+msgstr "Houzez发票"
+
+#: post-types/invoice-post-type.php:13
+msgid "Houzez Invoice"
+msgstr "Houzez发票"
+
+#: post-types/invoice-post-type.php:15
+msgid "Add New Invoice"
+msgstr "添加新发票"
+
+#: post-types/invoice-post-type.php:16
+msgid "Edit Invoice"
+msgstr "编辑发票"
+
+#: post-types/invoice-post-type.php:17
+msgid "New Invoice"
+msgstr "新发票"
+
+#: post-types/invoice-post-type.php:18
+msgid "View Invoice"
+msgstr "查看发票"
+
+#: post-types/invoice-post-type.php:19
+msgid "Search Invoice"
+msgstr "搜索发票"
+
+#: post-types/invoice-post-type.php:20
+msgid "No Invoice found"
+msgstr "找不到发票"
+
+#: post-types/invoice-post-type.php:21
+msgid "No Invoice found in Trash"
+msgstr "在垃圾箱中找不到发票"
+
+#: post-types/invoice-post-type.php:57
+msgid "Invoice Title"
+msgstr "发票标题"
+
+#: post-types/invoice-post-type.php:58 post-types/payments-post-type.php:50
+#: post-types/property-post-type.php:258 statistics/houzez-statistics.php:119
+#: statistics/houzez-statistics.php:196 statistics/houzez-statistics.php:244
+#: statistics/houzez-statistics.php:324 statistics/houzez-statistics.php:506
+#: statistics/houzez-statistics.php:509
+msgid "Price"
+msgstr "价钱"
+
+#: post-types/invoice-post-type.php:59
+msgid "Payment Method"
+msgstr "付款方法"
+
+#: post-types/invoice-post-type.php:60 post-types/payments-post-type.php:53
+msgid "Buyer"
+msgstr "买方"
+
+#: post-types/invoice-post-type.php:61
+msgid "Buyer Email"
+msgstr "买家电邮"
+
+#: post-types/invoice-post-type.php:62
+msgid "Invoice Type"
+msgstr "发票类型"
+
+#: post-types/invoice-post-type.php:63
+msgid "Billion For"
+msgstr "十亿美元"
+
+#: post-types/invoice-post-type.php:64 post-types/payments-post-type.php:54
+#: post-types/property-post-type.php:148 post-types/property-post-type.php:257
+#: statistics/houzez-statistics.php:118 statistics/houzez-statistics.php:195
+#: statistics/houzez-statistics.php:243 statistics/houzez-statistics.php:323
+#: statistics/houzez-statistics.php:418 statistics/houzez-statistics.php:580
+msgid "Status"
+msgstr "状态"
+
+#: post-types/invoice-post-type.php:65 post-types/payments-post-type.php:55
+msgid "Date"
+msgstr "日期"
+
+#: post-types/invoice-post-type.php:87
+msgid "Direct Bank Transfer"
+msgstr "直接银行转账"
+
+#: post-types/invoice-post-type.php:114 post-types/payments-post-type.php:91
+msgid "Not Paid"
+msgstr "未支付"
+
+#: post-types/invoice-post-type.php:116 post-types/payments-post-type.php:93
+msgid "Paid"
+msgstr "付费"
+
+#: post-types/membership-post-type.php:17
+msgid "Houzez Packages"
+msgstr "Houzez套餐"
+
+#: post-types/membership-post-type.php:18
+#: post-types/user-packages-post-type.php:32
+msgid "Packages"
+msgstr "包"
+
+#: post-types/membership-post-type.php:19
+msgid "Add New Package"
+msgstr "添加新包"
+
+#: post-types/membership-post-type.php:20
+msgid "Add Packages"
+msgstr "添加软件包"
+
+#: post-types/membership-post-type.php:21
+msgid "Edit Packages"
+msgstr "编辑软件包"
+
+#: post-types/membership-post-type.php:22
+msgid "Edit Package"
+msgstr "编辑软件包"
+
+#: post-types/membership-post-type.php:23
+msgid "New Packages"
+msgstr "新软件包"
+
+#: post-types/membership-post-type.php:24
+#: post-types/membership-post-type.php:25
+msgid "View Packages"
+msgstr "查看包"
+
+#: post-types/membership-post-type.php:26
+msgid "Search Packages"
+msgstr "搜索包"
+
+#: post-types/membership-post-type.php:27
+#: post-types/membership-post-type.php:28
+msgid "No Packages found"
+msgstr "找不到软件包"
+
+#: post-types/membership-post-type.php:29
+msgid "Parent Package"
+msgstr "父包装"
+
+#: post-types/partners-post-type.php:11
+msgid "Partners"
+msgstr "伙伴"
+
+#: post-types/partners-post-type.php:12
+msgid "Partner"
+msgstr "伙伴"
+
+#: post-types/partners-post-type.php:14
+msgid "Add New Partner"
+msgstr "添加新合作伙伴"
+
+#: post-types/partners-post-type.php:15
+msgid "Edit Partner"
+msgstr "编辑合作伙伴"
+
+#: post-types/partners-post-type.php:16
+msgid "New Partner"
+msgstr "新合作伙伴"
+
+#: post-types/partners-post-type.php:17
+msgid "View Partner"
+msgstr "查看伙伴"
+
+#: post-types/partners-post-type.php:18
+msgid "Search Partner"
+msgstr "搜寻伙伴"
+
+#: post-types/partners-post-type.php:19
+msgid "No Partner found"
+msgstr "找不到合作伙伴"
+
+#: post-types/partners-post-type.php:20
+msgid "No Partner found in Trash"
+msgstr "在垃圾箱中找不到合作伙伴"
+
+#: post-types/payments-post-type.php:11
+msgid "Houzez Payments"
+msgstr "Houzez支付"
+
+#: post-types/payments-post-type.php:12
+msgid "Payment"
+msgstr "付款"
+
+#: post-types/payments-post-type.php:49
+msgid "Payment Title"
+msgstr "付款标题"
+
+#: post-types/payments-post-type.php:51
+msgid "Payment Type"
+msgstr "付款方式"
+
+#: post-types/payments-post-type.php:52
+msgid "Payment For"
+msgstr "付款"
+
+#: post-types/payments-post-type.php:133
+msgid "Recurring"
+msgstr "定期"
+
+#: post-types/payments-post-type.php:135
+msgid "One Time"
+msgstr "一次"
+
+#: post-types/property-post-type.php:50
+msgid "Properties"
+msgstr "属性"
+
+#: post-types/property-post-type.php:51
+msgid "Property"
+msgstr "属性"
+
+#: post-types/property-post-type.php:52
+msgid "Add New Property"
+msgstr "添加新物业"
+
+#: post-types/property-post-type.php:54
+msgid "Edit Property"
+msgstr "编辑属性"
+
+#: post-types/property-post-type.php:55
+msgid "New Property"
+msgstr "新物业"
+
+#: post-types/property-post-type.php:56
+msgid "View Property"
+msgstr "查看属性"
+
+#: post-types/property-post-type.php:57
+msgid "Search Property"
+msgstr "搜索属性"
+
+#: post-types/property-post-type.php:58 statistics/houzez-statistics.php:183
+#: statistics/houzez-statistics.php:311
+msgid "No Property found"
+msgstr "找不到物业"
+
+#: post-types/property-post-type.php:59
+msgid "No Property found in Trash"
+msgstr "在Trash找不到任何物业"
+
+#: post-types/property-post-type.php:111 post-types/property-post-type.php:256
+#: statistics/houzez-statistics.php:117 statistics/houzez-statistics.php:194
+#: statistics/houzez-statistics.php:242 statistics/houzez-statistics.php:322
+#: statistics/houzez-statistics.php:410 statistics/houzez-statistics.php:581
+msgid "Type"
+msgstr "类型"
+
+#: post-types/property-post-type.php:112
+msgid "Add New Type"
+msgstr "添加新类型"
+
+#: post-types/property-post-type.php:113
+msgid "New Type"
+msgstr "新型"
+
+#: post-types/property-post-type.php:130
+msgid "Features"
+msgstr "特征"
+
+#: post-types/property-post-type.php:131
+msgid "Add New Feature"
+msgstr "添加新功能"
+
+#: post-types/property-post-type.php:132
+msgid "New Feature"
+msgstr "新功能"
+
+#: post-types/property-post-type.php:149
+msgid "Add New Status"
+msgstr "添加新状态"
+
+#: post-types/property-post-type.php:150
+msgid "New Status"
+msgstr "新状态"
+
+#: post-types/property-post-type.php:167 post-types/property-post-type.php:255
+#: post-types/property-post-type.php:504 statistics/houzez-statistics.php:116
+#: statistics/houzez-statistics.php:193 statistics/houzez-statistics.php:241
+#: statistics/houzez-statistics.php:321
+msgid "City"
+msgstr "市"
+
+#: post-types/property-post-type.php:186 statistics/houzez-statistics.php:426
+msgid "Neighborhood"
+msgstr "邻里"
+
+#: post-types/property-post-type.php:187
+msgid "Add Property Neighborhood"
+msgstr "添加属性邻域"
+
+#: post-types/property-post-type.php:188
+msgid "New Property Neighborhood"
+msgstr "新物业邻里"
+
+#: post-types/property-post-type.php:204
+msgid "County / State"
+msgstr "县政府"
+
+#: post-types/property-post-type.php:205
+msgid "Add Property County / State"
+msgstr "添加财产县/州"
+
+#: post-types/property-post-type.php:206
+msgid "New Property County / State"
+msgstr "新财产县/州"
+
+#: post-types/property-post-type.php:222
+msgid "Labels"
+msgstr "标签"
+
+#: post-types/property-post-type.php:223
+msgid "Add New Label"
+msgstr "添加新标签"
+
+#: post-types/property-post-type.php:224
+msgid "New Label"
+msgstr "新标签"
+
+#: post-types/property-post-type.php:253 statistics/houzez-statistics.php:113
+#: statistics/houzez-statistics.php:190 statistics/houzez-statistics.php:238
+#: statistics/houzez-statistics.php:318
+msgid "Property Title"
+msgstr "产权标题"
+
+#: post-types/property-post-type.php:259 statistics/houzez-statistics.php:120
+#: statistics/houzez-statistics.php:197 statistics/houzez-statistics.php:245
+#: statistics/houzez-statistics.php:325
+msgid "Property ID"
+msgstr "属性ID"
+
+#: post-types/property-post-type.php:260
+msgid "Featured"
+msgstr "精选"
+
+#: post-types/property-post-type.php:261
+msgid "Posted"
+msgstr "发布"
+
+#: post-types/property-post-type.php:262
+msgid "Expires"
+msgstr "过期"
+
+#: post-types/property-post-type.php:263 statistics/houzez-statistics.php:122
+#: statistics/houzez-statistics.php:199 statistics/houzez-statistics.php:247
+#: statistics/houzez-statistics.php:327 statistics/houzez-statistics.php:355
+#: statistics/houzez-statistics.php:558
+msgid "Actions"
+msgstr "操作"
+
+#: post-types/property-post-type.php:294 post-types/property-post-type.php:332
+#: post-types/property-post-type.php:341 post-types/property-post-type.php:350
+#: statistics/houzez-statistics.php:169 statistics/houzez-statistics.php:296
+msgid "NA"
+msgstr "NA"
+
+#: post-types/property-post-type.php:300
+msgid "No"
+msgstr "没有"
+
+#: post-types/property-post-type.php:302
+msgid "Yes"
+msgstr "是"
+
+#: post-types/property-post-type.php:314
+msgid "No Address Provided!"
+msgstr "没有地址提供！"
+
+#: post-types/property-post-type.php:365
+msgid "Approve"
+msgstr "批准"
+
+#: post-types/property-post-type.php:372
+msgid "Expire"
+msgstr "到期"
+
+#: post-types/property-post-type.php:415
+msgid "by a guest"
+msgstr "由客人"
+
+#: post-types/property-post-type.php:415
+msgid "by %s"
+msgstr "由％s"
+
+#: post-types/property-post-type.php:503 post-types/property-post-type.php:540
+#: post-types/property-post-type.php:578
+msgid "Name"
+msgstr "名称"
+
+#: post-types/property-post-type.php:506 post-types/property-post-type.php:543
+#: post-types/property-post-type.php:581
+msgid "Slug"
+msgstr "金属块"
+
+#: post-types/property-post-type.php:507 post-types/property-post-type.php:544
+#: post-types/property-post-type.php:582
+msgid "Posts"
+msgstr "帖子"
+
+#: post-types/property-post-type.php:541
+msgid "County/State"
+msgstr "县政府"
+
+#: post-types/property-post-type.php:579 statistics/houzez-statistics.php:584
+msgid "Country"
+msgstr "国家"
+
+#: post-types/property-post-type.php:751
+msgid "All Types"
+msgstr "所有类型"
+
+#: post-types/property-post-type.php:786
+msgid "All Status"
+msgstr "所有状态"
+
+#: post-types/property-post-type.php:821
+msgid "All Labels"
+msgstr "所有标签"
+
+#: post-types/property-post-type.php:856
+msgid "All Cities"
+msgstr "所有城市"
+
+#: post-types/testimonials-post-type.php:43
+msgid "Testimonials"
+msgstr "褒奖"
+
+#: post-types/testimonials-post-type.php:44
+msgid "Testimonial"
+msgstr "见证"
+
+#: post-types/testimonials-post-type.php:46
+msgid "Add New Testimonial"
+msgstr "添加新的见证"
+
+#: post-types/testimonials-post-type.php:47
+msgid "Edit Testimonial"
+msgstr "编辑见证"
+
+#: post-types/testimonials-post-type.php:48
+msgid "New Testimonial"
+msgstr "新的见证"
+
+#: post-types/testimonials-post-type.php:49
+msgid "View Testimonial"
+msgstr "查看见证"
+
+#: post-types/testimonials-post-type.php:51
+msgid "No Testimonial found"
+msgstr "没有见证"
+
+#: post-types/testimonials-post-type.php:52
+msgid "No Testimonial found in Trash"
+msgstr "没有在垃圾箱中找到见证"
+
+#: post-types/user-packages-post-type.php:31
+msgid "Users Package Info"
+msgstr "用户包信息"
+
+#: post-types/user-packages-post-type.php:62
+msgid "Package Holder"
+msgstr "包装盒"
+
+#: post-types/user-packages-post-type.php:63
+msgid "Package"
+msgstr "包"
+
+#: post-types/user-packages-post-type.php:64
+msgid "Available Listings"
+msgstr "可用的清单"
+
+#: post-types/user-packages-post-type.php:65
+msgid "Featured Available"
+msgstr "精选可用"
+
+#: post-types/user-packages-post-type.php:66
+msgid "Activation"
+msgstr "激活"
+
+#: post-types/user-packages-post-type.php:67
+msgid "Expiry"
+msgstr "到期"
+
+#: statistics/houzez-statistics.php:9
+msgid "Houzez Statistics"
+msgstr "Houzez统计"
+
+#: statistics/houzez-statistics.php:10 statistics/houzez-statistics.php:108
+msgid "Most Viewed Properties"
+msgstr "浏览量最大的属性"
+
+#: statistics/houzez-statistics.php:10
+msgid "Most Viewed"
+msgstr "最受关注"
+
+#: statistics/houzez-statistics.php:11 statistics/houzez-statistics.php:233
+msgid "Most Favourite Properties"
+msgstr "最喜欢的属性"
+
+#: statistics/houzez-statistics.php:11
+msgid "Most Favourite"
+msgstr "最喜欢的"
+
+#: statistics/houzez-statistics.php:12 statistics/houzez-statistics.php:348
+msgid "Saved Searches"
+msgstr "保存的搜索"
+
+#: statistics/houzez-statistics.php:40 statistics/houzez-statistics.php:95
+#: statistics/houzez-statistics.php:215 statistics/houzez-statistics.php:343
+#: statistics/houzez-statistics.php:574
+msgid "You do not have sufficient permissions to access this page."
+msgstr "您没有足够的权限访问此页面。"
+
+#: statistics/houzez-statistics.php:48
+msgid "Houzez Statistic"
+msgstr "Houzez统计"
+
+#: statistics/houzez-statistics.php:52 statistics/houzez-statistics.php:78
+msgid "Total Views Today"
+msgstr "今天的总视图"
+
+#: statistics/houzez-statistics.php:54
+msgid "Users"
+msgstr "用户"
+
+#: statistics/houzez-statistics.php:59
+msgid "Buyers"
+msgstr "买家"
+
+#: statistics/houzez-statistics.php:65
+msgid "Sellers"
+msgstr "卖家"
+
+#: statistics/houzez-statistics.php:68
+msgid "Owners"
+msgstr "拥有者"
+
+#: statistics/houzez-statistics.php:71
+msgid "Managers"
+msgstr "经理"
+
+#: statistics/houzez-statistics.php:121 statistics/houzez-statistics.php:198
+msgid "Views Count"
+msgstr "查看次数"
+
+#: statistics/houzez-statistics.php:177 statistics/houzez-statistics.php:304
+#: statistics/houzez-statistics.php:541
+msgid "View"
+msgstr "视图"
+
+#: statistics/houzez-statistics.php:246
+msgid "Favourite Count "
+msgstr "收藏数量"
+
+#: statistics/houzez-statistics.php:326
+msgid "Favourite Count"
+msgstr "收藏数量"
+
+#: statistics/houzez-statistics.php:353 statistics/houzez-statistics.php:556
+msgid "Search Query"
+msgstr "搜索查询"
+
+#: statistics/houzez-statistics.php:402 statistics/houzez-statistics.php:582
+msgid "Location"
+msgstr "位置"
+
+#: statistics/houzez-statistics.php:434 statistics/houzez-statistics.php:583
+msgid "State"
+msgstr "州"
+
+#: statistics/houzez-statistics.php:494
+msgid "Bedrooms"
+msgstr "卧室"
+
+#: statistics/houzez-statistics.php:499
+msgid "Bathrooms"
+msgstr "浴室"
+
+#: statistics/houzez-statistics.php:517 statistics/houzez-statistics.php:520
+msgid "Size"
+msgstr "尺寸"
+
+#: statistics/houzez-statistics.php:548
+msgid "No Search found"
+msgstr "没有搜索"
+
+#: statistics/houzez-statistics.php:578
+msgid "Min Price"
+msgstr "最低价格"
+
+#: statistics/houzez-statistics.php:579
+msgid "Max Price"
+msgstr "最大价格"
+
+#: statistics/houzez-statistics.php:585
+msgid "Area"
+msgstr "区"
+
+#: statistics/houzez-statistics.php:586
+msgid "Feature"
+msgstr "特征"
+
+#: statistics/houzez-statistics.php:587 statistics/houzez-statistics.php:588
+msgid "Max Size"
+msgstr "最大尺寸"
+
+#: statistics/houzez-statistics.php:589
+msgid "Bedroom"
+msgstr "卧室"
+
+#: statistics/houzez-statistics.php:590
+msgid "Bathroom"
+msgstr "浴室"
+
+#: statistics/houzez-statistics.php:596
+msgid "Houzez Searches"
+msgstr "Houzez搜索"
+
+#: statistics/houzez-statistics.php:601
+msgid "Search Keyworks"
+msgstr "搜索关键字"
+
+#: vc_shortcodes/properties.php:93
+msgid "Load More"
+msgstr "装载更多"

@@ -1,0 +1,858 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Functionality Plugin\n"
+"Language: vi\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: classes/class-settings.php:53
+msgid "Portfolio Settings"
+msgstr "Cài đặt danh mục đầu tư"
+
+#: classes/class-settings.php:54
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: classes/class-settings.php:83
+msgid "Permalinks"
+msgstr "Liên kết cố định"
+
+#: classes/class-settings.php:86
+msgid "Property Slug"
+msgstr "Slug tài sản"
+
+#: classes/class-settings.php:87
+msgid "Property Type Slug"
+msgstr "Loại bất động sản Slug"
+
+#: classes/class-settings.php:88
+msgid "Property Feature Slug"
+msgstr "Tính năng tài sản"
+
+#: classes/class-settings.php:89
+msgid "Property Status Slug"
+msgstr "Tình trạng tài sản"
+
+#: classes/class-settings.php:90
+msgid "Property Area Slug"
+msgstr "Khu vực bất động sản Slug"
+
+#: classes/class-settings.php:91
+msgid "Property City Slug"
+msgstr "Thành phố bất động sản Slug"
+
+#: classes/class-settings.php:92
+msgid "Property State Slug"
+msgstr "Slug nhà nước"
+
+#: classes/class-settings.php:105
+msgid "Set up custom permalinks for the property section on your site."
+msgstr "Thiết lập liên kết cố định tùy chỉnh cho phần thuộc tính trên trang web của bạn."
+
+#: classes/class-settings.php:236
+msgid "Properties Settings"
+msgstr "Cài đặt thuộc tính"
+
+#: classes/class-settings.php:243
+msgid "Update Settings"
+msgstr "Cập nhật cài đặt"
+
+#: functions.php:30
+msgid "Activated Successfully, reload page!"
+msgstr "Đã kích hoạt thành công, tải lại trang!"
+
+#: functions.php:32
+msgid "Invalid license key"
+msgstr "Khoá cấp phép không hợp lệ"
+
+#: post-types/agency-post-type.php:36 post-types/agency-post-type.php:42
+#: post-types/agency-post-type.php:48 statistics/houzez-statistics.php:62
+msgid "Agencies"
+msgstr "Đại lý"
+
+#: post-types/agency-post-type.php:37
+msgid "Agency"
+msgstr "Đại lý"
+
+#: post-types/agency-post-type.php:38 post-types/agency-post-type.php:39
+msgid "Add New Agency"
+msgstr "Thêm đại lý mới"
+
+#: post-types/agency-post-type.php:40
+msgid "Edit Agency"
+msgstr "Chỉnh sửa đại lý"
+
+#: post-types/agency-post-type.php:41
+msgid "New Agency"
+msgstr "Đại lý mới"
+
+#: post-types/agency-post-type.php:43
+msgid "View Agency"
+msgstr "Xem đại lý"
+
+#: post-types/agency-post-type.php:44
+msgid "Search Agency"
+msgstr "Đại lý tìm kiếm"
+
+#: post-types/agency-post-type.php:45
+msgid "No agencies found"
+msgstr "Không tìm thấy đại lý nào"
+
+#: post-types/agency-post-type.php:46
+msgid "No agencies found in Trash"
+msgstr "Không tìm thấy đại lý nào trong Thùng rác"
+
+#: post-types/agency-post-type.php:79
+msgid "Agency ID"
+msgstr "ID đại lý"
+
+#: post-types/agency-post-type.php:80 post-types/user-packages-post-type.php:61
+msgid "Title"
+msgstr "Chức vụ"
+
+#: post-types/agency-post-type.php:81
+msgid "License"
+msgstr "Giấy phép"
+
+#: post-types/agency-post-type.php:82 post-types/property-post-type.php:254
+#: statistics/houzez-statistics.php:115 statistics/houzez-statistics.php:192
+#: statistics/houzez-statistics.php:240 statistics/houzez-statistics.php:320
+msgid "Thumbnail"
+msgstr "Hình nhỏ"
+
+#: post-types/agency-post-type.php:83 post-types/agent-post-type.php:115
+msgid "E-mail"
+msgstr "E-mail"
+
+#: post-types/agency-post-type.php:84 post-types/agent-post-type.php:116
+msgid "Web"
+msgstr "Web"
+
+#: post-types/agency-post-type.php:85
+msgid "Phone"
+msgstr "Điện thoại"
+
+#: post-types/agency-post-type.php:86 post-types/agent-post-type.php:30
+#: statistics/houzez-statistics.php:56
+msgid "Agents"
+msgstr "Đại lý"
+
+#: post-types/agency-post-type.php:87
+msgid "Author"
+msgstr "Tác giả"
+
+#: post-types/agent-post-type.php:31
+msgid "Agent"
+msgstr "Đặc vụ"
+
+#: post-types/agent-post-type.php:32 post-types/invoice-post-type.php:14
+#: post-types/partners-post-type.php:13 post-types/payments-post-type.php:13
+#: post-types/payments-post-type.php:14 post-types/property-post-type.php:53
+#: post-types/testimonials-post-type.php:45
+#: post-types/user-packages-post-type.php:33
+#: post-types/user-packages-post-type.php:34
+msgid "Add New"
+msgstr "Thêm mới"
+
+#: post-types/agent-post-type.php:33
+msgid "Add New Agent"
+msgstr "Thêm tác nhân mới"
+
+#: post-types/agent-post-type.php:34
+msgid "Edit Agent"
+msgstr "Chỉnh sửa tác nhân"
+
+#: post-types/agent-post-type.php:35
+msgid "New Agent"
+msgstr "Tác nhân mới"
+
+#: post-types/agent-post-type.php:36
+msgid "View Agent"
+msgstr "Xem tác nhân"
+
+#: post-types/agent-post-type.php:37 post-types/testimonials-post-type.php:50
+msgid "Search Agent"
+msgstr "Tìm kiếm"
+
+#: post-types/agent-post-type.php:38
+msgid "No Agent found"
+msgstr "Không tìm thấy đại lý"
+
+#: post-types/agent-post-type.php:39
+msgid "No Agent found in Trash"
+msgstr "Không tìm thấy tác nhân nào trong Thùng rác"
+
+#: post-types/agent-post-type.php:70
+msgid "Categories"
+msgstr "Thể loại"
+
+#: post-types/agent-post-type.php:71
+msgid "Add New Category"
+msgstr "Thêm danh mục mới"
+
+#: post-types/agent-post-type.php:72
+msgid "New Category"
+msgstr "Danh mục mới"
+
+#: post-types/agent-post-type.php:88
+msgid "Cities"
+msgstr "Các thành phố"
+
+#: post-types/agent-post-type.php:89 post-types/property-post-type.php:168
+msgid "Add New City"
+msgstr "Thêm thành phố mới"
+
+#: post-types/agent-post-type.php:90 post-types/property-post-type.php:169
+msgid "New City"
+msgstr "Thành phố mới"
+
+#: post-types/agent-post-type.php:111
+msgid "Agent ID"
+msgstr "ID tác nhân"
+
+#: post-types/agent-post-type.php:112
+msgid "Agent Name"
+msgstr "Tên tác nhân"
+
+#: post-types/agent-post-type.php:113
+msgid "Picture"
+msgstr "Hình ảnh"
+
+#: post-types/agent-post-type.php:114
+msgid "Category"
+msgstr "thể loại"
+
+#: post-types/agent-post-type.php:117
+msgid "Mobile"
+msgstr "Điện thoại di động"
+
+#: post-types/invoice-post-type.php:12
+msgid "Houzez Invoices"
+msgstr "Hóa đơn Houzez"
+
+#: post-types/invoice-post-type.php:13
+msgid "Houzez Invoice"
+msgstr "Hóa đơn Houzez"
+
+#: post-types/invoice-post-type.php:15
+msgid "Add New Invoice"
+msgstr "Thêm hóa đơn mới"
+
+#: post-types/invoice-post-type.php:16
+msgid "Edit Invoice"
+msgstr "Chỉnh sửa hóa đơn"
+
+#: post-types/invoice-post-type.php:17
+msgid "New Invoice"
+msgstr "Hóa đơn mới"
+
+#: post-types/invoice-post-type.php:18
+msgid "View Invoice"
+msgstr "Xem hóa đơn"
+
+#: post-types/invoice-post-type.php:19
+msgid "Search Invoice"
+msgstr "Tìm kiếm hóa đơn"
+
+#: post-types/invoice-post-type.php:20
+msgid "No Invoice found"
+msgstr "Không tìm thấy hóa đơn nào"
+
+#: post-types/invoice-post-type.php:21
+msgid "No Invoice found in Trash"
+msgstr "Không tìm thấy hóa đơn nào trong Thùng rác"
+
+#: post-types/invoice-post-type.php:57
+msgid "Invoice Title"
+msgstr "Tên hóa đơn"
+
+#: post-types/invoice-post-type.php:58 post-types/payments-post-type.php:50
+#: post-types/property-post-type.php:258 statistics/houzez-statistics.php:119
+#: statistics/houzez-statistics.php:196 statistics/houzez-statistics.php:244
+#: statistics/houzez-statistics.php:324 statistics/houzez-statistics.php:506
+#: statistics/houzez-statistics.php:509
+msgid "Price"
+msgstr "Giá bán"
+
+#: post-types/invoice-post-type.php:59
+msgid "Payment Method"
+msgstr "Phương thức thanh toán"
+
+#: post-types/invoice-post-type.php:60 post-types/payments-post-type.php:53
+msgid "Buyer"
+msgstr "Người mua"
+
+#: post-types/invoice-post-type.php:61
+msgid "Buyer Email"
+msgstr "Email người mua"
+
+#: post-types/invoice-post-type.php:62
+msgid "Invoice Type"
+msgstr "Loại hoá đơn"
+
+#: post-types/invoice-post-type.php:63
+msgid "Billion For"
+msgstr "Tỷ"
+
+#: post-types/invoice-post-type.php:64 post-types/payments-post-type.php:54
+#: post-types/property-post-type.php:148 post-types/property-post-type.php:257
+#: statistics/houzez-statistics.php:118 statistics/houzez-statistics.php:195
+#: statistics/houzez-statistics.php:243 statistics/houzez-statistics.php:323
+#: statistics/houzez-statistics.php:418 statistics/houzez-statistics.php:580
+msgid "Status"
+msgstr "Trạng thái"
+
+#: post-types/invoice-post-type.php:65 post-types/payments-post-type.php:55
+msgid "Date"
+msgstr "Ngày"
+
+#: post-types/invoice-post-type.php:87
+msgid "Direct Bank Transfer"
+msgstr "Chuyển khoản trực tiếp"
+
+#: post-types/invoice-post-type.php:114 post-types/payments-post-type.php:91
+msgid "Not Paid"
+msgstr "Không trả tiền"
+
+#: post-types/invoice-post-type.php:116 post-types/payments-post-type.php:93
+msgid "Paid"
+msgstr "Đã thanh toán"
+
+#: post-types/membership-post-type.php:17
+msgid "Houzez Packages"
+msgstr "Giường và bữa sáng tại Houzez"
+
+#: post-types/membership-post-type.php:18
+#: post-types/user-packages-post-type.php:32
+msgid "Packages"
+msgstr "Gói"
+
+#: post-types/membership-post-type.php:19
+msgid "Add New Package"
+msgstr "Thêm gói mới"
+
+#: post-types/membership-post-type.php:20
+msgid "Add Packages"
+msgstr "Thêm gói"
+
+#: post-types/membership-post-type.php:21
+msgid "Edit Packages"
+msgstr "Chỉnh sửa gói"
+
+#: post-types/membership-post-type.php:22
+msgid "Edit Package"
+msgstr "Chỉnh sửa gói"
+
+#: post-types/membership-post-type.php:23
+msgid "New Packages"
+msgstr "Gói mới"
+
+#: post-types/membership-post-type.php:24
+#: post-types/membership-post-type.php:25
+msgid "View Packages"
+msgstr "Xem gói"
+
+#: post-types/membership-post-type.php:26
+msgid "Search Packages"
+msgstr "Tìm kiếm gói"
+
+#: post-types/membership-post-type.php:27
+#: post-types/membership-post-type.php:28
+msgid "No Packages found"
+msgstr "Không tìm thấy gói nào"
+
+#: post-types/membership-post-type.php:29
+msgid "Parent Package"
+msgstr "Gói dành cho cha mẹ"
+
+#: post-types/partners-post-type.php:11
+msgid "Partners"
+msgstr "Đối tác"
+
+#: post-types/partners-post-type.php:12
+msgid "Partner"
+msgstr "Cộng sự"
+
+#: post-types/partners-post-type.php:14
+msgid "Add New Partner"
+msgstr "Thêm đối tác mới"
+
+#: post-types/partners-post-type.php:15
+msgid "Edit Partner"
+msgstr "Chỉnh sửa đối tác"
+
+#: post-types/partners-post-type.php:16
+msgid "New Partner"
+msgstr "Cộng sự mới"
+
+#: post-types/partners-post-type.php:17
+msgid "View Partner"
+msgstr "Xem đối tác"
+
+#: post-types/partners-post-type.php:18
+msgid "Search Partner"
+msgstr "Tìm kiếm đối tác"
+
+#: post-types/partners-post-type.php:19
+msgid "No Partner found"
+msgstr "Không tìm thấy đối tác"
+
+#: post-types/partners-post-type.php:20
+msgid "No Partner found in Trash"
+msgstr "Không tìm thấy đối tác nào trong Thùng rác"
+
+#: post-types/payments-post-type.php:11
+msgid "Houzez Payments"
+msgstr "Houzez Payments"
+
+#: post-types/payments-post-type.php:12
+msgid "Payment"
+msgstr "Thanh toán"
+
+#: post-types/payments-post-type.php:49
+msgid "Payment Title"
+msgstr "Tên thanh toán"
+
+#: post-types/payments-post-type.php:51
+msgid "Payment Type"
+msgstr "Hình thức thanh toán"
+
+#: post-types/payments-post-type.php:52
+msgid "Payment For"
+msgstr "Thanh toan cho"
+
+#: post-types/payments-post-type.php:133
+msgid "Recurring"
+msgstr "Định kỳ"
+
+#: post-types/payments-post-type.php:135
+msgid "One Time"
+msgstr "Một lần"
+
+#: post-types/property-post-type.php:50
+msgid "Properties"
+msgstr "Tính chất"
+
+#: post-types/property-post-type.php:51
+msgid "Property"
+msgstr "Bất động sản"
+
+#: post-types/property-post-type.php:52
+msgid "Add New Property"
+msgstr "Thêm thuộc tính mới"
+
+#: post-types/property-post-type.php:54
+msgid "Edit Property"
+msgstr "Chỉnh sửa thuộc tính"
+
+#: post-types/property-post-type.php:55
+msgid "New Property"
+msgstr "Tài sản mới"
+
+#: post-types/property-post-type.php:56
+msgid "View Property"
+msgstr "Xem thuộc tính"
+
+#: post-types/property-post-type.php:57
+msgid "Search Property"
+msgstr "Tìm kiếm"
+
+#: post-types/property-post-type.php:58 statistics/houzez-statistics.php:183
+#: statistics/houzez-statistics.php:311
+msgid "No Property found"
+msgstr "Không tìm thấy bất động sản"
+
+#: post-types/property-post-type.php:59
+msgid "No Property found in Trash"
+msgstr "Không tìm thấy bất kỳ sản phẩm nào trong Thùng rác"
+
+#: post-types/property-post-type.php:111 post-types/property-post-type.php:256
+#: statistics/houzez-statistics.php:117 statistics/houzez-statistics.php:194
+#: statistics/houzez-statistics.php:242 statistics/houzez-statistics.php:322
+#: statistics/houzez-statistics.php:410 statistics/houzez-statistics.php:581
+msgid "Type"
+msgstr "Kiểu"
+
+#: post-types/property-post-type.php:112
+msgid "Add New Type"
+msgstr "Thêm loại mới"
+
+#: post-types/property-post-type.php:113
+msgid "New Type"
+msgstr "Kiểu mới"
+
+#: post-types/property-post-type.php:130
+msgid "Features"
+msgstr "Tính năng, đặc điểm"
+
+#: post-types/property-post-type.php:131
+msgid "Add New Feature"
+msgstr "Thêm tính năng mới"
+
+#: post-types/property-post-type.php:132
+msgid "New Feature"
+msgstr "Tính năng mới"
+
+#: post-types/property-post-type.php:149
+msgid "Add New Status"
+msgstr "Thêm trạng thái mới"
+
+#: post-types/property-post-type.php:150
+msgid "New Status"
+msgstr "Trạng thái mới"
+
+#: post-types/property-post-type.php:167 post-types/property-post-type.php:255
+#: post-types/property-post-type.php:504 statistics/houzez-statistics.php:116
+#: statistics/houzez-statistics.php:193 statistics/houzez-statistics.php:241
+#: statistics/houzez-statistics.php:321
+msgid "City"
+msgstr "Thành phố"
+
+#: post-types/property-post-type.php:186 statistics/houzez-statistics.php:426
+msgid "Neighborhood"
+msgstr "Khu vực lân cận"
+
+#: post-types/property-post-type.php:187
+msgid "Add Property Neighborhood"
+msgstr "Thêm vùng lân cận thuộc tính"
+
+#: post-types/property-post-type.php:188
+msgid "New Property Neighborhood"
+msgstr "Vùng lân cận thuộc tính mới"
+
+#: post-types/property-post-type.php:204
+msgid "County / State"
+msgstr "Quận / Tiểu bang"
+
+#: post-types/property-post-type.php:205
+msgid "Add Property County / State"
+msgstr "Thêm thuộc tính County / State"
+
+#: post-types/property-post-type.php:206
+msgid "New Property County / State"
+msgstr "Quận / Nhà nước mới"
+
+#: post-types/property-post-type.php:222
+msgid "Labels"
+msgstr "Nhãn"
+
+#: post-types/property-post-type.php:223
+msgid "Add New Label"
+msgstr "Thêm nhãn mới"
+
+#: post-types/property-post-type.php:224
+msgid "New Label"
+msgstr "Nhãn mới"
+
+#: post-types/property-post-type.php:253 statistics/houzez-statistics.php:113
+#: statistics/houzez-statistics.php:190 statistics/houzez-statistics.php:238
+#: statistics/houzez-statistics.php:318
+msgid "Property Title"
+msgstr "Tiêu đề bất động sản"
+
+#: post-types/property-post-type.php:259 statistics/houzez-statistics.php:120
+#: statistics/houzez-statistics.php:197 statistics/houzez-statistics.php:245
+#: statistics/houzez-statistics.php:325
+msgid "Property ID"
+msgstr "ID thuộc tính"
+
+#: post-types/property-post-type.php:260
+msgid "Featured"
+msgstr "Đặc sắc"
+
+#: post-types/property-post-type.php:261
+msgid "Posted"
+msgstr "Đã đăng"
+
+#: post-types/property-post-type.php:262
+msgid "Expires"
+msgstr "Hết hạn"
+
+#: post-types/property-post-type.php:263 statistics/houzez-statistics.php:122
+#: statistics/houzez-statistics.php:199 statistics/houzez-statistics.php:247
+#: statistics/houzez-statistics.php:327 statistics/houzez-statistics.php:355
+#: statistics/houzez-statistics.php:558
+msgid "Actions"
+msgstr "Hành động"
+
+#: post-types/property-post-type.php:294 post-types/property-post-type.php:332
+#: post-types/property-post-type.php:341 post-types/property-post-type.php:350
+#: statistics/houzez-statistics.php:169 statistics/houzez-statistics.php:296
+msgid "NA"
+msgstr "NA"
+
+#: post-types/property-post-type.php:300
+msgid "No"
+msgstr "Không"
+
+#: post-types/property-post-type.php:302
+msgid "Yes"
+msgstr "Vâng"
+
+#: post-types/property-post-type.php:314
+msgid "No Address Provided!"
+msgstr "Không có địa chỉ nào được cung cấp!"
+
+#: post-types/property-post-type.php:365
+msgid "Approve"
+msgstr "Phê duyệt"
+
+#: post-types/property-post-type.php:372
+msgid "Expire"
+msgstr "Hết hiệu lực"
+
+#: post-types/property-post-type.php:415
+msgid "by a guest"
+msgstr "bởi một vị khách"
+
+#: post-types/property-post-type.php:415
+msgid "by %s"
+msgstr "bởi% s"
+
+#: post-types/property-post-type.php:503 post-types/property-post-type.php:540
+#: post-types/property-post-type.php:578
+msgid "Name"
+msgstr "Tên"
+
+#: post-types/property-post-type.php:506 post-types/property-post-type.php:543
+#: post-types/property-post-type.php:581
+msgid "Slug"
+msgstr "Slug"
+
+#: post-types/property-post-type.php:507 post-types/property-post-type.php:544
+#: post-types/property-post-type.php:582
+msgid "Posts"
+msgstr "Bài đăng"
+
+#: post-types/property-post-type.php:541
+msgid "County/State"
+msgstr "Quận / Tiểu bang"
+
+#: post-types/property-post-type.php:579 statistics/houzez-statistics.php:584
+msgid "Country"
+msgstr "Quốc gia"
+
+#: post-types/property-post-type.php:751
+msgid "All Types"
+msgstr "Các loại"
+
+#: post-types/property-post-type.php:786
+msgid "All Status"
+msgstr "Tất cả các trạng thái"
+
+#: post-types/property-post-type.php:821
+msgid "All Labels"
+msgstr "Tất cả nhãn"
+
+#: post-types/property-post-type.php:856
+msgid "All Cities"
+msgstr "Tất cả các thành phố"
+
+#: post-types/testimonials-post-type.php:43
+msgid "Testimonials"
+msgstr "Lời chứng thực"
+
+#: post-types/testimonials-post-type.php:44
+msgid "Testimonial"
+msgstr "Lời chứng thực"
+
+#: post-types/testimonials-post-type.php:46
+msgid "Add New Testimonial"
+msgstr "Thêm lời chứng thực mới"
+
+#: post-types/testimonials-post-type.php:47
+msgid "Edit Testimonial"
+msgstr "Chỉnh sửa lời chứng thực"
+
+#: post-types/testimonials-post-type.php:48
+msgid "New Testimonial"
+msgstr "Lời chứng thực mới"
+
+#: post-types/testimonials-post-type.php:49
+msgid "View Testimonial"
+msgstr "Xem lời chứng thực"
+
+#: post-types/testimonials-post-type.php:51
+msgid "No Testimonial found"
+msgstr "Không tìm thấy lời chứng thực"
+
+#: post-types/testimonials-post-type.php:52
+msgid "No Testimonial found in Trash"
+msgstr "Không tìm thấy lời chứng thực trong Thùng rác"
+
+#: post-types/user-packages-post-type.php:31
+msgid "Users Package Info"
+msgstr "Thông tin gói người dùng"
+
+#: post-types/user-packages-post-type.php:62
+msgid "Package Holder"
+msgstr "Người giữ gói"
+
+#: post-types/user-packages-post-type.php:63
+msgid "Package"
+msgstr "Gói"
+
+#: post-types/user-packages-post-type.php:64
+msgid "Available Listings"
+msgstr "Danh sách có sẵn"
+
+#: post-types/user-packages-post-type.php:65
+msgid "Featured Available"
+msgstr "Có sẵn"
+
+#: post-types/user-packages-post-type.php:66
+msgid "Activation"
+msgstr "Kích hoạt"
+
+#: post-types/user-packages-post-type.php:67
+msgid "Expiry"
+msgstr "Hết hạn"
+
+#: statistics/houzez-statistics.php:9
+msgid "Houzez Statistics"
+msgstr "Thống kê Houzez"
+
+#: statistics/houzez-statistics.php:10 statistics/houzez-statistics.php:108
+msgid "Most Viewed Properties"
+msgstr "Thuộc tính được xem nhiều nhất"
+
+#: statistics/houzez-statistics.php:10
+msgid "Most Viewed"
+msgstr "Xem nhiều nhất"
+
+#: statistics/houzez-statistics.php:11 statistics/houzez-statistics.php:233
+msgid "Most Favourite Properties"
+msgstr "Thuộc tính yêu thích nhất"
+
+#: statistics/houzez-statistics.php:11
+msgid "Most Favourite"
+msgstr "Yêu thích nhất"
+
+#: statistics/houzez-statistics.php:12 statistics/houzez-statistics.php:348
+msgid "Saved Searches"
+msgstr "Tìm kiếm đã lưu"
+
+#: statistics/houzez-statistics.php:40 statistics/houzez-statistics.php:95
+#: statistics/houzez-statistics.php:215 statistics/houzez-statistics.php:343
+#: statistics/houzez-statistics.php:574
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Bạn không có đủ quyền để truy cập trang này."
+
+#: statistics/houzez-statistics.php:48
+msgid "Houzez Statistic"
+msgstr "Thống kê Houzez"
+
+#: statistics/houzez-statistics.php:52 statistics/houzez-statistics.php:78
+msgid "Total Views Today"
+msgstr "Tổng số lượt xem hôm nay"
+
+#: statistics/houzez-statistics.php:54
+msgid "Users"
+msgstr "Người dùng"
+
+#: statistics/houzez-statistics.php:59
+msgid "Buyers"
+msgstr "Người mua"
+
+#: statistics/houzez-statistics.php:65
+msgid "Sellers"
+msgstr "Người bán"
+
+#: statistics/houzez-statistics.php:68
+msgid "Owners"
+msgstr "Chủ sở hữu"
+
+#: statistics/houzez-statistics.php:71
+msgid "Managers"
+msgstr "Người quản lý"
+
+#: statistics/houzez-statistics.php:121 statistics/houzez-statistics.php:198
+msgid "Views Count"
+msgstr "Lượt xem"
+
+#: statistics/houzez-statistics.php:177 statistics/houzez-statistics.php:304
+#: statistics/houzez-statistics.php:541
+msgid "View"
+msgstr "Lượt xem"
+
+#: statistics/houzez-statistics.php:246
+msgid "Favourite Count "
+msgstr "Số lượng yêu thích"
+
+#: statistics/houzez-statistics.php:326
+msgid "Favourite Count"
+msgstr "Số lượng yêu thích"
+
+#: statistics/houzez-statistics.php:353 statistics/houzez-statistics.php:556
+msgid "Search Query"
+msgstr "Truy vấn tìm kiếm"
+
+#: statistics/houzez-statistics.php:402 statistics/houzez-statistics.php:582
+msgid "Location"
+msgstr "Vị trí"
+
+#: statistics/houzez-statistics.php:434 statistics/houzez-statistics.php:583
+msgid "State"
+msgstr "Tiểu bang"
+
+#: statistics/houzez-statistics.php:494
+msgid "Bedrooms"
+msgstr "Phòng ngủ"
+
+#: statistics/houzez-statistics.php:499
+msgid "Bathrooms"
+msgstr "Phòng tắm"
+
+#: statistics/houzez-statistics.php:517 statistics/houzez-statistics.php:520
+msgid "Size"
+msgstr "Kích thước"
+
+#: statistics/houzez-statistics.php:548
+msgid "No Search found"
+msgstr "Không tìm thấy"
+
+#: statistics/houzez-statistics.php:578
+msgid "Min Price"
+msgstr "Giá tối thiểu"
+
+#: statistics/houzez-statistics.php:579
+msgid "Max Price"
+msgstr "Giá tối đa"
+
+#: statistics/houzez-statistics.php:585
+msgid "Area"
+msgstr "Khu vực"
+
+#: statistics/houzez-statistics.php:586
+msgid "Feature"
+msgstr "Đặc tính"
+
+#: statistics/houzez-statistics.php:587 statistics/houzez-statistics.php:588
+msgid "Max Size"
+msgstr "Kích thước tối đa"
+
+#: statistics/houzez-statistics.php:589
+msgid "Bedroom"
+msgstr "Phòng ngủ"
+
+#: statistics/houzez-statistics.php:590
+msgid "Bathroom"
+msgstr "Phòng tắm"
+
+#: statistics/houzez-statistics.php:596
+msgid "Houzez Searches"
+msgstr "Tìm kiếm Houzez"
+
+#: statistics/houzez-statistics.php:601
+msgid "Search Keyworks"
+msgstr "Tìm kiếm Keyworks"
+
+#: vc_shortcodes/properties.php:93
+msgid "Load More"
+msgstr "Tải thêm"

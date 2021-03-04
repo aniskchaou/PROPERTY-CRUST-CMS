@@ -1,0 +1,858 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Functionality Plugin\n"
+"Language: pl\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: classes/class-settings.php:53
+msgid "Portfolio Settings"
+msgstr "Ustawienia portfela"
+
+#: classes/class-settings.php:54
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: classes/class-settings.php:83
+msgid "Permalinks"
+msgstr "Permalinki"
+
+#: classes/class-settings.php:86
+msgid "Property Slug"
+msgstr "Nieruchomość Slug"
+
+#: classes/class-settings.php:87
+msgid "Property Type Slug"
+msgstr "Właściwość Typ Slug"
+
+#: classes/class-settings.php:88
+msgid "Property Feature Slug"
+msgstr "Właściwość Slug"
+
+#: classes/class-settings.php:89
+msgid "Property Status Slug"
+msgstr "Właściwość Status Slug"
+
+#: classes/class-settings.php:90
+msgid "Property Area Slug"
+msgstr "Nieruchomość Area Slug"
+
+#: classes/class-settings.php:91
+msgid "Property City Slug"
+msgstr "Nieruchomość City Slug"
+
+#: classes/class-settings.php:92
+msgid "Property State Slug"
+msgstr "Property State Slug"
+
+#: classes/class-settings.php:105
+msgid "Set up custom permalinks for the property section on your site."
+msgstr "Skonfiguruj niestandardowe linki bezpośrednie dla sekcji właściwości swojej witryny."
+
+#: classes/class-settings.php:236
+msgid "Properties Settings"
+msgstr "Ustawienia właściwości"
+
+#: classes/class-settings.php:243
+msgid "Update Settings"
+msgstr "Ustawienia aktualizacji"
+
+#: functions.php:30
+msgid "Activated Successfully, reload page!"
+msgstr "Aktywowano pomyślnie, odśwież stronę!"
+
+#: functions.php:32
+msgid "Invalid license key"
+msgstr "Nieprawidłowy klucz licencyjny"
+
+#: post-types/agency-post-type.php:36 post-types/agency-post-type.php:42
+#: post-types/agency-post-type.php:48 statistics/houzez-statistics.php:62
+msgid "Agencies"
+msgstr "Agencje"
+
+#: post-types/agency-post-type.php:37
+msgid "Agency"
+msgstr "Agencja"
+
+#: post-types/agency-post-type.php:38 post-types/agency-post-type.php:39
+msgid "Add New Agency"
+msgstr "Dodaj nową agencję"
+
+#: post-types/agency-post-type.php:40
+msgid "Edit Agency"
+msgstr "Edytuj agencję"
+
+#: post-types/agency-post-type.php:41
+msgid "New Agency"
+msgstr "Nowa agencja"
+
+#: post-types/agency-post-type.php:43
+msgid "View Agency"
+msgstr "Wyświetl agencję"
+
+#: post-types/agency-post-type.php:44
+msgid "Search Agency"
+msgstr "Agencja wyszukiwania"
+
+#: post-types/agency-post-type.php:45
+msgid "No agencies found"
+msgstr "Nie znaleziono agencji"
+
+#: post-types/agency-post-type.php:46
+msgid "No agencies found in Trash"
+msgstr "W koszu nie znaleziono żadnych agencji"
+
+#: post-types/agency-post-type.php:79
+msgid "Agency ID"
+msgstr "Identyfikator agencji"
+
+#: post-types/agency-post-type.php:80 post-types/user-packages-post-type.php:61
+msgid "Title"
+msgstr "Tytuł"
+
+#: post-types/agency-post-type.php:81
+msgid "License"
+msgstr "Licencja"
+
+#: post-types/agency-post-type.php:82 post-types/property-post-type.php:254
+#: statistics/houzez-statistics.php:115 statistics/houzez-statistics.php:192
+#: statistics/houzez-statistics.php:240 statistics/houzez-statistics.php:320
+msgid "Thumbnail"
+msgstr "Miniaturka"
+
+#: post-types/agency-post-type.php:83 post-types/agent-post-type.php:115
+msgid "E-mail"
+msgstr "E-mail"
+
+#: post-types/agency-post-type.php:84 post-types/agent-post-type.php:116
+msgid "Web"
+msgstr "Sieć"
+
+#: post-types/agency-post-type.php:85
+msgid "Phone"
+msgstr "Telefon"
+
+#: post-types/agency-post-type.php:86 post-types/agent-post-type.php:30
+#: statistics/houzez-statistics.php:56
+msgid "Agents"
+msgstr "Agenci"
+
+#: post-types/agency-post-type.php:87
+msgid "Author"
+msgstr "Autor"
+
+#: post-types/agent-post-type.php:31
+msgid "Agent"
+msgstr "Agent"
+
+#: post-types/agent-post-type.php:32 post-types/invoice-post-type.php:14
+#: post-types/partners-post-type.php:13 post-types/payments-post-type.php:13
+#: post-types/payments-post-type.php:14 post-types/property-post-type.php:53
+#: post-types/testimonials-post-type.php:45
+#: post-types/user-packages-post-type.php:33
+#: post-types/user-packages-post-type.php:34
+msgid "Add New"
+msgstr "Dodaj nowe"
+
+#: post-types/agent-post-type.php:33
+msgid "Add New Agent"
+msgstr "Dodaj nowego agenta"
+
+#: post-types/agent-post-type.php:34
+msgid "Edit Agent"
+msgstr "Edytuj agenta"
+
+#: post-types/agent-post-type.php:35
+msgid "New Agent"
+msgstr "Nowy agent"
+
+#: post-types/agent-post-type.php:36
+msgid "View Agent"
+msgstr "Wyświetl agenta"
+
+#: post-types/agent-post-type.php:37 post-types/testimonials-post-type.php:50
+msgid "Search Agent"
+msgstr "Agent wyszukiwania"
+
+#: post-types/agent-post-type.php:38
+msgid "No Agent found"
+msgstr "Nie znaleziono agenta"
+
+#: post-types/agent-post-type.php:39
+msgid "No Agent found in Trash"
+msgstr "W koszu nie znaleziono agenta"
+
+#: post-types/agent-post-type.php:70
+msgid "Categories"
+msgstr "Kategorie"
+
+#: post-types/agent-post-type.php:71
+msgid "Add New Category"
+msgstr "Dodaj nową kategorię"
+
+#: post-types/agent-post-type.php:72
+msgid "New Category"
+msgstr "Nowa kategoria"
+
+#: post-types/agent-post-type.php:88
+msgid "Cities"
+msgstr "Miasta"
+
+#: post-types/agent-post-type.php:89 post-types/property-post-type.php:168
+msgid "Add New City"
+msgstr "Dodaj nowe miasto"
+
+#: post-types/agent-post-type.php:90 post-types/property-post-type.php:169
+msgid "New City"
+msgstr "Nowe Miasto"
+
+#: post-types/agent-post-type.php:111
+msgid "Agent ID"
+msgstr "Identyfikator agenta"
+
+#: post-types/agent-post-type.php:112
+msgid "Agent Name"
+msgstr "Imię agenta"
+
+#: post-types/agent-post-type.php:113
+msgid "Picture"
+msgstr "Obrazek"
+
+#: post-types/agent-post-type.php:114
+msgid "Category"
+msgstr "Kategoria"
+
+#: post-types/agent-post-type.php:117
+msgid "Mobile"
+msgstr "mobilny"
+
+#: post-types/invoice-post-type.php:12
+msgid "Houzez Invoices"
+msgstr "Faktury Houzeza"
+
+#: post-types/invoice-post-type.php:13
+msgid "Houzez Invoice"
+msgstr "Faktura Houzeza"
+
+#: post-types/invoice-post-type.php:15
+msgid "Add New Invoice"
+msgstr "Dodaj nową fakturę"
+
+#: post-types/invoice-post-type.php:16
+msgid "Edit Invoice"
+msgstr "Edytuj fakturę"
+
+#: post-types/invoice-post-type.php:17
+msgid "New Invoice"
+msgstr "Nowa faktura"
+
+#: post-types/invoice-post-type.php:18
+msgid "View Invoice"
+msgstr "Widok faktury"
+
+#: post-types/invoice-post-type.php:19
+msgid "Search Invoice"
+msgstr "Wyszukaj fakturę"
+
+#: post-types/invoice-post-type.php:20
+msgid "No Invoice found"
+msgstr "Nie znaleziono faktury"
+
+#: post-types/invoice-post-type.php:21
+msgid "No Invoice found in Trash"
+msgstr "Nie znaleziono faktury w koszu"
+
+#: post-types/invoice-post-type.php:57
+msgid "Invoice Title"
+msgstr "Tytuł faktury"
+
+#: post-types/invoice-post-type.php:58 post-types/payments-post-type.php:50
+#: post-types/property-post-type.php:258 statistics/houzez-statistics.php:119
+#: statistics/houzez-statistics.php:196 statistics/houzez-statistics.php:244
+#: statistics/houzez-statistics.php:324 statistics/houzez-statistics.php:506
+#: statistics/houzez-statistics.php:509
+msgid "Price"
+msgstr "Cena £"
+
+#: post-types/invoice-post-type.php:59
+msgid "Payment Method"
+msgstr "Metoda płatności"
+
+#: post-types/invoice-post-type.php:60 post-types/payments-post-type.php:53
+msgid "Buyer"
+msgstr "Kupujący"
+
+#: post-types/invoice-post-type.php:61
+msgid "Buyer Email"
+msgstr "E-mail kupującego"
+
+#: post-types/invoice-post-type.php:62
+msgid "Invoice Type"
+msgstr "Typ faktury"
+
+#: post-types/invoice-post-type.php:63
+msgid "Billion For"
+msgstr "Miliard dla"
+
+#: post-types/invoice-post-type.php:64 post-types/payments-post-type.php:54
+#: post-types/property-post-type.php:148 post-types/property-post-type.php:257
+#: statistics/houzez-statistics.php:118 statistics/houzez-statistics.php:195
+#: statistics/houzez-statistics.php:243 statistics/houzez-statistics.php:323
+#: statistics/houzez-statistics.php:418 statistics/houzez-statistics.php:580
+msgid "Status"
+msgstr "Status"
+
+#: post-types/invoice-post-type.php:65 post-types/payments-post-type.php:55
+msgid "Date"
+msgstr "Data"
+
+#: post-types/invoice-post-type.php:87
+msgid "Direct Bank Transfer"
+msgstr "Bezpośredni przelew bankowy"
+
+#: post-types/invoice-post-type.php:114 post-types/payments-post-type.php:91
+msgid "Not Paid"
+msgstr "Niezapłacone"
+
+#: post-types/invoice-post-type.php:116 post-types/payments-post-type.php:93
+msgid "Paid"
+msgstr "Płatny"
+
+#: post-types/membership-post-type.php:17
+msgid "Houzez Packages"
+msgstr "Pakiety Houzeza"
+
+#: post-types/membership-post-type.php:18
+#: post-types/user-packages-post-type.php:32
+msgid "Packages"
+msgstr "Pakiety"
+
+#: post-types/membership-post-type.php:19
+msgid "Add New Package"
+msgstr "Dodaj nowy pakiet"
+
+#: post-types/membership-post-type.php:20
+msgid "Add Packages"
+msgstr "Dodaj pakiety"
+
+#: post-types/membership-post-type.php:21
+msgid "Edit Packages"
+msgstr "Edytuj pakiety"
+
+#: post-types/membership-post-type.php:22
+msgid "Edit Package"
+msgstr "Edytuj pakiet"
+
+#: post-types/membership-post-type.php:23
+msgid "New Packages"
+msgstr "Nowe pakiety"
+
+#: post-types/membership-post-type.php:24
+#: post-types/membership-post-type.php:25
+msgid "View Packages"
+msgstr "Zobacz pakiety"
+
+#: post-types/membership-post-type.php:26
+msgid "Search Packages"
+msgstr "Wyszukaj pakiety"
+
+#: post-types/membership-post-type.php:27
+#: post-types/membership-post-type.php:28
+msgid "No Packages found"
+msgstr "Nie znaleziono pakietów"
+
+#: post-types/membership-post-type.php:29
+msgid "Parent Package"
+msgstr "Pakiet dla rodziców"
+
+#: post-types/partners-post-type.php:11
+msgid "Partners"
+msgstr "Wzmacniacz"
+
+#: post-types/partners-post-type.php:12
+msgid "Partner"
+msgstr "Partner"
+
+#: post-types/partners-post-type.php:14
+msgid "Add New Partner"
+msgstr "Dodaj nowego partnera"
+
+#: post-types/partners-post-type.php:15
+msgid "Edit Partner"
+msgstr "Edytuj partnera"
+
+#: post-types/partners-post-type.php:16
+msgid "New Partner"
+msgstr "Nowy partner"
+
+#: post-types/partners-post-type.php:17
+msgid "View Partner"
+msgstr "Wyświetl partnera"
+
+#: post-types/partners-post-type.php:18
+msgid "Search Partner"
+msgstr "Wyszukaj partnera"
+
+#: post-types/partners-post-type.php:19
+msgid "No Partner found"
+msgstr "Nie znaleziono partnera"
+
+#: post-types/partners-post-type.php:20
+msgid "No Partner found in Trash"
+msgstr "Nie znaleziono partnera w koszu"
+
+#: post-types/payments-post-type.php:11
+msgid "Houzez Payments"
+msgstr "Houzez Payments"
+
+#: post-types/payments-post-type.php:12
+msgid "Payment"
+msgstr "Zapłata"
+
+#: post-types/payments-post-type.php:49
+msgid "Payment Title"
+msgstr "Tytuł płatności"
+
+#: post-types/payments-post-type.php:51
+msgid "Payment Type"
+msgstr "Typ płatności"
+
+#: post-types/payments-post-type.php:52
+msgid "Payment For"
+msgstr "Zapłata za"
+
+#: post-types/payments-post-type.php:133
+msgid "Recurring"
+msgstr "Powtarzające się"
+
+#: post-types/payments-post-type.php:135
+msgid "One Time"
+msgstr "Jeden raz"
+
+#: post-types/property-post-type.php:50
+msgid "Properties"
+msgstr "Nieruchomości"
+
+#: post-types/property-post-type.php:51
+msgid "Property"
+msgstr "własność"
+
+#: post-types/property-post-type.php:52
+msgid "Add New Property"
+msgstr "Dodaj nową właściwość"
+
+#: post-types/property-post-type.php:54
+msgid "Edit Property"
+msgstr "Edytuj właściwość"
+
+#: post-types/property-post-type.php:55
+msgid "New Property"
+msgstr "Nowa właściwość"
+
+#: post-types/property-post-type.php:56
+msgid "View Property"
+msgstr "Wyświetl właściwość"
+
+#: post-types/property-post-type.php:57
+msgid "Search Property"
+msgstr "Wyszukaj właściwość"
+
+#: post-types/property-post-type.php:58 statistics/houzez-statistics.php:183
+#: statistics/houzez-statistics.php:311
+msgid "No Property found"
+msgstr "Nie znaleziono nieruchomości"
+
+#: post-types/property-post-type.php:59
+msgid "No Property found in Trash"
+msgstr "Nie znaleziono nieruchomości w koszu"
+
+#: post-types/property-post-type.php:111 post-types/property-post-type.php:256
+#: statistics/houzez-statistics.php:117 statistics/houzez-statistics.php:194
+#: statistics/houzez-statistics.php:242 statistics/houzez-statistics.php:322
+#: statistics/houzez-statistics.php:410 statistics/houzez-statistics.php:581
+msgid "Type"
+msgstr "Rodzaj"
+
+#: post-types/property-post-type.php:112
+msgid "Add New Type"
+msgstr "Dodaj nowy typ"
+
+#: post-types/property-post-type.php:113
+msgid "New Type"
+msgstr "Nowy typ"
+
+#: post-types/property-post-type.php:130
+msgid "Features"
+msgstr "cechy"
+
+#: post-types/property-post-type.php:131
+msgid "Add New Feature"
+msgstr "Dodaj nową funkcję"
+
+#: post-types/property-post-type.php:132
+msgid "New Feature"
+msgstr "Nowa cecha"
+
+#: post-types/property-post-type.php:149
+msgid "Add New Status"
+msgstr "Dodaj nowy status"
+
+#: post-types/property-post-type.php:150
+msgid "New Status"
+msgstr "Nowy status"
+
+#: post-types/property-post-type.php:167 post-types/property-post-type.php:255
+#: post-types/property-post-type.php:504 statistics/houzez-statistics.php:116
+#: statistics/houzez-statistics.php:193 statistics/houzez-statistics.php:241
+#: statistics/houzez-statistics.php:321
+msgid "City"
+msgstr "Miasto"
+
+#: post-types/property-post-type.php:186 statistics/houzez-statistics.php:426
+msgid "Neighborhood"
+msgstr "Sąsiedztwo"
+
+#: post-types/property-post-type.php:187
+msgid "Add Property Neighborhood"
+msgstr "Dodaj otoczenie nieruchomości"
+
+#: post-types/property-post-type.php:188
+msgid "New Property Neighborhood"
+msgstr "Nowe sąsiedztwo nieruchomości"
+
+#: post-types/property-post-type.php:204
+msgid "County / State"
+msgstr "Powiat / państwo"
+
+#: post-types/property-post-type.php:205
+msgid "Add Property County / State"
+msgstr "Dodaj właściwość County / State"
+
+#: post-types/property-post-type.php:206
+msgid "New Property County / State"
+msgstr "Nowa hrabstwo / stan nieruchomości"
+
+#: post-types/property-post-type.php:222
+msgid "Labels"
+msgstr "Etykiety"
+
+#: post-types/property-post-type.php:223
+msgid "Add New Label"
+msgstr "Dodaj nową etykietę"
+
+#: post-types/property-post-type.php:224
+msgid "New Label"
+msgstr "Nowa etykieta"
+
+#: post-types/property-post-type.php:253 statistics/houzez-statistics.php:113
+#: statistics/houzez-statistics.php:190 statistics/houzez-statistics.php:238
+#: statistics/houzez-statistics.php:318
+msgid "Property Title"
+msgstr "Tytuł własności"
+
+#: post-types/property-post-type.php:259 statistics/houzez-statistics.php:120
+#: statistics/houzez-statistics.php:197 statistics/houzez-statistics.php:245
+#: statistics/houzez-statistics.php:325
+msgid "Property ID"
+msgstr "ID nieruchomości"
+
+#: post-types/property-post-type.php:260
+msgid "Featured"
+msgstr "Opisany"
+
+#: post-types/property-post-type.php:261
+msgid "Posted"
+msgstr "Wysłane"
+
+#: post-types/property-post-type.php:262
+msgid "Expires"
+msgstr "Wygasa"
+
+#: post-types/property-post-type.php:263 statistics/houzez-statistics.php:122
+#: statistics/houzez-statistics.php:199 statistics/houzez-statistics.php:247
+#: statistics/houzez-statistics.php:327 statistics/houzez-statistics.php:355
+#: statistics/houzez-statistics.php:558
+msgid "Actions"
+msgstr "działania"
+
+#: post-types/property-post-type.php:294 post-types/property-post-type.php:332
+#: post-types/property-post-type.php:341 post-types/property-post-type.php:350
+#: statistics/houzez-statistics.php:169 statistics/houzez-statistics.php:296
+msgid "NA"
+msgstr "NA"
+
+#: post-types/property-post-type.php:300
+msgid "No"
+msgstr "Nie"
+
+#: post-types/property-post-type.php:302
+msgid "Yes"
+msgstr "tak"
+
+#: post-types/property-post-type.php:314
+msgid "No Address Provided!"
+msgstr "Nie podano adresu!"
+
+#: post-types/property-post-type.php:365
+msgid "Approve"
+msgstr "Zatwierdzać"
+
+#: post-types/property-post-type.php:372
+msgid "Expire"
+msgstr "Wygasać"
+
+#: post-types/property-post-type.php:415
+msgid "by a guest"
+msgstr "przez gościa"
+
+#: post-types/property-post-type.php:415
+msgid "by %s"
+msgstr "przez% s"
+
+#: post-types/property-post-type.php:503 post-types/property-post-type.php:540
+#: post-types/property-post-type.php:578
+msgid "Name"
+msgstr "Nazwa"
+
+#: post-types/property-post-type.php:506 post-types/property-post-type.php:543
+#: post-types/property-post-type.php:581
+msgid "Slug"
+msgstr "Ślimak"
+
+#: post-types/property-post-type.php:507 post-types/property-post-type.php:544
+#: post-types/property-post-type.php:582
+msgid "Posts"
+msgstr "Posty"
+
+#: post-types/property-post-type.php:541
+msgid "County/State"
+msgstr "Powiat / państwo"
+
+#: post-types/property-post-type.php:579 statistics/houzez-statistics.php:584
+msgid "Country"
+msgstr "Kraj"
+
+#: post-types/property-post-type.php:751
+msgid "All Types"
+msgstr "Wszystkie typy"
+
+#: post-types/property-post-type.php:786
+msgid "All Status"
+msgstr "Cały status"
+
+#: post-types/property-post-type.php:821
+msgid "All Labels"
+msgstr "Wszystkie etykiety"
+
+#: post-types/property-post-type.php:856
+msgid "All Cities"
+msgstr "Wszystkie miasta"
+
+#: post-types/testimonials-post-type.php:43
+msgid "Testimonials"
+msgstr "Referencje"
+
+#: post-types/testimonials-post-type.php:44
+msgid "Testimonial"
+msgstr "Zaświadczenie"
+
+#: post-types/testimonials-post-type.php:46
+msgid "Add New Testimonial"
+msgstr "Dodaj nowy komentarz"
+
+#: post-types/testimonials-post-type.php:47
+msgid "Edit Testimonial"
+msgstr "Edytuj opinię"
+
+#: post-types/testimonials-post-type.php:48
+msgid "New Testimonial"
+msgstr "Nowa opinia"
+
+#: post-types/testimonials-post-type.php:49
+msgid "View Testimonial"
+msgstr "Zobacz referencje"
+
+#: post-types/testimonials-post-type.php:51
+msgid "No Testimonial found"
+msgstr "Nie znaleziono referencji"
+
+#: post-types/testimonials-post-type.php:52
+msgid "No Testimonial found in Trash"
+msgstr "W Koszu nie znaleziono żadnej rekomendacji"
+
+#: post-types/user-packages-post-type.php:31
+msgid "Users Package Info"
+msgstr "Informacje o pakiecie użytkowników"
+
+#: post-types/user-packages-post-type.php:62
+msgid "Package Holder"
+msgstr "Właściciel paczki"
+
+#: post-types/user-packages-post-type.php:63
+msgid "Package"
+msgstr "Pakiet"
+
+#: post-types/user-packages-post-type.php:64
+msgid "Available Listings"
+msgstr "Dostępne oferty"
+
+#: post-types/user-packages-post-type.php:65
+msgid "Featured Available"
+msgstr "Dostępne dostępne"
+
+#: post-types/user-packages-post-type.php:66
+msgid "Activation"
+msgstr "Aktywacja"
+
+#: post-types/user-packages-post-type.php:67
+msgid "Expiry"
+msgstr "Wygaśnięcie"
+
+#: statistics/houzez-statistics.php:9
+msgid "Houzez Statistics"
+msgstr "Statystyki Houzeza"
+
+#: statistics/houzez-statistics.php:10 statistics/houzez-statistics.php:108
+msgid "Most Viewed Properties"
+msgstr "Najczęściej oglądane właściwości"
+
+#: statistics/houzez-statistics.php:10
+msgid "Most Viewed"
+msgstr "Najczęściej oglądane"
+
+#: statistics/houzez-statistics.php:11 statistics/houzez-statistics.php:233
+msgid "Most Favourite Properties"
+msgstr "Najbardziej ulubione właściwości"
+
+#: statistics/houzez-statistics.php:11
+msgid "Most Favourite"
+msgstr "Najbardziej ulubione"
+
+#: statistics/houzez-statistics.php:12 statistics/houzez-statistics.php:348
+msgid "Saved Searches"
+msgstr "Zapisane wyszukiwania"
+
+#: statistics/houzez-statistics.php:40 statistics/houzez-statistics.php:95
+#: statistics/houzez-statistics.php:215 statistics/houzez-statistics.php:343
+#: statistics/houzez-statistics.php:574
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nie masz wystarczających uprawnień, aby uzyskać dostęp do tej strony."
+
+#: statistics/houzez-statistics.php:48
+msgid "Houzez Statistic"
+msgstr "Statystyki Houzeza"
+
+#: statistics/houzez-statistics.php:52 statistics/houzez-statistics.php:78
+msgid "Total Views Today"
+msgstr "Łączne wyświetlenia dzisiaj"
+
+#: statistics/houzez-statistics.php:54
+msgid "Users"
+msgstr "Użytkownicy"
+
+#: statistics/houzez-statistics.php:59
+msgid "Buyers"
+msgstr "Kupujący"
+
+#: statistics/houzez-statistics.php:65
+msgid "Sellers"
+msgstr "Sprzedawców"
+
+#: statistics/houzez-statistics.php:68
+msgid "Owners"
+msgstr "Właściciele"
+
+#: statistics/houzez-statistics.php:71
+msgid "Managers"
+msgstr "Menedżerowie"
+
+#: statistics/houzez-statistics.php:121 statistics/houzez-statistics.php:198
+msgid "Views Count"
+msgstr "Liczba wyświetleń"
+
+#: statistics/houzez-statistics.php:177 statistics/houzez-statistics.php:304
+#: statistics/houzez-statistics.php:541
+msgid "View"
+msgstr "Widok"
+
+#: statistics/houzez-statistics.php:246
+msgid "Favourite Count "
+msgstr "Ulubiona liczba"
+
+#: statistics/houzez-statistics.php:326
+msgid "Favourite Count"
+msgstr "Ulubiona liczba"
+
+#: statistics/houzez-statistics.php:353 statistics/houzez-statistics.php:556
+msgid "Search Query"
+msgstr "Wyszukiwana fraza"
+
+#: statistics/houzez-statistics.php:402 statistics/houzez-statistics.php:582
+msgid "Location"
+msgstr "Lokalizacja"
+
+#: statistics/houzez-statistics.php:434 statistics/houzez-statistics.php:583
+msgid "State"
+msgstr "Stan"
+
+#: statistics/houzez-statistics.php:494
+msgid "Bedrooms"
+msgstr "Sypialnie"
+
+#: statistics/houzez-statistics.php:499
+msgid "Bathrooms"
+msgstr "Łazienki"
+
+#: statistics/houzez-statistics.php:517 statistics/houzez-statistics.php:520
+msgid "Size"
+msgstr "Rozmiar"
+
+#: statistics/houzez-statistics.php:548
+msgid "No Search found"
+msgstr "Nie znaleziono szukania"
+
+#: statistics/houzez-statistics.php:578
+msgid "Min Price"
+msgstr "Cena minimalna"
+
+#: statistics/houzez-statistics.php:579
+msgid "Max Price"
+msgstr "Maksymalna cena"
+
+#: statistics/houzez-statistics.php:585
+msgid "Area"
+msgstr "Powierzchnia"
+
+#: statistics/houzez-statistics.php:586
+msgid "Feature"
+msgstr "Cecha"
+
+#: statistics/houzez-statistics.php:587 statistics/houzez-statistics.php:588
+msgid "Max Size"
+msgstr "Największy rozmiar"
+
+#: statistics/houzez-statistics.php:589
+msgid "Bedroom"
+msgstr "Sypialnia"
+
+#: statistics/houzez-statistics.php:590
+msgid "Bathroom"
+msgstr "Łazienka"
+
+#: statistics/houzez-statistics.php:596
+msgid "Houzez Searches"
+msgstr "Wyszukiwanie Houzeza"
+
+#: statistics/houzez-statistics.php:601
+msgid "Search Keyworks"
+msgstr "Wyszukaj Keyworks"
+
+#: vc_shortcodes/properties.php:93
+msgid "Load More"
+msgstr "Załaduj więcej"

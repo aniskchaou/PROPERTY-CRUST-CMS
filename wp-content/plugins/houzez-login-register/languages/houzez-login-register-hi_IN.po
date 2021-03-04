@@ -1,0 +1,165 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Login Register\n"
+"Language: hi\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: functions/login_register.php:39 functions/login_register.php:115
+#: functions/login_register.php:229
+msgid "The username field is empty."
+msgstr "उपयोगकर्ता नाम फ़ील्ड खाली है।."
+
+#: functions/login_register.php:43
+msgid "The password field is empty."
+msgstr "पासवर्ड फ़ील्ड खाली है।."
+
+#: functions/login_register.php:47 functions/login_register.php:426
+msgid "Invalid username"
+msgstr "अमान्य उपयोगकर्ता नाम"
+
+#: functions/login_register.php:66
+msgid "The password you entered for the username <strong>%s</strong> is incorrect."
+msgstr "उपयोगकर्ता नाम <strong>% s </ strong> के लिए दर्ज किया गया पासवर्ड गलत है।."
+
+#: functions/login_register.php:77
+msgid "Login successful, redirecting..."
+msgstr "लॉग इन सफल, पुनर्निर्देशित ..."
+
+#: functions/login_register.php:110
+msgid "You need to agree with terms & conditions."
+msgstr "आपको नियम और शर्तों से सहमत होना चाहिए।."
+
+#: functions/login_register.php:119 functions/login_register.php:237
+msgid "Minimum 3 characters required"
+msgstr "न्यूनतम 3 वर्णों की आवश्यकता है"
+
+#: functions/login_register.php:123 functions/login_register.php:241
+msgid "Invalid username (do not use special characters or spaces)!"
+msgstr "अमान्य उपयोगकर्ता नाम (विशेष वर्ण या रिक्त स्थान का उपयोग न करें)!"
+
+#: functions/login_register.php:127 functions/login_register.php:233
+msgid "This username is already registered."
+msgstr "यह प्रयोक्ता नाम पहले से ही पंजीकृत है।."
+
+#: functions/login_register.php:131 functions/login_register.php:245
+msgid "The email field is empty."
+msgstr "ईमेल फ़ील्ड खाली है।."
+
+#: functions/login_register.php:136 functions/login_register.php:250
+msgid "This email address is already registered."
+msgstr "यह ईमेल पता पहले से पंजीकृत है।."
+
+#: functions/login_register.php:141 functions/login_register.php:255
+msgid "Invalid email address."
+msgstr "अमान्य ईमेल पता।."
+
+#: functions/login_register.php:150
+msgid "One of the password field is empty!"
+msgstr "पासवर्ड फ़ील्ड में से एक खाली है!"
+
+#: functions/login_register.php:155
+msgid "Passwords do not match"
+msgstr "पासवर्ड मेल नहीं खाते"
+
+#: functions/login_register.php:177
+msgid "Your account was created and you can login now!"
+msgstr "आपका खाता बनाया गया था और अब आप लॉगिन कर सकते हैं!"
+
+#: functions/login_register.php:179
+msgid "An email with the generated password was sent!"
+msgstr "जेनरेट किए गए पासवर्ड के साथ एक ईमेल भेजा गया था!"
+
+#: functions/login_register.php:260
+msgid "The passowrd field is empty."
+msgstr "पासवर्ड फ़ील्ड खाली है।."
+
+#: functions/login_register.php:282
+msgid "Agent account created!"
+msgstr "एजेंट खाता बनाया गया!"
+
+#: functions/login_register.php:337
+msgid "The Email you entered is not valid. Please try again."
+msgstr "आपके द्वारा दर्ज किया गया ईमेल मान्य नहीं है। कृपया पुन: प्रयास करें।."
+
+#: functions/login_register.php:343
+msgid "This Email is already used by another user. Please try a different one."
+msgstr "यह ईमेल पहले से ही किसी अन्य उपयोगकर्ता द्वारा उपयोग किया जा रहा है। कृपया एक अलग कोशिश करें।."
+
+#: functions/login_register.php:359
+msgid "Profile updated"
+msgstr "प्रोफ़ाइल अपडेट"
+
+#: functions/login_register.php:411
+msgid "Enter a username or email address."
+msgstr "उपयोगकर्ता नाम या ईमेल पता दर्ज करें।."
+
+#: functions/login_register.php:418
+msgid "There is no user registered with that email address."
+msgstr "उस ईमेल पते के साथ कोई उपयोगकर्ता पंजीकृत नहीं है।."
+
+#: functions/login_register.php:442
+msgid "Someone has requested a password reset for the following account:"
+msgstr "किसी ने निम्न खाते के लिए पासवर्ड रीसेट का अनुरोध किया है:"
+
+#: functions/login_register.php:444
+msgid "Username: %s"
+msgstr "उपयोगकर्ता नाम:% s"
+
+#: functions/login_register.php:445
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr "अगर यह एक गलती थी, तो बस इस ईमेल को अनदेखा करें और कुछ भी नहीं होगा।."
+
+#: functions/login_register.php:446
+msgid "To reset your password, visit the following address:"
+msgstr "अपना पासवर्ड रीसेट करने के लिए, निम्न पते पर जाएं:"
+
+#: functions/login_register.php:458
+msgid "[%s] Password Reset"
+msgstr "[% s] पासवर्ड रीसेट करें"
+
+#: functions/login_register.php:487
+msgid "The email could not be sent."
+msgstr "ईमेल भेजा नहीं जा सका।."
+
+#: functions/login_register.php:487
+msgid "Possible reason: your host may have disabled the mail() function."
+msgstr "संभावित कारण: आपके होस्ट ने मेल () फ़ंक्शन को अक्षम कर दिया हो सकता है।."
+
+#: functions/login_register.php:490
+msgid "Check your email"
+msgstr "अपने ईमेल की जाँच करें"
+
+#: functions/login_register.php:648
+msgid "Follow us on"
+msgstr "हमारा अनुसरण इस पर कीजिये"
+
+#: functions/roles.php:25
+msgid "Buyer"
+msgstr "क्रेता"
+
+#: functions/roles.php:35
+msgid "Agency"
+msgstr "एजेंसी"
+
+#: functions/roles.php:62
+msgid "Agent"
+msgstr "एजेंट"
+
+#: functions/roles.php:89
+msgid "Seller"
+msgstr "विक्रेता"
+
+#: functions/roles.php:106
+msgid "Owner"
+msgstr "मालिक"
+
+#: functions/roles.php:125
+msgid "Manager"
+msgstr "मैनेजर"

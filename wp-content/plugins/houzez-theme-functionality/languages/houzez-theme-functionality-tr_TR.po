@@ -1,0 +1,858 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Functionality Plugin\n"
+"Language: tr\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: classes/class-settings.php:53
+msgid "Portfolio Settings"
+msgstr "Portföy Ayarları"
+
+#: classes/class-settings.php:54
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: classes/class-settings.php:83
+msgid "Permalinks"
+msgstr "Kalıcı"
+
+#: classes/class-settings.php:86
+msgid "Property Slug"
+msgstr "Özellik Sülük"
+
+#: classes/class-settings.php:87
+msgid "Property Type Slug"
+msgstr "Emlak Türü Slug"
+
+#: classes/class-settings.php:88
+msgid "Property Feature Slug"
+msgstr "Emlak Türü Slug"
+
+#: classes/class-settings.php:89
+msgid "Property Status Slug"
+msgstr "Emlak durumu Slug"
+
+#: classes/class-settings.php:90
+msgid "Property Area Slug"
+msgstr "Gayrimenkul Alanı Slug"
+
+#: classes/class-settings.php:91
+msgid "Property City Slug"
+msgstr "Mülkiyet Şehir Slug"
+
+#: classes/class-settings.php:92
+msgid "Property State Slug"
+msgstr "Emlak durumu Slug"
+
+#: classes/class-settings.php:105
+msgid "Set up custom permalinks for the property section on your site."
+msgstr "Sitenizdeki mülk bölümü için özel permalinks ayarlayın."
+
+#: classes/class-settings.php:236
+msgid "Properties Settings"
+msgstr "Özellikler Ayarları"
+
+#: classes/class-settings.php:243
+msgid "Update Settings"
+msgstr "Ayarları güncelle"
+
+#: functions.php:30
+msgid "Activated Successfully, reload page!"
+msgstr "Etkinleştirildi Başarıyla, sayfayı yeniden yükle!"
+
+#: functions.php:32
+msgid "Invalid license key"
+msgstr "Geçersiz lisans anahtarı"
+
+#: post-types/agency-post-type.php:36 post-types/agency-post-type.php:42
+#: post-types/agency-post-type.php:48 statistics/houzez-statistics.php:62
+msgid "Agencies"
+msgstr "ajanslar"
+
+#: post-types/agency-post-type.php:37
+msgid "Agency"
+msgstr "Ajans"
+
+#: post-types/agency-post-type.php:38 post-types/agency-post-type.php:39
+msgid "Add New Agency"
+msgstr "Yeni Ajans ekle"
+
+#: post-types/agency-post-type.php:40
+msgid "Edit Agency"
+msgstr "Ajansı Düzenle"
+
+#: post-types/agency-post-type.php:41
+msgid "New Agency"
+msgstr "Yeni Ajans"
+
+#: post-types/agency-post-type.php:43
+msgid "View Agency"
+msgstr "Ajansı Görüntüle"
+
+#: post-types/agency-post-type.php:44
+msgid "Search Agency"
+msgstr "Arama Ajansı"
+
+#: post-types/agency-post-type.php:45
+msgid "No agencies found"
+msgstr "Ajans bulunamadı"
+
+#: post-types/agency-post-type.php:46
+msgid "No agencies found in Trash"
+msgstr "Çöp Kutusu'nda ajans bulunamadı"
+
+#: post-types/agency-post-type.php:79
+msgid "Agency ID"
+msgstr "Ajans Kimliği"
+
+#: post-types/agency-post-type.php:80 post-types/user-packages-post-type.php:61
+msgid "Title"
+msgstr "Başlık"
+
+#: post-types/agency-post-type.php:81
+msgid "License"
+msgstr "Lisans"
+
+#: post-types/agency-post-type.php:82 post-types/property-post-type.php:254
+#: statistics/houzez-statistics.php:115 statistics/houzez-statistics.php:192
+#: statistics/houzez-statistics.php:240 statistics/houzez-statistics.php:320
+msgid "Thumbnail"
+msgstr "başparmak tırnağı"
+
+#: post-types/agency-post-type.php:83 post-types/agent-post-type.php:115
+msgid "E-mail"
+msgstr "E-mail"
+
+#: post-types/agency-post-type.php:84 post-types/agent-post-type.php:116
+msgid "Web"
+msgstr "ağ"
+
+#: post-types/agency-post-type.php:85
+msgid "Phone"
+msgstr "Telefon"
+
+#: post-types/agency-post-type.php:86 post-types/agent-post-type.php:30
+#: statistics/houzez-statistics.php:56
+msgid "Agents"
+msgstr "Ajanlar"
+
+#: post-types/agency-post-type.php:87
+msgid "Author"
+msgstr "Yazar"
+
+#: post-types/agent-post-type.php:31
+msgid "Agent"
+msgstr "ajan"
+
+#: post-types/agent-post-type.php:32 post-types/invoice-post-type.php:14
+#: post-types/partners-post-type.php:13 post-types/payments-post-type.php:13
+#: post-types/payments-post-type.php:14 post-types/property-post-type.php:53
+#: post-types/testimonials-post-type.php:45
+#: post-types/user-packages-post-type.php:33
+#: post-types/user-packages-post-type.php:34
+msgid "Add New"
+msgstr "Yeni ekle"
+
+#: post-types/agent-post-type.php:33
+msgid "Add New Agent"
+msgstr "Yeni Ajan ekle"
+
+#: post-types/agent-post-type.php:34
+msgid "Edit Agent"
+msgstr "Aracıyı Düzenle"
+
+#: post-types/agent-post-type.php:35
+msgid "New Agent"
+msgstr "Yeni Ajan"
+
+#: post-types/agent-post-type.php:36
+msgid "View Agent"
+msgstr "Aracıyı Görüntüle"
+
+#: post-types/agent-post-type.php:37 post-types/testimonials-post-type.php:50
+msgid "Search Agent"
+msgstr "Arama Aracısı"
+
+#: post-types/agent-post-type.php:38
+msgid "No Agent found"
+msgstr "Ajan bulunamadı"
+
+#: post-types/agent-post-type.php:39
+msgid "No Agent found in Trash"
+msgstr "Çöp Kutusu'nda Ajan bulunamadı"
+
+#: post-types/agent-post-type.php:70
+msgid "Categories"
+msgstr "Kategoriler"
+
+#: post-types/agent-post-type.php:71
+msgid "Add New Category"
+msgstr "Yeni Kategori Ekle"
+
+#: post-types/agent-post-type.php:72
+msgid "New Category"
+msgstr "Yeni kategori"
+
+#: post-types/agent-post-type.php:88
+msgid "Cities"
+msgstr "Şehirler"
+
+#: post-types/agent-post-type.php:89 post-types/property-post-type.php:168
+msgid "Add New City"
+msgstr "Yeni Şehir Ekle"
+
+#: post-types/agent-post-type.php:90 post-types/property-post-type.php:169
+msgid "New City"
+msgstr "Yeni şehir"
+
+#: post-types/agent-post-type.php:111
+msgid "Agent ID"
+msgstr "Ajan Kimliği"
+
+#: post-types/agent-post-type.php:112
+msgid "Agent Name"
+msgstr "Ajan adı"
+
+#: post-types/agent-post-type.php:113
+msgid "Picture"
+msgstr "Resim"
+
+#: post-types/agent-post-type.php:114
+msgid "Category"
+msgstr "Kategori"
+
+#: post-types/agent-post-type.php:117
+msgid "Mobile"
+msgstr "seyyar"
+
+#: post-types/invoice-post-type.php:12
+msgid "Houzez Invoices"
+msgstr "Houzez Faturaları"
+
+#: post-types/invoice-post-type.php:13
+msgid "Houzez Invoice"
+msgstr "Houzez Fatura"
+
+#: post-types/invoice-post-type.php:15
+msgid "Add New Invoice"
+msgstr "Yeni Fatura Ekle"
+
+#: post-types/invoice-post-type.php:16
+msgid "Edit Invoice"
+msgstr "Faturayı Düzenle"
+
+#: post-types/invoice-post-type.php:17
+msgid "New Invoice"
+msgstr "Yeni fatura"
+
+#: post-types/invoice-post-type.php:18
+msgid "View Invoice"
+msgstr "Faturayı Görüntüle"
+
+#: post-types/invoice-post-type.php:19
+msgid "Search Invoice"
+msgstr "Faturada Ara"
+
+#: post-types/invoice-post-type.php:20
+msgid "No Invoice found"
+msgstr "Fatura bulunamadı"
+
+#: post-types/invoice-post-type.php:21
+msgid "No Invoice found in Trash"
+msgstr "Çöp kutusunda Fatura bulunamadı"
+
+#: post-types/invoice-post-type.php:57
+msgid "Invoice Title"
+msgstr "Fatura Başlığı"
+
+#: post-types/invoice-post-type.php:58 post-types/payments-post-type.php:50
+#: post-types/property-post-type.php:258 statistics/houzez-statistics.php:119
+#: statistics/houzez-statistics.php:196 statistics/houzez-statistics.php:244
+#: statistics/houzez-statistics.php:324 statistics/houzez-statistics.php:506
+#: statistics/houzez-statistics.php:509
+msgid "Price"
+msgstr "Fiyat"
+
+#: post-types/invoice-post-type.php:59
+msgid "Payment Method"
+msgstr "Ödeme şekli"
+
+#: post-types/invoice-post-type.php:60 post-types/payments-post-type.php:53
+msgid "Buyer"
+msgstr "Alıcı"
+
+#: post-types/invoice-post-type.php:61
+msgid "Buyer Email"
+msgstr "Alıcı e-posta"
+
+#: post-types/invoice-post-type.php:62
+msgid "Invoice Type"
+msgstr "Fatura türü"
+
+#: post-types/invoice-post-type.php:63
+msgid "Billion For"
+msgstr "Milyar"
+
+#: post-types/invoice-post-type.php:64 post-types/payments-post-type.php:54
+#: post-types/property-post-type.php:148 post-types/property-post-type.php:257
+#: statistics/houzez-statistics.php:118 statistics/houzez-statistics.php:195
+#: statistics/houzez-statistics.php:243 statistics/houzez-statistics.php:323
+#: statistics/houzez-statistics.php:418 statistics/houzez-statistics.php:580
+msgid "Status"
+msgstr "durum"
+
+#: post-types/invoice-post-type.php:65 post-types/payments-post-type.php:55
+msgid "Date"
+msgstr "tarih"
+
+#: post-types/invoice-post-type.php:87
+msgid "Direct Bank Transfer"
+msgstr "Doğrudan Banka Havalesi"
+
+#: post-types/invoice-post-type.php:114 post-types/payments-post-type.php:91
+msgid "Not Paid"
+msgstr "Ödenmeyen"
+
+#: post-types/invoice-post-type.php:116 post-types/payments-post-type.php:93
+msgid "Paid"
+msgstr "ödenmiş"
+
+#: post-types/membership-post-type.php:17
+msgid "Houzez Packages"
+msgstr "Houzez Tatil Paketleri"
+
+#: post-types/membership-post-type.php:18
+#: post-types/user-packages-post-type.php:32
+msgid "Packages"
+msgstr "Paketler"
+
+#: post-types/membership-post-type.php:19
+msgid "Add New Package"
+msgstr "Yeni Paket Ekle"
+
+#: post-types/membership-post-type.php:20
+msgid "Add Packages"
+msgstr "Paketleri Ekleyin"
+
+#: post-types/membership-post-type.php:21
+msgid "Edit Packages"
+msgstr "Paketleri Düzenle"
+
+#: post-types/membership-post-type.php:22
+msgid "Edit Package"
+msgstr "Paketi Düzenle"
+
+#: post-types/membership-post-type.php:23
+msgid "New Packages"
+msgstr "Yeni Paketler"
+
+#: post-types/membership-post-type.php:24
+#: post-types/membership-post-type.php:25
+msgid "View Packages"
+msgstr "Paketleri Görüntüle"
+
+#: post-types/membership-post-type.php:26
+msgid "Search Packages"
+msgstr "Paketleri Ara"
+
+#: post-types/membership-post-type.php:27
+#: post-types/membership-post-type.php:28
+msgid "No Packages found"
+msgstr "Paket bulunamadı"
+
+#: post-types/membership-post-type.php:29
+msgid "Parent Package"
+msgstr "Ana Paket"
+
+#: post-types/partners-post-type.php:11
+msgid "Partners"
+msgstr "Ortaklar"
+
+#: post-types/partners-post-type.php:12
+msgid "Partner"
+msgstr "Ortak"
+
+#: post-types/partners-post-type.php:14
+msgid "Add New Partner"
+msgstr "Yeni İş Ortağı Ekleme"
+
+#: post-types/partners-post-type.php:15
+msgid "Edit Partner"
+msgstr "İş Ortağı Düzenle"
+
+#: post-types/partners-post-type.php:16
+msgid "New Partner"
+msgstr "Yeni İş Ortağı"
+
+#: post-types/partners-post-type.php:17
+msgid "View Partner"
+msgstr "İş Ortağı Görüntüle"
+
+#: post-types/partners-post-type.php:18
+msgid "Search Partner"
+msgstr "Arama İş Ortağı"
+
+#: post-types/partners-post-type.php:19
+msgid "No Partner found"
+msgstr "İş Ortağı bulunamadı"
+
+#: post-types/partners-post-type.php:20
+msgid "No Partner found in Trash"
+msgstr "Çöp kutusunda İş Ortağı bulunamadı"
+
+#: post-types/payments-post-type.php:11
+msgid "Houzez Payments"
+msgstr "Houzez Ödemeleri"
+
+#: post-types/payments-post-type.php:12
+msgid "Payment"
+msgstr "Ödeme"
+
+#: post-types/payments-post-type.php:49
+msgid "Payment Title"
+msgstr "Ödeme Başlığı"
+
+#: post-types/payments-post-type.php:51
+msgid "Payment Type"
+msgstr "Ödeme türü"
+
+#: post-types/payments-post-type.php:52
+msgid "Payment For"
+msgstr "İçin ödeme"
+
+#: post-types/payments-post-type.php:133
+msgid "Recurring"
+msgstr "yinelenen"
+
+#: post-types/payments-post-type.php:135
+msgid "One Time"
+msgstr "Bir kere"
+
+#: post-types/property-post-type.php:50
+msgid "Properties"
+msgstr "Özellikleri"
+
+#: post-types/property-post-type.php:51
+msgid "Property"
+msgstr "özellik"
+
+#: post-types/property-post-type.php:52
+msgid "Add New Property"
+msgstr "Yeni Özellik Ekle"
+
+#: post-types/property-post-type.php:54
+msgid "Edit Property"
+msgstr "Mülk Düzenle"
+
+#: post-types/property-post-type.php:55
+msgid "New Property"
+msgstr "Yeni Mülkiyet"
+
+#: post-types/property-post-type.php:56
+msgid "View Property"
+msgstr "Mülkleri Görüntüle"
+
+#: post-types/property-post-type.php:57
+msgid "Search Property"
+msgstr "Emlak Arama"
+
+#: post-types/property-post-type.php:58 statistics/houzez-statistics.php:183
+#: statistics/houzez-statistics.php:311
+msgid "No Property found"
+msgstr "Emlak bulunamadı"
+
+#: post-types/property-post-type.php:59
+msgid "No Property found in Trash"
+msgstr "Çöp Kutusu'nda Özellik bulunamadı"
+
+#: post-types/property-post-type.php:111 post-types/property-post-type.php:256
+#: statistics/houzez-statistics.php:117 statistics/houzez-statistics.php:194
+#: statistics/houzez-statistics.php:242 statistics/houzez-statistics.php:322
+#: statistics/houzez-statistics.php:410 statistics/houzez-statistics.php:581
+msgid "Type"
+msgstr "tip"
+
+#: post-types/property-post-type.php:112
+msgid "Add New Type"
+msgstr "Yeni Tür Ekle"
+
+#: post-types/property-post-type.php:113
+msgid "New Type"
+msgstr "Yeni tip"
+
+#: post-types/property-post-type.php:130
+msgid "Features"
+msgstr "Özellikler"
+
+#: post-types/property-post-type.php:131
+msgid "Add New Feature"
+msgstr "Yeni Özellik Ekle"
+
+#: post-types/property-post-type.php:132
+msgid "New Feature"
+msgstr "Yeni özellik"
+
+#: post-types/property-post-type.php:149
+msgid "Add New Status"
+msgstr "Yeni Durum Ekle"
+
+#: post-types/property-post-type.php:150
+msgid "New Status"
+msgstr "Yeni statü"
+
+#: post-types/property-post-type.php:167 post-types/property-post-type.php:255
+#: post-types/property-post-type.php:504 statistics/houzez-statistics.php:116
+#: statistics/houzez-statistics.php:193 statistics/houzez-statistics.php:241
+#: statistics/houzez-statistics.php:321
+msgid "City"
+msgstr "Kent"
+
+#: post-types/property-post-type.php:186 statistics/houzez-statistics.php:426
+msgid "Neighborhood"
+msgstr "Komşuluk"
+
+#: post-types/property-post-type.php:187
+msgid "Add Property Neighborhood"
+msgstr "Mülk ekle"
+
+#: post-types/property-post-type.php:188
+msgid "New Property Neighborhood"
+msgstr "Yeni Mülkiyet Mahallesi"
+
+#: post-types/property-post-type.php:204
+msgid "County / State"
+msgstr "İlçe / Eyalet"
+
+#: post-types/property-post-type.php:205
+msgid "Add Property County / State"
+msgstr "Mülk İlçe / Eyalet Ekle"
+
+#: post-types/property-post-type.php:206
+msgid "New Property County / State"
+msgstr "Yeni Mülkiyet Ilçe / Eyalet"
+
+#: post-types/property-post-type.php:222
+msgid "Labels"
+msgstr "Etiketler"
+
+#: post-types/property-post-type.php:223
+msgid "Add New Label"
+msgstr "Yeni Etiket Ekle"
+
+#: post-types/property-post-type.php:224
+msgid "New Label"
+msgstr "Yeni etiket"
+
+#: post-types/property-post-type.php:253 statistics/houzez-statistics.php:113
+#: statistics/houzez-statistics.php:190 statistics/houzez-statistics.php:238
+#: statistics/houzez-statistics.php:318
+msgid "Property Title"
+msgstr "Mülkiyet Başlığı"
+
+#: post-types/property-post-type.php:259 statistics/houzez-statistics.php:120
+#: statistics/houzez-statistics.php:197 statistics/houzez-statistics.php:245
+#: statistics/houzez-statistics.php:325
+msgid "Property ID"
+msgstr "Emlak Kimliği"
+
+#: post-types/property-post-type.php:260
+msgid "Featured"
+msgstr "Öne çıkan"
+
+#: post-types/property-post-type.php:261
+msgid "Posted"
+msgstr "Gönderildi"
+
+#: post-types/property-post-type.php:262
+msgid "Expires"
+msgstr "Süre sonu"
+
+#: post-types/property-post-type.php:263 statistics/houzez-statistics.php:122
+#: statistics/houzez-statistics.php:199 statistics/houzez-statistics.php:247
+#: statistics/houzez-statistics.php:327 statistics/houzez-statistics.php:355
+#: statistics/houzez-statistics.php:558
+msgid "Actions"
+msgstr "Eylemler"
+
+#: post-types/property-post-type.php:294 post-types/property-post-type.php:332
+#: post-types/property-post-type.php:341 post-types/property-post-type.php:350
+#: statistics/houzez-statistics.php:169 statistics/houzez-statistics.php:296
+msgid "NA"
+msgstr "NA"
+
+#: post-types/property-post-type.php:300
+msgid "No"
+msgstr "Yok hayır"
+
+#: post-types/property-post-type.php:302
+msgid "Yes"
+msgstr "Evet"
+
+#: post-types/property-post-type.php:314
+msgid "No Address Provided!"
+msgstr "Hiçbir Adres Sağlanmadı!"
+
+#: post-types/property-post-type.php:365
+msgid "Approve"
+msgstr "onaylamak"
+
+#: post-types/property-post-type.php:372
+msgid "Expire"
+msgstr "sona ermek"
+
+#: post-types/property-post-type.php:415
+msgid "by a guest"
+msgstr "bir misafir tarafından"
+
+#: post-types/property-post-type.php:415
+msgid "by %s"
+msgstr "% s tarafından"
+
+#: post-types/property-post-type.php:503 post-types/property-post-type.php:540
+#: post-types/property-post-type.php:578
+msgid "Name"
+msgstr "isim"
+
+#: post-types/property-post-type.php:506 post-types/property-post-type.php:543
+#: post-types/property-post-type.php:581
+msgid "Slug"
+msgstr "sümüklüböcek"
+
+#: post-types/property-post-type.php:507 post-types/property-post-type.php:544
+#: post-types/property-post-type.php:582
+msgid "Posts"
+msgstr "Mesajlar"
+
+#: post-types/property-post-type.php:541
+msgid "County/State"
+msgstr "Ülke / Eyalet"
+
+#: post-types/property-post-type.php:579 statistics/houzez-statistics.php:584
+msgid "Country"
+msgstr "ülke"
+
+#: post-types/property-post-type.php:751
+msgid "All Types"
+msgstr "Her türlü"
+
+#: post-types/property-post-type.php:786
+msgid "All Status"
+msgstr "Tüm durum"
+
+#: post-types/property-post-type.php:821
+msgid "All Labels"
+msgstr "Tüm etiketler"
+
+#: post-types/property-post-type.php:856
+msgid "All Cities"
+msgstr "Tüm şehirler"
+
+#: post-types/testimonials-post-type.php:43
+msgid "Testimonials"
+msgstr "Görüşler"
+
+#: post-types/testimonials-post-type.php:44
+msgid "Testimonial"
+msgstr "bonservis"
+
+#: post-types/testimonials-post-type.php:46
+msgid "Add New Testimonial"
+msgstr "Yeni referans ekle"
+
+#: post-types/testimonials-post-type.php:47
+msgid "Edit Testimonial"
+msgstr "Testi Düzenle"
+
+#: post-types/testimonials-post-type.php:48
+msgid "New Testimonial"
+msgstr "Yeni referans"
+
+#: post-types/testimonials-post-type.php:49
+msgid "View Testimonial"
+msgstr "Görüşleri Görüntüle"
+
+#: post-types/testimonials-post-type.php:51
+msgid "No Testimonial found"
+msgstr "Test bulunamadı"
+
+#: post-types/testimonials-post-type.php:52
+msgid "No Testimonial found in Trash"
+msgstr "Çöp Kutusu'nda hiçbir Test bulunamadı"
+
+#: post-types/user-packages-post-type.php:31
+msgid "Users Package Info"
+msgstr "Kullanıcılar Paket Bilgileri"
+
+#: post-types/user-packages-post-type.php:62
+msgid "Package Holder"
+msgstr "Paket Tutucu"
+
+#: post-types/user-packages-post-type.php:63
+msgid "Package"
+msgstr "paket"
+
+#: post-types/user-packages-post-type.php:64
+msgid "Available Listings"
+msgstr "Mevcut İlanlar"
+
+#: post-types/user-packages-post-type.php:65
+msgid "Featured Available"
+msgstr "Öne Çıkanlar"
+
+#: post-types/user-packages-post-type.php:66
+msgid "Activation"
+msgstr "etkinleştirme"
+
+#: post-types/user-packages-post-type.php:67
+msgid "Expiry"
+msgstr "vade"
+
+#: statistics/houzez-statistics.php:9
+msgid "Houzez Statistics"
+msgstr "Houzez İstatistikleri"
+
+#: statistics/houzez-statistics.php:10 statistics/houzez-statistics.php:108
+msgid "Most Viewed Properties"
+msgstr "En Çok Görüntülenen Özellikler"
+
+#: statistics/houzez-statistics.php:10
+msgid "Most Viewed"
+msgstr "En çok görüntülenen"
+
+#: statistics/houzez-statistics.php:11 statistics/houzez-statistics.php:233
+msgid "Most Favourite Properties"
+msgstr "En Sevilen Özellikler"
+
+#: statistics/houzez-statistics.php:11
+msgid "Most Favourite"
+msgstr "En çok sevilen"
+
+#: statistics/houzez-statistics.php:12 statistics/houzez-statistics.php:348
+msgid "Saved Searches"
+msgstr "Kayıtlı Aramalar"
+
+#: statistics/houzez-statistics.php:40 statistics/houzez-statistics.php:95
+#: statistics/houzez-statistics.php:215 statistics/houzez-statistics.php:343
+#: statistics/houzez-statistics.php:574
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Bu sayfaya erişmek için yeterli izniniz yok."
+
+#: statistics/houzez-statistics.php:48
+msgid "Houzez Statistic"
+msgstr "Houzez İstatistiği"
+
+#: statistics/houzez-statistics.php:52 statistics/houzez-statistics.php:78
+msgid "Total Views Today"
+msgstr "Bugün Toplam Gösterim"
+
+#: statistics/houzez-statistics.php:54
+msgid "Users"
+msgstr "Kullanıcılar"
+
+#: statistics/houzez-statistics.php:59
+msgid "Buyers"
+msgstr "Alıcılar"
+
+#: statistics/houzez-statistics.php:65
+msgid "Sellers"
+msgstr "Satıcılar"
+
+#: statistics/houzez-statistics.php:68
+msgid "Owners"
+msgstr "sahipleri"
+
+#: statistics/houzez-statistics.php:71
+msgid "Managers"
+msgstr "yöneticiler"
+
+#: statistics/houzez-statistics.php:121 statistics/houzez-statistics.php:198
+msgid "Views Count"
+msgstr "Görüntüleme Sayısı"
+
+#: statistics/houzez-statistics.php:177 statistics/houzez-statistics.php:304
+#: statistics/houzez-statistics.php:541
+msgid "View"
+msgstr "Görünüm"
+
+#: statistics/houzez-statistics.php:246
+msgid "Favourite Count "
+msgstr "Favori Sayım"
+
+#: statistics/houzez-statistics.php:326
+msgid "Favourite Count"
+msgstr "Favori Sayım"
+
+#: statistics/houzez-statistics.php:353 statistics/houzez-statistics.php:556
+msgid "Search Query"
+msgstr "Arama Sorgusu"
+
+#: statistics/houzez-statistics.php:402 statistics/houzez-statistics.php:582
+msgid "Location"
+msgstr "yer"
+
+#: statistics/houzez-statistics.php:434 statistics/houzez-statistics.php:583
+msgid "State"
+msgstr "Belirtmek, bildirmek"
+
+#: statistics/houzez-statistics.php:494
+msgid "Bedrooms"
+msgstr "Yatak odaları"
+
+#: statistics/houzez-statistics.php:499
+msgid "Bathrooms"
+msgstr "Banyolar"
+
+#: statistics/houzez-statistics.php:517 statistics/houzez-statistics.php:520
+msgid "Size"
+msgstr "Boyut"
+
+#: statistics/houzez-statistics.php:548
+msgid "No Search found"
+msgstr "Arama bulunamadı"
+
+#: statistics/houzez-statistics.php:578
+msgid "Min Price"
+msgstr "Min Fiyat"
+
+#: statistics/houzez-statistics.php:579
+msgid "Max Price"
+msgstr "Maksimum Fiyat"
+
+#: statistics/houzez-statistics.php:585
+msgid "Area"
+msgstr "alan"
+
+#: statistics/houzez-statistics.php:586
+msgid "Feature"
+msgstr "özellik"
+
+#: statistics/houzez-statistics.php:587 statistics/houzez-statistics.php:588
+msgid "Max Size"
+msgstr "Maksimum boyutu"
+
+#: statistics/houzez-statistics.php:589
+msgid "Bedroom"
+msgstr "Yatak odası"
+
+#: statistics/houzez-statistics.php:590
+msgid "Bathroom"
+msgstr "Banyo"
+
+#: statistics/houzez-statistics.php:596
+msgid "Houzez Searches"
+msgstr "Houzez Aramalar"
+
+#: statistics/houzez-statistics.php:601
+msgid "Search Keyworks"
+msgstr "Anahtar Kelime Ara"
+
+#: vc_shortcodes/properties.php:93
+msgid "Load More"
+msgstr "Daha fazla yükle"

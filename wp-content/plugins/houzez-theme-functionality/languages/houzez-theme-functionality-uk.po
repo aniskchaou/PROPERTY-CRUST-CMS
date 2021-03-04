@@ -1,0 +1,858 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Functionality Plugin\n"
+"Language: uk\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: classes/class-settings.php:53
+msgid "Portfolio Settings"
+msgstr "Налаштування портфоліо"
+
+#: classes/class-settings.php:54
+msgid "Settings"
+msgstr "Налаштування"
+
+#: classes/class-settings.php:83
+msgid "Permalinks"
+msgstr "Постійні посилання"
+
+#: classes/class-settings.php:86
+msgid "Property Slug"
+msgstr "Власний слизень"
+
+#: classes/class-settings.php:87
+msgid "Property Type Slug"
+msgstr "Тип нерухомості Slug"
+
+#: classes/class-settings.php:88
+msgid "Property Feature Slug"
+msgstr "Властивість функції Slug"
+
+#: classes/class-settings.php:89
+msgid "Property Status Slug"
+msgstr "Статус статусу слизняк"
+
+#: classes/class-settings.php:90
+msgid "Property Area Slug"
+msgstr "Область нерухомості Slug"
+
+#: classes/class-settings.php:91
+msgid "Property City Slug"
+msgstr "Міське нерухоме майно"
+
+#: classes/class-settings.php:92
+msgid "Property State Slug"
+msgstr "Власність Держава Слизняк"
+
+#: classes/class-settings.php:105
+msgid "Set up custom permalinks for the property section on your site."
+msgstr "Налаштуйте індивідуальні посилання для розділу власності на своєму сайті."
+
+#: classes/class-settings.php:236
+msgid "Properties Settings"
+msgstr "Параметри властивостей"
+
+#: classes/class-settings.php:243
+msgid "Update Settings"
+msgstr "Оновити налаштування"
+
+#: functions.php:30
+msgid "Activated Successfully, reload page!"
+msgstr "Активовано успішно, перезавантажте сторінку!"
+
+#: functions.php:32
+msgid "Invalid license key"
+msgstr "Недійсний ліцензійний ключ"
+
+#: post-types/agency-post-type.php:36 post-types/agency-post-type.php:42
+#: post-types/agency-post-type.php:48 statistics/houzez-statistics.php:62
+msgid "Agencies"
+msgstr "Агентства"
+
+#: post-types/agency-post-type.php:37
+msgid "Agency"
+msgstr "Агентство"
+
+#: post-types/agency-post-type.php:38 post-types/agency-post-type.php:39
+msgid "Add New Agency"
+msgstr "Додати нове агентство"
+
+#: post-types/agency-post-type.php:40
+msgid "Edit Agency"
+msgstr "Редагувати агенцію"
+
+#: post-types/agency-post-type.php:41
+msgid "New Agency"
+msgstr "Нове агентство"
+
+#: post-types/agency-post-type.php:43
+msgid "View Agency"
+msgstr "Переглянути агентство"
+
+#: post-types/agency-post-type.php:44
+msgid "Search Agency"
+msgstr "Пошук агентства"
+
+#: post-types/agency-post-type.php:45
+msgid "No agencies found"
+msgstr "Агентств не знайдено"
+
+#: post-types/agency-post-type.php:46
+msgid "No agencies found in Trash"
+msgstr "У кошику не знайдено жодних агенцій"
+
+#: post-types/agency-post-type.php:79
+msgid "Agency ID"
+msgstr "Ідентифікатор агенції"
+
+#: post-types/agency-post-type.php:80 post-types/user-packages-post-type.php:61
+msgid "Title"
+msgstr "Назва"
+
+#: post-types/agency-post-type.php:81
+msgid "License"
+msgstr "Ліцензія"
+
+#: post-types/agency-post-type.php:82 post-types/property-post-type.php:254
+#: statistics/houzez-statistics.php:115 statistics/houzez-statistics.php:192
+#: statistics/houzez-statistics.php:240 statistics/houzez-statistics.php:320
+msgid "Thumbnail"
+msgstr "Ескіз"
+
+#: post-types/agency-post-type.php:83 post-types/agent-post-type.php:115
+msgid "E-mail"
+msgstr "Електронна пошта"
+
+#: post-types/agency-post-type.php:84 post-types/agent-post-type.php:116
+msgid "Web"
+msgstr "Веб"
+
+#: post-types/agency-post-type.php:85
+msgid "Phone"
+msgstr "Телефон"
+
+#: post-types/agency-post-type.php:86 post-types/agent-post-type.php:30
+#: statistics/houzez-statistics.php:56
+msgid "Agents"
+msgstr "Агенти"
+
+#: post-types/agency-post-type.php:87
+msgid "Author"
+msgstr "Автор"
+
+#: post-types/agent-post-type.php:31
+msgid "Agent"
+msgstr "Агента"
+
+#: post-types/agent-post-type.php:32 post-types/invoice-post-type.php:14
+#: post-types/partners-post-type.php:13 post-types/payments-post-type.php:13
+#: post-types/payments-post-type.php:14 post-types/property-post-type.php:53
+#: post-types/testimonials-post-type.php:45
+#: post-types/user-packages-post-type.php:33
+#: post-types/user-packages-post-type.php:34
+msgid "Add New"
+msgstr "Додати новий"
+
+#: post-types/agent-post-type.php:33
+msgid "Add New Agent"
+msgstr "Додати нового агента"
+
+#: post-types/agent-post-type.php:34
+msgid "Edit Agent"
+msgstr "Редагувати агента"
+
+#: post-types/agent-post-type.php:35
+msgid "New Agent"
+msgstr "Новий агент"
+
+#: post-types/agent-post-type.php:36
+msgid "View Agent"
+msgstr "Переглянути агента"
+
+#: post-types/agent-post-type.php:37 post-types/testimonials-post-type.php:50
+msgid "Search Agent"
+msgstr "Пошуковий агент"
+
+#: post-types/agent-post-type.php:38
+msgid "No Agent found"
+msgstr "Ніякого агента не знайдено"
+
+#: post-types/agent-post-type.php:39
+msgid "No Agent found in Trash"
+msgstr "Агент не знайдено в кошику"
+
+#: post-types/agent-post-type.php:70
+msgid "Categories"
+msgstr "Категорії"
+
+#: post-types/agent-post-type.php:71
+msgid "Add New Category"
+msgstr "Додати нову категорію"
+
+#: post-types/agent-post-type.php:72
+msgid "New Category"
+msgstr "Нова категорія"
+
+#: post-types/agent-post-type.php:88
+msgid "Cities"
+msgstr "Міста"
+
+#: post-types/agent-post-type.php:89 post-types/property-post-type.php:168
+msgid "Add New City"
+msgstr "Додати нове місто"
+
+#: post-types/agent-post-type.php:90 post-types/property-post-type.php:169
+msgid "New City"
+msgstr "Нове місто"
+
+#: post-types/agent-post-type.php:111
+msgid "Agent ID"
+msgstr "Ідентифікатор агента"
+
+#: post-types/agent-post-type.php:112
+msgid "Agent Name"
+msgstr "Назва агента"
+
+#: post-types/agent-post-type.php:113
+msgid "Picture"
+msgstr "Картина"
+
+#: post-types/agent-post-type.php:114
+msgid "Category"
+msgstr "Категорія"
+
+#: post-types/agent-post-type.php:117
+msgid "Mobile"
+msgstr "Мобільний"
+
+#: post-types/invoice-post-type.php:12
+msgid "Houzez Invoices"
+msgstr "Рахунки Houzez"
+
+#: post-types/invoice-post-type.php:13
+msgid "Houzez Invoice"
+msgstr "Рахунок для Houzez"
+
+#: post-types/invoice-post-type.php:15
+msgid "Add New Invoice"
+msgstr "Додати новий рахунок-фактуру"
+
+#: post-types/invoice-post-type.php:16
+msgid "Edit Invoice"
+msgstr "Редагувати рахунок-фактуру"
+
+#: post-types/invoice-post-type.php:17
+msgid "New Invoice"
+msgstr "Новий рахунок-фактура"
+
+#: post-types/invoice-post-type.php:18
+msgid "View Invoice"
+msgstr "Переглянути рахунок-фактуру"
+
+#: post-types/invoice-post-type.php:19
+msgid "Search Invoice"
+msgstr "Пошук рахунок-фактури"
+
+#: post-types/invoice-post-type.php:20
+msgid "No Invoice found"
+msgstr "Жодного рахунку не знайдено"
+
+#: post-types/invoice-post-type.php:21
+msgid "No Invoice found in Trash"
+msgstr "У кошику не знайдено рахунку"
+
+#: post-types/invoice-post-type.php:57
+msgid "Invoice Title"
+msgstr "Назва рахунку-фактури"
+
+#: post-types/invoice-post-type.php:58 post-types/payments-post-type.php:50
+#: post-types/property-post-type.php:258 statistics/houzez-statistics.php:119
+#: statistics/houzez-statistics.php:196 statistics/houzez-statistics.php:244
+#: statistics/houzez-statistics.php:324 statistics/houzez-statistics.php:506
+#: statistics/houzez-statistics.php:509
+msgid "Price"
+msgstr "Ціна"
+
+#: post-types/invoice-post-type.php:59
+msgid "Payment Method"
+msgstr "Метод оплати"
+
+#: post-types/invoice-post-type.php:60 post-types/payments-post-type.php:53
+msgid "Buyer"
+msgstr "Покупець"
+
+#: post-types/invoice-post-type.php:61
+msgid "Buyer Email"
+msgstr "Електронна пошта покупця"
+
+#: post-types/invoice-post-type.php:62
+msgid "Invoice Type"
+msgstr "Тип рахунку-фактури"
+
+#: post-types/invoice-post-type.php:63
+msgid "Billion For"
+msgstr "Мільярд для"
+
+#: post-types/invoice-post-type.php:64 post-types/payments-post-type.php:54
+#: post-types/property-post-type.php:148 post-types/property-post-type.php:257
+#: statistics/houzez-statistics.php:118 statistics/houzez-statistics.php:195
+#: statistics/houzez-statistics.php:243 statistics/houzez-statistics.php:323
+#: statistics/houzez-statistics.php:418 statistics/houzez-statistics.php:580
+msgid "Status"
+msgstr "Статус"
+
+#: post-types/invoice-post-type.php:65 post-types/payments-post-type.php:55
+msgid "Date"
+msgstr "Дата"
+
+#: post-types/invoice-post-type.php:87
+msgid "Direct Bank Transfer"
+msgstr "Прямий банківський переказ"
+
+#: post-types/invoice-post-type.php:114 post-types/payments-post-type.php:91
+msgid "Not Paid"
+msgstr "Не оплачено"
+
+#: post-types/invoice-post-type.php:116 post-types/payments-post-type.php:93
+msgid "Paid"
+msgstr "Оплачений"
+
+#: post-types/membership-post-type.php:17
+msgid "Houzez Packages"
+msgstr "Пакети Houzez"
+
+#: post-types/membership-post-type.php:18
+#: post-types/user-packages-post-type.php:32
+msgid "Packages"
+msgstr "Пакети"
+
+#: post-types/membership-post-type.php:19
+msgid "Add New Package"
+msgstr "Додати новий пакет"
+
+#: post-types/membership-post-type.php:20
+msgid "Add Packages"
+msgstr "Додати пакети"
+
+#: post-types/membership-post-type.php:21
+msgid "Edit Packages"
+msgstr "Редагувати пакунки"
+
+#: post-types/membership-post-type.php:22
+msgid "Edit Package"
+msgstr "Редагувати пакунок"
+
+#: post-types/membership-post-type.php:23
+msgid "New Packages"
+msgstr "Нові пакети"
+
+#: post-types/membership-post-type.php:24
+#: post-types/membership-post-type.php:25
+msgid "View Packages"
+msgstr "Переглянути пакети"
+
+#: post-types/membership-post-type.php:26
+msgid "Search Packages"
+msgstr "Пакети пошуку"
+
+#: post-types/membership-post-type.php:27
+#: post-types/membership-post-type.php:28
+msgid "No Packages found"
+msgstr "Пакунки не знайдено"
+
+#: post-types/membership-post-type.php:29
+msgid "Parent Package"
+msgstr "Батьківський пакет"
+
+#: post-types/partners-post-type.php:11
+msgid "Partners"
+msgstr "Партнери"
+
+#: post-types/partners-post-type.php:12
+msgid "Partner"
+msgstr "Партнер"
+
+#: post-types/partners-post-type.php:14
+msgid "Add New Partner"
+msgstr "Додати нового партнера"
+
+#: post-types/partners-post-type.php:15
+msgid "Edit Partner"
+msgstr "Редагувати партнера"
+
+#: post-types/partners-post-type.php:16
+msgid "New Partner"
+msgstr "Новий партнер"
+
+#: post-types/partners-post-type.php:17
+msgid "View Partner"
+msgstr "Переглянути партнера"
+
+#: post-types/partners-post-type.php:18
+msgid "Search Partner"
+msgstr "Пошуковий партнер"
+
+#: post-types/partners-post-type.php:19
+msgid "No Partner found"
+msgstr "Партнера не знайдено"
+
+#: post-types/partners-post-type.php:20
+msgid "No Partner found in Trash"
+msgstr "Партнер не знайдено в кошику"
+
+#: post-types/payments-post-type.php:11
+msgid "Houzez Payments"
+msgstr "Оплата за Гоузом"
+
+#: post-types/payments-post-type.php:12
+msgid "Payment"
+msgstr "Оплата"
+
+#: post-types/payments-post-type.php:49
+msgid "Payment Title"
+msgstr "Назва титулу"
+
+#: post-types/payments-post-type.php:51
+msgid "Payment Type"
+msgstr "Тип оплати"
+
+#: post-types/payments-post-type.php:52
+msgid "Payment For"
+msgstr "Оплата за"
+
+#: post-types/payments-post-type.php:133
+msgid "Recurring"
+msgstr "Повторюється"
+
+#: post-types/payments-post-type.php:135
+msgid "One Time"
+msgstr "Одного разу"
+
+#: post-types/property-post-type.php:50
+msgid "Properties"
+msgstr "Властивості"
+
+#: post-types/property-post-type.php:51
+msgid "Property"
+msgstr "Майно"
+
+#: post-types/property-post-type.php:52
+msgid "Add New Property"
+msgstr "Додати нову власність"
+
+#: post-types/property-post-type.php:54
+msgid "Edit Property"
+msgstr "Редагувати властивість"
+
+#: post-types/property-post-type.php:55
+msgid "New Property"
+msgstr "Нова нерухомість"
+
+#: post-types/property-post-type.php:56
+msgid "View Property"
+msgstr "Переглянути властивість"
+
+#: post-types/property-post-type.php:57
+msgid "Search Property"
+msgstr "Пошук нерухомості"
+
+#: post-types/property-post-type.php:58 statistics/houzez-statistics.php:183
+#: statistics/houzez-statistics.php:311
+msgid "No Property found"
+msgstr "Не знайдено нічого"
+
+#: post-types/property-post-type.php:59
+msgid "No Property found in Trash"
+msgstr "Нема власності в кошику"
+
+#: post-types/property-post-type.php:111 post-types/property-post-type.php:256
+#: statistics/houzez-statistics.php:117 statistics/houzez-statistics.php:194
+#: statistics/houzez-statistics.php:242 statistics/houzez-statistics.php:322
+#: statistics/houzez-statistics.php:410 statistics/houzez-statistics.php:581
+msgid "Type"
+msgstr "Тип"
+
+#: post-types/property-post-type.php:112
+msgid "Add New Type"
+msgstr "Додати новий тип"
+
+#: post-types/property-post-type.php:113
+msgid "New Type"
+msgstr "Новий тип"
+
+#: post-types/property-post-type.php:130
+msgid "Features"
+msgstr "Особливості"
+
+#: post-types/property-post-type.php:131
+msgid "Add New Feature"
+msgstr "Додати нову функцію"
+
+#: post-types/property-post-type.php:132
+msgid "New Feature"
+msgstr "Нова функція"
+
+#: post-types/property-post-type.php:149
+msgid "Add New Status"
+msgstr "Додати новий статус"
+
+#: post-types/property-post-type.php:150
+msgid "New Status"
+msgstr "Новий статус"
+
+#: post-types/property-post-type.php:167 post-types/property-post-type.php:255
+#: post-types/property-post-type.php:504 statistics/houzez-statistics.php:116
+#: statistics/houzez-statistics.php:193 statistics/houzez-statistics.php:241
+#: statistics/houzez-statistics.php:321
+msgid "City"
+msgstr "Місто"
+
+#: post-types/property-post-type.php:186 statistics/houzez-statistics.php:426
+msgid "Neighborhood"
+msgstr "Сусідство"
+
+#: post-types/property-post-type.php:187
+msgid "Add Property Neighborhood"
+msgstr "Додати об'єкт Неподалік"
+
+#: post-types/property-post-type.php:188
+msgid "New Property Neighborhood"
+msgstr "Нове нерухоме околиці"
+
+#: post-types/property-post-type.php:204
+msgid "County / State"
+msgstr "Округ / штат"
+
+#: post-types/property-post-type.php:205
+msgid "Add Property County / State"
+msgstr "Додати власність округу / штату"
+
+#: post-types/property-post-type.php:206
+msgid "New Property County / State"
+msgstr "Нове майно округу / держава"
+
+#: post-types/property-post-type.php:222
+msgid "Labels"
+msgstr "Етикетки"
+
+#: post-types/property-post-type.php:223
+msgid "Add New Label"
+msgstr "Додати нову мітку"
+
+#: post-types/property-post-type.php:224
+msgid "New Label"
+msgstr "Нова етикетка"
+
+#: post-types/property-post-type.php:253 statistics/houzez-statistics.php:113
+#: statistics/houzez-statistics.php:190 statistics/houzez-statistics.php:238
+#: statistics/houzez-statistics.php:318
+msgid "Property Title"
+msgstr "Назва майна"
+
+#: post-types/property-post-type.php:259 statistics/houzez-statistics.php:120
+#: statistics/houzez-statistics.php:197 statistics/houzez-statistics.php:245
+#: statistics/houzez-statistics.php:325
+msgid "Property ID"
+msgstr "Ідентифікатор ресурсу"
+
+#: post-types/property-post-type.php:260
+msgid "Featured"
+msgstr "Рекомендовані"
+
+#: post-types/property-post-type.php:261
+msgid "Posted"
+msgstr "Опубліковано"
+
+#: post-types/property-post-type.php:262
+msgid "Expires"
+msgstr "Закінчується"
+
+#: post-types/property-post-type.php:263 statistics/houzez-statistics.php:122
+#: statistics/houzez-statistics.php:199 statistics/houzez-statistics.php:247
+#: statistics/houzez-statistics.php:327 statistics/houzez-statistics.php:355
+#: statistics/houzez-statistics.php:558
+msgid "Actions"
+msgstr "Дії"
+
+#: post-types/property-post-type.php:294 post-types/property-post-type.php:332
+#: post-types/property-post-type.php:341 post-types/property-post-type.php:350
+#: statistics/houzez-statistics.php:169 statistics/houzez-statistics.php:296
+msgid "NA"
+msgstr "Н.А."
+
+#: post-types/property-post-type.php:300
+msgid "No"
+msgstr "Немає"
+
+#: post-types/property-post-type.php:302
+msgid "Yes"
+msgstr "Так"
+
+#: post-types/property-post-type.php:314
+msgid "No Address Provided!"
+msgstr "Ніякої адреси не надано!"
+
+#: post-types/property-post-type.php:365
+msgid "Approve"
+msgstr "Затвердити"
+
+#: post-types/property-post-type.php:372
+msgid "Expire"
+msgstr "Закінчується"
+
+#: post-types/property-post-type.php:415
+msgid "by a guest"
+msgstr "гостем"
+
+#: post-types/property-post-type.php:415
+msgid "by %s"
+msgstr "на% s"
+
+#: post-types/property-post-type.php:503 post-types/property-post-type.php:540
+#: post-types/property-post-type.php:578
+msgid "Name"
+msgstr "Ім'я"
+
+#: post-types/property-post-type.php:506 post-types/property-post-type.php:543
+#: post-types/property-post-type.php:581
+msgid "Slug"
+msgstr "Слизень"
+
+#: post-types/property-post-type.php:507 post-types/property-post-type.php:544
+#: post-types/property-post-type.php:582
+msgid "Posts"
+msgstr "Повідомлення"
+
+#: post-types/property-post-type.php:541
+msgid "County/State"
+msgstr "Округ / штат"
+
+#: post-types/property-post-type.php:579 statistics/houzez-statistics.php:584
+msgid "Country"
+msgstr "Країна"
+
+#: post-types/property-post-type.php:751
+msgid "All Types"
+msgstr "Всі типи"
+
+#: post-types/property-post-type.php:786
+msgid "All Status"
+msgstr "Весь статус"
+
+#: post-types/property-post-type.php:821
+msgid "All Labels"
+msgstr "Усі етикетки"
+
+#: post-types/property-post-type.php:856
+msgid "All Cities"
+msgstr "Всі міста"
+
+#: post-types/testimonials-post-type.php:43
+msgid "Testimonials"
+msgstr "Відгуки"
+
+#: post-types/testimonials-post-type.php:44
+msgid "Testimonial"
+msgstr "Відгуки"
+
+#: post-types/testimonials-post-type.php:46
+msgid "Add New Testimonial"
+msgstr "Додати новий відгук"
+
+#: post-types/testimonials-post-type.php:47
+msgid "Edit Testimonial"
+msgstr "Редагувати відгук"
+
+#: post-types/testimonials-post-type.php:48
+msgid "New Testimonial"
+msgstr "Новий відгук"
+
+#: post-types/testimonials-post-type.php:49
+msgid "View Testimonial"
+msgstr "Переглянути відгук"
+
+#: post-types/testimonials-post-type.php:51
+msgid "No Testimonial found"
+msgstr "Не знайдено жодного відгуку"
+
+#: post-types/testimonials-post-type.php:52
+msgid "No Testimonial found in Trash"
+msgstr "Немає коментарів у кошику"
+
+#: post-types/user-packages-post-type.php:31
+msgid "Users Package Info"
+msgstr "Пакетна інформація користувачів"
+
+#: post-types/user-packages-post-type.php:62
+msgid "Package Holder"
+msgstr "Власник пакета"
+
+#: post-types/user-packages-post-type.php:63
+msgid "Package"
+msgstr "Пакет"
+
+#: post-types/user-packages-post-type.php:64
+msgid "Available Listings"
+msgstr "Доступні списки"
+
+#: post-types/user-packages-post-type.php:65
+msgid "Featured Available"
+msgstr "Популярні Доступні"
+
+#: post-types/user-packages-post-type.php:66
+msgid "Activation"
+msgstr "Активація"
+
+#: post-types/user-packages-post-type.php:67
+msgid "Expiry"
+msgstr "Термін дії"
+
+#: statistics/houzez-statistics.php:9
+msgid "Houzez Statistics"
+msgstr "Статистика Houzez"
+
+#: statistics/houzez-statistics.php:10 statistics/houzez-statistics.php:108
+msgid "Most Viewed Properties"
+msgstr "Найпопулярніші властивості"
+
+#: statistics/houzez-statistics.php:10
+msgid "Most Viewed"
+msgstr "Найбільше переглянуті"
+
+#: statistics/houzez-statistics.php:11 statistics/houzez-statistics.php:233
+msgid "Most Favourite Properties"
+msgstr "Найпопулярніші властивості"
+
+#: statistics/houzez-statistics.php:11
+msgid "Most Favourite"
+msgstr "Найпопулярніший"
+
+#: statistics/houzez-statistics.php:12 statistics/houzez-statistics.php:348
+msgid "Saved Searches"
+msgstr "Збережені пошуки"
+
+#: statistics/houzez-statistics.php:40 statistics/houzez-statistics.php:95
+#: statistics/houzez-statistics.php:215 statistics/houzez-statistics.php:343
+#: statistics/houzez-statistics.php:574
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Ви не маєте достатньо прав для доступу до цієї сторінки."
+
+#: statistics/houzez-statistics.php:48
+msgid "Houzez Statistic"
+msgstr "Статистика Houzez"
+
+#: statistics/houzez-statistics.php:52 statistics/houzez-statistics.php:78
+msgid "Total Views Today"
+msgstr "Усього переглядів сьогодні"
+
+#: statistics/houzez-statistics.php:54
+msgid "Users"
+msgstr "Користувачі"
+
+#: statistics/houzez-statistics.php:59
+msgid "Buyers"
+msgstr "Покупці"
+
+#: statistics/houzez-statistics.php:65
+msgid "Sellers"
+msgstr "Продавці"
+
+#: statistics/houzez-statistics.php:68
+msgid "Owners"
+msgstr "Власники"
+
+#: statistics/houzez-statistics.php:71
+msgid "Managers"
+msgstr "Менеджери"
+
+#: statistics/houzez-statistics.php:121 statistics/houzez-statistics.php:198
+msgid "Views Count"
+msgstr "Кількість переглядів"
+
+#: statistics/houzez-statistics.php:177 statistics/houzez-statistics.php:304
+#: statistics/houzez-statistics.php:541
+msgid "View"
+msgstr "Вид"
+
+#: statistics/houzez-statistics.php:246
+msgid "Favourite Count "
+msgstr "Улюблений граф"
+
+#: statistics/houzez-statistics.php:326
+msgid "Favourite Count"
+msgstr "Улюблений граф"
+
+#: statistics/houzez-statistics.php:353 statistics/houzez-statistics.php:556
+msgid "Search Query"
+msgstr "Пошуковий запит"
+
+#: statistics/houzez-statistics.php:402 statistics/houzez-statistics.php:582
+msgid "Location"
+msgstr "Місцезнаходження"
+
+#: statistics/houzez-statistics.php:434 statistics/houzez-statistics.php:583
+msgid "State"
+msgstr "Держава"
+
+#: statistics/houzez-statistics.php:494
+msgid "Bedrooms"
+msgstr "Спальні"
+
+#: statistics/houzez-statistics.php:499
+msgid "Bathrooms"
+msgstr "Ванні кімнати"
+
+#: statistics/houzez-statistics.php:517 statistics/houzez-statistics.php:520
+msgid "Size"
+msgstr "Розмір"
+
+#: statistics/houzez-statistics.php:548
+msgid "No Search found"
+msgstr "Пошук не знайдено"
+
+#: statistics/houzez-statistics.php:578
+msgid "Min Price"
+msgstr "Мінімальна ціна"
+
+#: statistics/houzez-statistics.php:579
+msgid "Max Price"
+msgstr "Макс. Ціна"
+
+#: statistics/houzez-statistics.php:585
+msgid "Area"
+msgstr "Площа"
+
+#: statistics/houzez-statistics.php:586
+msgid "Feature"
+msgstr "Особливість"
+
+#: statistics/houzez-statistics.php:587 statistics/houzez-statistics.php:588
+msgid "Max Size"
+msgstr "Макс. Розмір"
+
+#: statistics/houzez-statistics.php:589
+msgid "Bedroom"
+msgstr "Спальня"
+
+#: statistics/houzez-statistics.php:590
+msgid "Bathroom"
+msgstr "Ванна кімната"
+
+#: statistics/houzez-statistics.php:596
+msgid "Houzez Searches"
+msgstr "Пошук Houzez"
+
+#: statistics/houzez-statistics.php:601
+msgid "Search Keyworks"
+msgstr "Пошукові ключі"
+
+#: vc_shortcodes/properties.php:93
+msgid "Load More"
+msgstr "Завантажити ще"

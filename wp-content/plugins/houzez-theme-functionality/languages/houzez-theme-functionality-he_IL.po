@@ -1,0 +1,858 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"Project-Id-Version: Houzez Theme Functionality Plugin\n"
+"Language: he\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: classes/class-settings.php:53
+msgid "Portfolio Settings"
+msgstr "הגדרות תיקיות"
+
+#: classes/class-settings.php:54
+msgid "Settings"
+msgstr "הגדרות"
+
+#: classes/class-settings.php:83
+msgid "Permalinks"
+msgstr "קישורים קבועים"
+
+#: classes/class-settings.php:86
+msgid "Property Slug"
+msgstr "נכס שבלול"
+
+#: classes/class-settings.php:87
+msgid "Property Type Slug"
+msgstr "סוג נכס שבלול"
+
+#: classes/class-settings.php:88
+msgid "Property Feature Slug"
+msgstr "תכונה תכונה Slug"
+
+#: classes/class-settings.php:89
+msgid "Property Status Slug"
+msgstr "מצב הנכס שבלול"
+
+#: classes/class-settings.php:90
+msgid "Property Area Slug"
+msgstr "שטח מאפיין"
+
+#: classes/class-settings.php:91
+msgid "Property City Slug"
+msgstr "נכס סיטי שבלול"
+
+#: classes/class-settings.php:92
+msgid "Property State Slug"
+msgstr "נכס המדינה שבלול"
+
+#: classes/class-settings.php:105
+msgid "Set up custom permalinks for the property section on your site."
+msgstr "הגדר קישורים קבועים מותאמים אישית עבור מקטע המאפיינים באתר שלך."
+
+#: classes/class-settings.php:236
+msgid "Properties Settings"
+msgstr "הגדרות מאפיינים"
+
+#: classes/class-settings.php:243
+msgid "Update Settings"
+msgstr "עדכן הגדרות"
+
+#: functions.php:30
+msgid "Activated Successfully, reload page!"
+msgstr "הופעל בהצלחה, טען מחדש את הדף!"
+
+#: functions.php:32
+msgid "Invalid license key"
+msgstr "מפתח רישיון לא חוקי"
+
+#: post-types/agency-post-type.php:36 post-types/agency-post-type.php:42
+#: post-types/agency-post-type.php:48 statistics/houzez-statistics.php:62
+msgid "Agencies"
+msgstr "סוכנויות"
+
+#: post-types/agency-post-type.php:37
+msgid "Agency"
+msgstr "סוֹכְנוּת"
+
+#: post-types/agency-post-type.php:38 post-types/agency-post-type.php:39
+msgid "Add New Agency"
+msgstr "הוסף סוכנות חדשה"
+
+#: post-types/agency-post-type.php:40
+msgid "Edit Agency"
+msgstr "ערוך את הסוכנות"
+
+#: post-types/agency-post-type.php:41
+msgid "New Agency"
+msgstr "הסוכנות החדשה"
+
+#: post-types/agency-post-type.php:43
+msgid "View Agency"
+msgstr "הצג את הסוכנות"
+
+#: post-types/agency-post-type.php:44
+msgid "Search Agency"
+msgstr "חיפוש הסוכנות"
+
+#: post-types/agency-post-type.php:45
+msgid "No agencies found"
+msgstr "לא נמצאו סוכנויות"
+
+#: post-types/agency-post-type.php:46
+msgid "No agencies found in Trash"
+msgstr "לא נמצאו סוכנויות ב- Trash"
+
+#: post-types/agency-post-type.php:79
+msgid "Agency ID"
+msgstr "מזהה הסוכנות"
+
+#: post-types/agency-post-type.php:80 post-types/user-packages-post-type.php:61
+msgid "Title"
+msgstr "כותרת"
+
+#: post-types/agency-post-type.php:81
+msgid "License"
+msgstr "רישיון"
+
+#: post-types/agency-post-type.php:82 post-types/property-post-type.php:254
+#: statistics/houzez-statistics.php:115 statistics/houzez-statistics.php:192
+#: statistics/houzez-statistics.php:240 statistics/houzez-statistics.php:320
+msgid "Thumbnail"
+msgstr "תמונה ממוזערת"
+
+#: post-types/agency-post-type.php:83 post-types/agent-post-type.php:115
+msgid "E-mail"
+msgstr "אֶלֶקטרוֹנִי"
+
+#: post-types/agency-post-type.php:84 post-types/agent-post-type.php:116
+msgid "Web"
+msgstr "אינטרנט"
+
+#: post-types/agency-post-type.php:85
+msgid "Phone"
+msgstr "טלפון"
+
+#: post-types/agency-post-type.php:86 post-types/agent-post-type.php:30
+#: statistics/houzez-statistics.php:56
+msgid "Agents"
+msgstr "סוכנים"
+
+#: post-types/agency-post-type.php:87
+msgid "Author"
+msgstr "מְחַבֵּר"
+
+#: post-types/agent-post-type.php:31
+msgid "Agent"
+msgstr "סוֹכֵן"
+
+#: post-types/agent-post-type.php:32 post-types/invoice-post-type.php:14
+#: post-types/partners-post-type.php:13 post-types/payments-post-type.php:13
+#: post-types/payments-post-type.php:14 post-types/property-post-type.php:53
+#: post-types/testimonials-post-type.php:45
+#: post-types/user-packages-post-type.php:33
+#: post-types/user-packages-post-type.php:34
+msgid "Add New"
+msgstr "הוסף חדש"
+
+#: post-types/agent-post-type.php:33
+msgid "Add New Agent"
+msgstr "הוסף סוכן חדש"
+
+#: post-types/agent-post-type.php:34
+msgid "Edit Agent"
+msgstr "ערוך את הסוכן"
+
+#: post-types/agent-post-type.php:35
+msgid "New Agent"
+msgstr "סוכן חדש"
+
+#: post-types/agent-post-type.php:36
+msgid "View Agent"
+msgstr "הצג סוכן"
+
+#: post-types/agent-post-type.php:37 post-types/testimonials-post-type.php:50
+msgid "Search Agent"
+msgstr "חיפוש סוכן"
+
+#: post-types/agent-post-type.php:38
+msgid "No Agent found"
+msgstr "לא נמצא סוכן"
+
+#: post-types/agent-post-type.php:39
+msgid "No Agent found in Trash"
+msgstr "לא נמצא סוכן ב- Trash"
+
+#: post-types/agent-post-type.php:70
+msgid "Categories"
+msgstr "קטגוריות"
+
+#: post-types/agent-post-type.php:71
+msgid "Add New Category"
+msgstr "הוסף קטגוריה חדשה"
+
+#: post-types/agent-post-type.php:72
+msgid "New Category"
+msgstr "קטגוריה חדשה"
+
+#: post-types/agent-post-type.php:88
+msgid "Cities"
+msgstr "ערים"
+
+#: post-types/agent-post-type.php:89 post-types/property-post-type.php:168
+msgid "Add New City"
+msgstr "הוסף עיר חדשה"
+
+#: post-types/agent-post-type.php:90 post-types/property-post-type.php:169
+msgid "New City"
+msgstr "עיר חדשה"
+
+#: post-types/agent-post-type.php:111
+msgid "Agent ID"
+msgstr "מזהה סוכן"
+
+#: post-types/agent-post-type.php:112
+msgid "Agent Name"
+msgstr "שם סוכן"
+
+#: post-types/agent-post-type.php:113
+msgid "Picture"
+msgstr "תְמוּנָה"
+
+#: post-types/agent-post-type.php:114
+msgid "Category"
+msgstr "קטגוריה"
+
+#: post-types/agent-post-type.php:117
+msgid "Mobile"
+msgstr "נייד"
+
+#: post-types/invoice-post-type.php:12
+msgid "Houzez Invoices"
+msgstr "חשבוניות Houzez"
+
+#: post-types/invoice-post-type.php:13
+msgid "Houzez Invoice"
+msgstr "חשבונית Houzez"
+
+#: post-types/invoice-post-type.php:15
+msgid "Add New Invoice"
+msgstr "הוסף חשבונית חדשה"
+
+#: post-types/invoice-post-type.php:16
+msgid "Edit Invoice"
+msgstr "ערוך חשבונית"
+
+#: post-types/invoice-post-type.php:17
+msgid "New Invoice"
+msgstr "חשבונית חדשה"
+
+#: post-types/invoice-post-type.php:18
+msgid "View Invoice"
+msgstr "הצג את החשבונית"
+
+#: post-types/invoice-post-type.php:19
+msgid "Search Invoice"
+msgstr "חיפוש חשבונית"
+
+#: post-types/invoice-post-type.php:20
+msgid "No Invoice found"
+msgstr "לא נמצאה חשבונית"
+
+#: post-types/invoice-post-type.php:21
+msgid "No Invoice found in Trash"
+msgstr "לא נמצאה חשבונית באשפה"
+
+#: post-types/invoice-post-type.php:57
+msgid "Invoice Title"
+msgstr "כותרת חשבונית"
+
+#: post-types/invoice-post-type.php:58 post-types/payments-post-type.php:50
+#: post-types/property-post-type.php:258 statistics/houzez-statistics.php:119
+#: statistics/houzez-statistics.php:196 statistics/houzez-statistics.php:244
+#: statistics/houzez-statistics.php:324 statistics/houzez-statistics.php:506
+#: statistics/houzez-statistics.php:509
+msgid "Price"
+msgstr "מחיר"
+
+#: post-types/invoice-post-type.php:59
+msgid "Payment Method"
+msgstr "אמצעי תשלום"
+
+#: post-types/invoice-post-type.php:60 post-types/payments-post-type.php:53
+msgid "Buyer"
+msgstr "קוֹנֶה"
+
+#: post-types/invoice-post-type.php:61
+msgid "Buyer Email"
+msgstr "דוא\"ל קונה"
+
+#: post-types/invoice-post-type.php:62
+msgid "Invoice Type"
+msgstr "סוג חשבונית"
+
+#: post-types/invoice-post-type.php:63
+msgid "Billion For"
+msgstr "מיליארד עבור"
+
+#: post-types/invoice-post-type.php:64 post-types/payments-post-type.php:54
+#: post-types/property-post-type.php:148 post-types/property-post-type.php:257
+#: statistics/houzez-statistics.php:118 statistics/houzez-statistics.php:195
+#: statistics/houzez-statistics.php:243 statistics/houzez-statistics.php:323
+#: statistics/houzez-statistics.php:418 statistics/houzez-statistics.php:580
+msgid "Status"
+msgstr "סטָטוּס"
+
+#: post-types/invoice-post-type.php:65 post-types/payments-post-type.php:55
+msgid "Date"
+msgstr "תַאֲרִיך"
+
+#: post-types/invoice-post-type.php:87
+msgid "Direct Bank Transfer"
+msgstr "העברה בנקאית ישירה"
+
+#: post-types/invoice-post-type.php:114 post-types/payments-post-type.php:91
+msgid "Not Paid"
+msgstr "לא בתשלום"
+
+#: post-types/invoice-post-type.php:116 post-types/payments-post-type.php:93
+msgid "Paid"
+msgstr "בתשלום"
+
+#: post-types/membership-post-type.php:17
+msgid "Houzez Packages"
+msgstr "חבילות"
+
+#: post-types/membership-post-type.php:18
+#: post-types/user-packages-post-type.php:32
+msgid "Packages"
+msgstr "חבילות"
+
+#: post-types/membership-post-type.php:19
+msgid "Add New Package"
+msgstr "הוסף חבילה חדשה"
+
+#: post-types/membership-post-type.php:20
+msgid "Add Packages"
+msgstr "הוסף חבילות"
+
+#: post-types/membership-post-type.php:21
+msgid "Edit Packages"
+msgstr "עריכת חבילות"
+
+#: post-types/membership-post-type.php:22
+msgid "Edit Package"
+msgstr "ערוך את החבילה"
+
+#: post-types/membership-post-type.php:23
+msgid "New Packages"
+msgstr "חבילות חדשות"
+
+#: post-types/membership-post-type.php:24
+#: post-types/membership-post-type.php:25
+msgid "View Packages"
+msgstr "הצג חבילות"
+
+#: post-types/membership-post-type.php:26
+msgid "Search Packages"
+msgstr "חפש חבילות"
+
+#: post-types/membership-post-type.php:27
+#: post-types/membership-post-type.php:28
+msgid "No Packages found"
+msgstr "לא נמצאו חבילות"
+
+#: post-types/membership-post-type.php:29
+msgid "Parent Package"
+msgstr "חבילת האב"
+
+#: post-types/partners-post-type.php:11
+msgid "Partners"
+msgstr "שותפים"
+
+#: post-types/partners-post-type.php:12
+msgid "Partner"
+msgstr "בת זוג"
+
+#: post-types/partners-post-type.php:14
+msgid "Add New Partner"
+msgstr "הוסף שותף חדש"
+
+#: post-types/partners-post-type.php:15
+msgid "Edit Partner"
+msgstr "ערוך שותף"
+
+#: post-types/partners-post-type.php:16
+msgid "New Partner"
+msgstr "שותף חדש"
+
+#: post-types/partners-post-type.php:17
+msgid "View Partner"
+msgstr "הצג שותף"
+
+#: post-types/partners-post-type.php:18
+msgid "Search Partner"
+msgstr "חפש שותף"
+
+#: post-types/partners-post-type.php:19
+msgid "No Partner found"
+msgstr "לא נמצא שותף"
+
+#: post-types/partners-post-type.php:20
+msgid "No Partner found in Trash"
+msgstr "לא נמצא שותף באשפה"
+
+#: post-types/payments-post-type.php:11
+msgid "Houzez Payments"
+msgstr "תשלומים"
+
+#: post-types/payments-post-type.php:12
+msgid "Payment"
+msgstr "תַשְׁלוּם"
+
+#: post-types/payments-post-type.php:49
+msgid "Payment Title"
+msgstr "כותרת תשלום"
+
+#: post-types/payments-post-type.php:51
+msgid "Payment Type"
+msgstr "סוג תשלום"
+
+#: post-types/payments-post-type.php:52
+msgid "Payment For"
+msgstr "תשלום עבור"
+
+#: post-types/payments-post-type.php:133
+msgid "Recurring"
+msgstr "מַחזוֹרִי"
+
+#: post-types/payments-post-type.php:135
+msgid "One Time"
+msgstr "פעם אחת"
+
+#: post-types/property-post-type.php:50
+msgid "Properties"
+msgstr "נכסים"
+
+#: post-types/property-post-type.php:51
+msgid "Property"
+msgstr "נכס"
+
+#: post-types/property-post-type.php:52
+msgid "Add New Property"
+msgstr "הוסף נכס חדש"
+
+#: post-types/property-post-type.php:54
+msgid "Edit Property"
+msgstr "ערוך נכס"
+
+#: post-types/property-post-type.php:55
+msgid "New Property"
+msgstr "נכס חדש"
+
+#: post-types/property-post-type.php:56
+msgid "View Property"
+msgstr "הצג נכס"
+
+#: post-types/property-post-type.php:57
+msgid "Search Property"
+msgstr "חיפוש נכס"
+
+#: post-types/property-post-type.php:58 statistics/houzez-statistics.php:183
+#: statistics/houzez-statistics.php:311
+msgid "No Property found"
+msgstr "לא נמצא נכס"
+
+#: post-types/property-post-type.php:59
+msgid "No Property found in Trash"
+msgstr "לא נמצא נכס באשפה"
+
+#: post-types/property-post-type.php:111 post-types/property-post-type.php:256
+#: statistics/houzez-statistics.php:117 statistics/houzez-statistics.php:194
+#: statistics/houzez-statistics.php:242 statistics/houzez-statistics.php:322
+#: statistics/houzez-statistics.php:410 statistics/houzez-statistics.php:581
+msgid "Type"
+msgstr "סוּג"
+
+#: post-types/property-post-type.php:112
+msgid "Add New Type"
+msgstr "הוסף סוג חדש"
+
+#: post-types/property-post-type.php:113
+msgid "New Type"
+msgstr "סוג חדש"
+
+#: post-types/property-post-type.php:130
+msgid "Features"
+msgstr "מאפיינים"
+
+#: post-types/property-post-type.php:131
+msgid "Add New Feature"
+msgstr "הוסף תכונה חדשה"
+
+#: post-types/property-post-type.php:132
+msgid "New Feature"
+msgstr "תכונה חדשה"
+
+#: post-types/property-post-type.php:149
+msgid "Add New Status"
+msgstr "הוסף סטטוס חדש"
+
+#: post-types/property-post-type.php:150
+msgid "New Status"
+msgstr "סטטוס חדש"
+
+#: post-types/property-post-type.php:167 post-types/property-post-type.php:255
+#: post-types/property-post-type.php:504 statistics/houzez-statistics.php:116
+#: statistics/houzez-statistics.php:193 statistics/houzez-statistics.php:241
+#: statistics/houzez-statistics.php:321
+msgid "City"
+msgstr "עִיר"
+
+#: post-types/property-post-type.php:186 statistics/houzez-statistics.php:426
+msgid "Neighborhood"
+msgstr "שְׁכוּנָה"
+
+#: post-types/property-post-type.php:187
+msgid "Add Property Neighborhood"
+msgstr "הוסף שכונה"
+
+#: post-types/property-post-type.php:188
+msgid "New Property Neighborhood"
+msgstr "שכונה חדשה"
+
+#: post-types/property-post-type.php:204
+msgid "County / State"
+msgstr "מחוז / מדינה"
+
+#: post-types/property-post-type.php:205
+msgid "Add Property County / State"
+msgstr "הוסף נכס קאונטי / המדינה"
+
+#: post-types/property-post-type.php:206
+msgid "New Property County / State"
+msgstr "נכס חדש קאונטי / המדינה"
+
+#: post-types/property-post-type.php:222
+msgid "Labels"
+msgstr "תוויות"
+
+#: post-types/property-post-type.php:223
+msgid "Add New Label"
+msgstr "הוסף תווית חדשה"
+
+#: post-types/property-post-type.php:224
+msgid "New Label"
+msgstr "תווית חדשה"
+
+#: post-types/property-post-type.php:253 statistics/houzez-statistics.php:113
+#: statistics/houzez-statistics.php:190 statistics/houzez-statistics.php:238
+#: statistics/houzez-statistics.php:318
+msgid "Property Title"
+msgstr "כותרת הנכס"
+
+#: post-types/property-post-type.php:259 statistics/houzez-statistics.php:120
+#: statistics/houzez-statistics.php:197 statistics/houzez-statistics.php:245
+#: statistics/houzez-statistics.php:325
+msgid "Property ID"
+msgstr "מזהה נכס"
+
+#: post-types/property-post-type.php:260
+msgid "Featured"
+msgstr "מומלצים"
+
+#: post-types/property-post-type.php:261
+msgid "Posted"
+msgstr "פורסם"
+
+#: post-types/property-post-type.php:262
+msgid "Expires"
+msgstr "יפוג"
+
+#: post-types/property-post-type.php:263 statistics/houzez-statistics.php:122
+#: statistics/houzez-statistics.php:199 statistics/houzez-statistics.php:247
+#: statistics/houzez-statistics.php:327 statistics/houzez-statistics.php:355
+#: statistics/houzez-statistics.php:558
+msgid "Actions"
+msgstr "פעולות"
+
+#: post-types/property-post-type.php:294 post-types/property-post-type.php:332
+#: post-types/property-post-type.php:341 post-types/property-post-type.php:350
+#: statistics/houzez-statistics.php:169 statistics/houzez-statistics.php:296
+msgid "NA"
+msgstr "NA"
+
+#: post-types/property-post-type.php:300
+msgid "No"
+msgstr "לא"
+
+#: post-types/property-post-type.php:302
+msgid "Yes"
+msgstr "כן"
+
+#: post-types/property-post-type.php:314
+msgid "No Address Provided!"
+msgstr "אין כתובת מסופקת!"
+
+#: post-types/property-post-type.php:365
+msgid "Approve"
+msgstr "לְאַשֵׁר"
+
+#: post-types/property-post-type.php:372
+msgid "Expire"
+msgstr "לָפוּג"
+
+#: post-types/property-post-type.php:415
+msgid "by a guest"
+msgstr "על ידי אורח"
+
+#: post-types/property-post-type.php:415
+msgid "by %s"
+msgstr "% s"
+
+#: post-types/property-post-type.php:503 post-types/property-post-type.php:540
+#: post-types/property-post-type.php:578
+msgid "Name"
+msgstr "שֵׁם"
+
+#: post-types/property-post-type.php:506 post-types/property-post-type.php:543
+#: post-types/property-post-type.php:581
+msgid "Slug"
+msgstr "שבלול"
+
+#: post-types/property-post-type.php:507 post-types/property-post-type.php:544
+#: post-types/property-post-type.php:582
+msgid "Posts"
+msgstr "הודעות"
+
+#: post-types/property-post-type.php:541
+msgid "County/State"
+msgstr "מחוז / מדינה"
+
+#: post-types/property-post-type.php:579 statistics/houzez-statistics.php:584
+msgid "Country"
+msgstr "מדינה"
+
+#: post-types/property-post-type.php:751
+msgid "All Types"
+msgstr "כל הסוגים"
+
+#: post-types/property-post-type.php:786
+msgid "All Status"
+msgstr "כל הסטטוס"
+
+#: post-types/property-post-type.php:821
+msgid "All Labels"
+msgstr "כל התוויות"
+
+#: post-types/property-post-type.php:856
+msgid "All Cities"
+msgstr "כל הערים"
+
+#: post-types/testimonials-post-type.php:43
+msgid "Testimonials"
+msgstr "עדויות"
+
+#: post-types/testimonials-post-type.php:44
+msgid "Testimonial"
+msgstr "תְעוּדַת הוֹקָרָה"
+
+#: post-types/testimonials-post-type.php:46
+msgid "Add New Testimonial"
+msgstr "הוסף המלצה חדשה"
+
+#: post-types/testimonials-post-type.php:47
+msgid "Edit Testimonial"
+msgstr "ערוך המלצה"
+
+#: post-types/testimonials-post-type.php:48
+msgid "New Testimonial"
+msgstr "עדות חדשה"
+
+#: post-types/testimonials-post-type.php:49
+msgid "View Testimonial"
+msgstr "הצג המלצה"
+
+#: post-types/testimonials-post-type.php:51
+msgid "No Testimonial found"
+msgstr "לא נמצאה המלצה"
+
+#: post-types/testimonials-post-type.php:52
+msgid "No Testimonial found in Trash"
+msgstr "לא נמצאו המלצות באשפה"
+
+#: post-types/user-packages-post-type.php:31
+msgid "Users Package Info"
+msgstr "מידע על משתמשים"
+
+#: post-types/user-packages-post-type.php:62
+msgid "Package Holder"
+msgstr "מחזיק החבילה"
+
+#: post-types/user-packages-post-type.php:63
+msgid "Package"
+msgstr "חֲבִילָה"
+
+#: post-types/user-packages-post-type.php:64
+msgid "Available Listings"
+msgstr "רישומים זמינים"
+
+#: post-types/user-packages-post-type.php:65
+msgid "Featured Available"
+msgstr "מוצעים זמין"
+
+#: post-types/user-packages-post-type.php:66
+msgid "Activation"
+msgstr "הַפעָלָה"
+
+#: post-types/user-packages-post-type.php:67
+msgid "Expiry"
+msgstr "תְפוּגָה"
+
+#: statistics/houzez-statistics.php:9
+msgid "Houzez Statistics"
+msgstr "סטטיסטיקה"
+
+#: statistics/houzez-statistics.php:10 statistics/houzez-statistics.php:108
+msgid "Most Viewed Properties"
+msgstr "הנכסים הנצפים ביותר"
+
+#: statistics/houzez-statistics.php:10
+msgid "Most Viewed"
+msgstr "הכי נצפה"
+
+#: statistics/houzez-statistics.php:11 statistics/houzez-statistics.php:233
+msgid "Most Favourite Properties"
+msgstr "המאפיינים המועדפים ביותר"
+
+#: statistics/houzez-statistics.php:11
+msgid "Most Favourite"
+msgstr "הכי מועדף"
+
+#: statistics/houzez-statistics.php:12 statistics/houzez-statistics.php:348
+msgid "Saved Searches"
+msgstr "חיפושים שמורים"
+
+#: statistics/houzez-statistics.php:40 statistics/houzez-statistics.php:95
+#: statistics/houzez-statistics.php:215 statistics/houzez-statistics.php:343
+#: statistics/houzez-statistics.php:574
+msgid "You do not have sufficient permissions to access this page."
+msgstr "אין לך הרשאות מספיקות כדי לגשת לדף זה."
+
+#: statistics/houzez-statistics.php:48
+msgid "Houzez Statistic"
+msgstr "הסטטיסטיקה של הוזיז"
+
+#: statistics/houzez-statistics.php:52 statistics/houzez-statistics.php:78
+msgid "Total Views Today"
+msgstr "סה\"כ צפיות היום"
+
+#: statistics/houzez-statistics.php:54
+msgid "Users"
+msgstr "משתמשים"
+
+#: statistics/houzez-statistics.php:59
+msgid "Buyers"
+msgstr "קונים"
+
+#: statistics/houzez-statistics.php:65
+msgid "Sellers"
+msgstr "המוכרים"
+
+#: statistics/houzez-statistics.php:68
+msgid "Owners"
+msgstr "בעלים"
+
+#: statistics/houzez-statistics.php:71
+msgid "Managers"
+msgstr "מנהלים"
+
+#: statistics/houzez-statistics.php:121 statistics/houzez-statistics.php:198
+msgid "Views Count"
+msgstr "מספר הצפיות"
+
+#: statistics/houzez-statistics.php:177 statistics/houzez-statistics.php:304
+#: statistics/houzez-statistics.php:541
+msgid "View"
+msgstr "נוף"
+
+#: statistics/houzez-statistics.php:246
+msgid "Favourite Count "
+msgstr "ספירה מועדפת"
+
+#: statistics/houzez-statistics.php:326
+msgid "Favourite Count"
+msgstr "ספירה מועדפת"
+
+#: statistics/houzez-statistics.php:353 statistics/houzez-statistics.php:556
+msgid "Search Query"
+msgstr "שאילתת חיפוש"
+
+#: statistics/houzez-statistics.php:402 statistics/houzez-statistics.php:582
+msgid "Location"
+msgstr "מקום"
+
+#: statistics/houzez-statistics.php:434 statistics/houzez-statistics.php:583
+msgid "State"
+msgstr "מדינה"
+
+#: statistics/houzez-statistics.php:494
+msgid "Bedrooms"
+msgstr "חדרי שינה"
+
+#: statistics/houzez-statistics.php:499
+msgid "Bathrooms"
+msgstr "חדרי אמבטיה"
+
+#: statistics/houzez-statistics.php:517 statistics/houzez-statistics.php:520
+msgid "Size"
+msgstr "גודל"
+
+#: statistics/houzez-statistics.php:548
+msgid "No Search found"
+msgstr "לא נמצא חיפוש"
+
+#: statistics/houzez-statistics.php:578
+msgid "Min Price"
+msgstr "מחיר מינימום"
+
+#: statistics/houzez-statistics.php:579
+msgid "Max Price"
+msgstr "מחיר מקסימלי"
+
+#: statistics/houzez-statistics.php:585
+msgid "Area"
+msgstr "אֵזוֹר"
+
+#: statistics/houzez-statistics.php:586
+msgid "Feature"
+msgstr "תכונה"
+
+#: statistics/houzez-statistics.php:587 statistics/houzez-statistics.php:588
+msgid "Max Size"
+msgstr "גודל מקסימלי"
+
+#: statistics/houzez-statistics.php:589
+msgid "Bedroom"
+msgstr "חדר שינה"
+
+#: statistics/houzez-statistics.php:590
+msgid "Bathroom"
+msgstr "חדר אמבטיה"
+
+#: statistics/houzez-statistics.php:596
+msgid "Houzez Searches"
+msgstr "חיפושים"
+
+#: statistics/houzez-statistics.php:601
+msgid "Search Keyworks"
+msgstr "מילות מפתח לחיפוש"
+
+#: vc_shortcodes/properties.php:93
+msgid "Load More"
+msgstr "טען עוד"

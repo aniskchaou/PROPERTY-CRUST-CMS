@@ -1,0 +1,8 @@
+ul.houzez-sortable-css li.ui-sortable-handle {
+    background-color: #333333;
+    margin-top: 5px;
+    padding: 10px 6px;
+    color: #fff;
+    vertical-align: middle;
+    cursor: pointer;
+}
